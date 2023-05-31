@@ -7,7 +7,7 @@
     "packs": [
         {
             "name": "Dimetria Bestiary",
-            "label": "dimetria-bestiary",
+            "label": "Dimetria Bestiary",
             "type": "Actor",
             "system": "pf2e",
             "path": "packs/dimetria-bestiary.db",
@@ -16,7 +16,7 @@
         },
         {
             "name": "Dimetria Feats",
-            "label": "dimetria-feats",
+            "label": "Dimetria Feats",
             "type": "Item",
             "system": "pf2e",
             "path": "packs/dimetria-feats.db",
@@ -25,7 +25,7 @@
         },
         {
             "name": "Dimetria Spells",
-            "label": "dimetria-spells",
+            "label": "Dimetria Spells",
             "type": "Item",
             "system": "pf2e",
             "path": "packs/dimetria-spells.db",
@@ -34,7 +34,7 @@
         },
         {
             "name": "Dimetria Maps",
-            "label": "dimetria-maps",
+            "label": "Dimetria Maps",
             "type": "Scene",
             "path": "packs/dimetria-maps.db",
             "entity": "Scene",
@@ -42,7 +42,7 @@
         },
         {
             "name": "Dimetria Ancestries",
-            "label": "dimetria-ancestries",
+            "label": "Dimetria Ancestries",
             "type": "Item",
             "system": "pf2e",
             "path": "packs/dimetria-ancestries.db",
@@ -51,7 +51,7 @@
         },
         {
             "name": "Dimetria Features",
-            "label": "dimetria-features",
+            "label": "Dimetria Features",
             "type": "Item",
             "system": "pf2e",
             "path": "packs/dimetria-features.db",
@@ -60,7 +60,7 @@
         },
         {
             "name": "Dimetria Heritages",
-            "label": "dimetria-heritages",
+            "label": "Dimetria Heritages",
             "type": "Item",
             "system": "pf2e",
             "path": "packs/dimetria-heritages.db",
@@ -69,7 +69,7 @@
         },
         {
             "name": "Dimetria Equipment",
-            "label": "dimetria-equipment",
+            "label": "Dimetria Equipment",
             "type": "Item",
             "system": "pf2e",
             "path": "packs/dimetria-equipment.db",
@@ -78,7 +78,7 @@
         },
         {
             "name": "Dimetria Effects",
-            "label": "dimetria-effects",
+            "label": "Dimetria Effects",
             "type": "Item",
             "system": "pf2e",
             "path": "packs/dimetria-effects.db",
@@ -87,7 +87,7 @@
         },
         {
             "name": "Dimetria Actions",
-            "label": "dimetria-actions",
+            "label": "Dimetria Actions",
             "type": "Item",
             "system": "pf2e",
             "path": "packs/dimetria-actions.db",
@@ -96,7 +96,7 @@
         },
         {
             "name": "Dimetria Backgrounds",
-            "label": "dimetria-backgrounds",
+            "label": "Dimetria Backgrounds",
             "type": "Item",
             "system": "pf2e",
             "path": "packs/dimetria-backgrounds.db",
@@ -105,7 +105,7 @@
         },
         {
             "name": "Dimetria Adventures",
-            "label": "dimetria-adventures",
+            "label": "Dimetria Adventures",
             "type": "Adventure",
             "system": "pf2e",
             "path": "packs/dimetria-adventures.db",
@@ -114,7 +114,7 @@
         },
         {
             "name": "Dimetria NPC Adjustments",
-            "label": "dimetria-npc-adjustments",
+            "label": "Dimetria npc Adjustments",
             "type": "Item",
             "system": "pf2e",
             "path": "packs/dimetria-npc-adjustments.db",
@@ -123,7 +123,7 @@
         },
         {
             "name": "Dimetria NPCs",
-            "label": "dimetria-npcs",
+            "label": "Dimetria NPCs",
             "type": "Actor",
             "system": "pf2e",
             "path": "packs/dimetria-npcs.db",
@@ -143,7 +143,7 @@
         "minimum": 9,
         "verified": 10
     },
-    "version": "1.1",
+    "version": "1.1.1",
 	"manifest": "https://raw.githubusercontent.com/POTTRPG/pf2e-dimetria/main/module.json",
     "download": "https://github.com/POTTRPG/pf2e-dimetria/archive/refs/heads/main.zip"
 	
