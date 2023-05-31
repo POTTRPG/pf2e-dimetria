@@ -1,0 +1,146 @@
+{
+    "name": "the-crossroads",
+    "title": "The Crossroads",
+    "author": "Steven Allyn Taylor",
+    "description": "",
+    "packs": [
+        {
+            "name": "dimetria-bestiary",
+            "label": "dimetria-bestiary",
+            "type": "Actor",
+            "system": "pf2e",
+            "path": "packs/dimetria-bestiary.db",
+            "entity": "Actor",
+            "module": "the-crossroads"
+        },
+        {
+            "name": "dimetria-feats",
+            "label": "dimetria-feats",
+            "type": "Item",
+            "system": "pf2e",
+            "path": "packs/dimetria-feats.db",
+            "entity": "Item",
+            "module": "the-crossroads"
+        },
+        {
+            "name": "dimetria-spells",
+            "label": "dimetria-spells",
+            "type": "Item",
+            "system": "pf2e",
+            "path": "packs/dimetria-spells.db",
+            "entity": "Item",
+            "module": "the-crossroads"
+        },
+        {
+            "name": "dimetria-maps",
+            "label": "dimetria-maps",
+            "type": "Scene",
+            "path": "packs/dimetria-maps.db",
+            "entity": "Scene",
+            "module": "the-crossroads"
+        },
+        {
+            "name": "dimetria-ancestries",
+            "label": "dimetria-ancestries",
+            "type": "Item",
+            "system": "pf2e",
+            "path": "packs/dimetria-ancestries.db",
+            "entity": "Item",
+            "module": "the-crossroads"
+        },
+        {
+            "name": "dimetria-features",
+            "label": "dimetria-features",
+            "type": "Item",
+            "system": "pf2e",
+            "path": "packs/dimetria-features.db",
+            "entity": "Item",
+            "module": "the-crossroads"
+        },
+        {
+            "name": "dimetria-heritages",
+            "label": "dimetria-heritages",
+            "type": "Item",
+            "system": "pf2e",
+            "path": "packs/dimetria-heritages.db",
+            "entity": "Item",
+            "module": "the-crossroads"
+        },
+        {
+            "name": "dimetria-equipment",
+            "label": "dimetria-equipment",
+            "type": "Item",
+            "system": "pf2e",
+            "path": "packs/dimetria-equipment.db",
+            "entity": "Item",
+            "module": "the-crossroads"
+        },
+        {
+            "name": "dimetria-effects",
+            "label": "dimetria-effects",
+            "type": "Item",
+            "system": "pf2e",
+            "path": "packs/dimetria-effects.db",
+            "entity": "Item",
+            "module": "the-crossroads"
+        },
+        {
+            "name": "dimetria-actions",
+            "label": "dimetria-actions",
+            "type": "Item",
+            "system": "pf2e",
+            "path": "packs/dimetria-actions.db",
+            "entity": "Item",
+            "module": "the-crossroads"
+        },
+        {
+            "name": "dimetria-backgrounds",
+            "label": "dimetria-backgrounds",
+            "type": "Item",
+            "system": "pf2e",
+            "path": "packs/dimetria-backgrounds.db",
+            "entity": "Item",
+            "module": "the-crossroads"
+        },
+        {
+            "name": "dimetria-adventures",
+            "label": "dimetria-adventures",
+            "type": "Adventure",
+            "system": "pf2e",
+            "path": "packs/dimetria-adventures.db",
+            "entity": "Adventure",
+            "module": "the-crossroads"
+        },
+        {
+            "name": "dimetria-npc-adjustments",
+            "label": "dimetria-npc-adjustments",
+            "type": "Item",
+            "system": "pf2e",
+            "path": "packs/dimetria-npc-adjustments.db",
+            "entity": "Item",
+            "module": "the-crossroads"
+        },
+        {
+            "name": "dimetria-npcs",
+            "label": "dimetria-npcs",
+            "type": "Actor",
+            "system": "pf2e",
+            "path": "packs/dimetria-npcs.db",
+            "entity": "Actor",
+            "module": "the-crossroads"
+        }
+    ],
+    "id": "the-crossroads",
+    "authors": [
+        {
+            "name": "Steven Allyn Taylor"
+        }
+    ],
+    "minimumCoreVersion": "0.8.0",
+    "compatibleCoreVersion": "9",
+    "compatibility": {
+        "minimum": 9,
+        "verified": 10
+    },
+    "version": "1.1"
+}
