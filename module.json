@@ -1,136 +1,136 @@
 {
-    "name": "the-crossroads",
-    "title": "The Crossroads",
+    "name": "dimetria",
+    "title": "PF2E Dimetria",
     "author": "Steven Allyn Taylor",
-    "description": "",
+    "description": "PF2E Homebrew content for the planet Dimetria. Also includes mappings to non-core bestiaries for token artwork.",
     "packs": [
         {
-            "name": "dimetria-bestiary",
+            "name": "Dimetria Bestiary",
             "label": "dimetria-bestiary",
             "type": "Actor",
             "system": "pf2e",
             "path": "packs/dimetria-bestiary.db",
             "entity": "Actor",
-            "module": "the-crossroads"
+            "module": "dimetria"
         },
         {
-            "name": "dimetria-feats",
+            "name": "Dimetria Feats",
             "label": "dimetria-feats",
             "type": "Item",
             "system": "pf2e",
             "path": "packs/dimetria-feats.db",
             "entity": "Item",
-            "module": "the-crossroads"
+            "module": "dimetria"
         },
         {
-            "name": "dimetria-spells",
+            "name": "Dimetria Spells",
             "label": "dimetria-spells",
             "type": "Item",
             "system": "pf2e",
             "path": "packs/dimetria-spells.db",
             "entity": "Item",
-            "module": "the-crossroads"
+            "module": "dimetria"
         },
         {
-            "name": "dimetria-maps",
+            "name": "Dimetria Maps",
             "label": "dimetria-maps",
             "type": "Scene",
             "path": "packs/dimetria-maps.db",
             "entity": "Scene",
-            "module": "the-crossroads"
+            "module": "dimetria"
         },
         {
-            "name": "dimetria-ancestries",
+            "name": "Dimetria Ancestries",
             "label": "dimetria-ancestries",
             "type": "Item",
             "system": "pf2e",
             "path": "packs/dimetria-ancestries.db",
             "entity": "Item",
-            "module": "the-crossroads"
+            "module": "dimetria"
         },
         {
-            "name": "dimetria-features",
+            "name": "Dimetria Features",
             "label": "dimetria-features",
             "type": "Item",
             "system": "pf2e",
             "path": "packs/dimetria-features.db",
             "entity": "Item",
-            "module": "the-crossroads"
+            "module": "dimetria"
         },
         {
-            "name": "dimetria-heritages",
+            "name": "Dimetria Heritages",
             "label": "dimetria-heritages",
             "type": "Item",
             "system": "pf2e",
             "path": "packs/dimetria-heritages.db",
             "entity": "Item",
-            "module": "the-crossroads"
+            "module": "dimetria"
         },
         {
-            "name": "dimetria-equipment",
+            "name": "Dimetria Equipment",
             "label": "dimetria-equipment",
             "type": "Item",
             "system": "pf2e",
             "path": "packs/dimetria-equipment.db",
             "entity": "Item",
-            "module": "the-crossroads"
+            "module": "dimetria"
         },
         {
-            "name": "dimetria-effects",
+            "name": "Dimetria Effects",
             "label": "dimetria-effects",
             "type": "Item",
             "system": "pf2e",
             "path": "packs/dimetria-effects.db",
             "entity": "Item",
-            "module": "the-crossroads"
+            "module": "dimetria"
         },
         {
-            "name": "dimetria-actions",
+            "name": "Dimetria Actions",
             "label": "dimetria-actions",
             "type": "Item",
             "system": "pf2e",
             "path": "packs/dimetria-actions.db",
             "entity": "Item",
-            "module": "the-crossroads"
+            "module": "dimetria"
         },
         {
-            "name": "dimetria-backgrounds",
+            "name": "Dimetria Backgrounds",
             "label": "dimetria-backgrounds",
             "type": "Item",
             "system": "pf2e",
             "path": "packs/dimetria-backgrounds.db",
             "entity": "Item",
-            "module": "the-crossroads"
+            "module": "dimetria"
         },
         {
-            "name": "dimetria-adventures",
+            "name": "Dimetria Adventures",
             "label": "dimetria-adventures",
             "type": "Adventure",
             "system": "pf2e",
             "path": "packs/dimetria-adventures.db",
             "entity": "Adventure",
-            "module": "the-crossroads"
+            "module": "dimetria"
         },
         {
-            "name": "dimetria-npc-adjustments",
+            "name": "Dimetria NPC Adjustments",
             "label": "dimetria-npc-adjustments",
             "type": "Item",
             "system": "pf2e",
             "path": "packs/dimetria-npc-adjustments.db",
             "entity": "Item",
-            "module": "the-crossroads"
+            "module": "dimetria"
         },
         {
-            "name": "dimetria-npcs",
+            "name": "Dimetria NPCs",
             "label": "dimetria-npcs",
             "type": "Actor",
             "system": "pf2e",
             "path": "packs/dimetria-npcs.db",
             "entity": "Actor",
-            "module": "the-crossroads"
+            "module": "dimetria"
         }
     ],
-    "id": "the-crossroads",
+    "id": "dimetria",
     "authors": [
         {
             "name": "Steven Allyn Taylor"
