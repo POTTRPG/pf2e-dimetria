@@ -1,1 +1,8 @@
-
+{
+	"abomination-vaults-bestiary": {
+		"3d3NAcPfvn07mcGN": {
+			"actor": "modules/pf2e-dimetria/assets/art/Fleshwarp_Irnakurse.png"
+			"token": "modules/pf2e-dimetria/assets/tokens/Fleshwarp_Irnakurse_Token.png"
+		}
+	}
+}
