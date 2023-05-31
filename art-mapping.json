@@ -1,5 +1,9 @@
 {
   "abomination-vaults-bestiary": {
+	"gUihlg28MEloIqE3": {
+      "actor": "modules/dimetria/assets/art/willowisp",
+      "token": "modules/dimetria/assets/tokens/willowisp_token.png"
+    },  
     "0jvmec4yJH1ASfRy": {
       "actor": "modules/dimetria/assets/abomination-vaults/bestiary-portraits/ch-08/urthagal.webp",
       "token": "modules/dimetria/assets/abomination-vaults/bestiary-tokens/ch-08/urthagal.webp"
