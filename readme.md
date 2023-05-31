@@ -8,7 +8,7 @@ If you would like to undertake a similar project, much of what this system inclu
 
 > 🛠️ Please note that the functionality of this project is not complete and there is plenty of work remaining.
 
-If you have any suggestions or feedback, please contact me on Discord at Hullsnipe#4635.
+If you have any suggestions or feedback, please contact me on Discord at Hullsnipe#4365.
 
 ## Licenses
 
