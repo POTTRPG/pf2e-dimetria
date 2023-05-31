@@ -4,6 +4,11 @@
     "author": "Steven Allyn Taylor",
 	"url": "https://github.com/POTTRPG/pf2e-dimetria",
     "description": "PF2E Homebrew content for the planet Dimetria. Also includes mappings to non-core bestiaries for token artwork.",
+	"flags"" {
+		"dimetria": {
+			"pf2e-art": "modules/dimetria/art-mapping.json"
+		}
+	}
     "packs": [
         {
             "name": "Dimetria Bestiary",
