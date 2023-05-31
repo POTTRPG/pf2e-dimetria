@@ -24,4 +24,4 @@ If you have any suggestions or feedback, please contact me on Discord at Hullsni
 
 **Virtual Table Top Platform Licenses:**
 
-- This content for Foundry Virtual Tabletop is licensed under the [Limited License Agreement for module development 09/02/2020](https://foundryvtt.com/article/license/).
+- This content for Foundry Virtual Tabletop is licensed under the [Limited License Agreement for Package Development March 2, 2023, Version 11.293](https://foundryvtt.com/article/license/).
