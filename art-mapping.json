@@ -1,5 +1,21 @@
 {
   "abomination-vaults-bestiary": {
+	"NXdpFypPPmRwYBT1": {
+      "actor": "modules/dimetria/assets/art/dune_candle.png",
+      "token": "modules/dimetria/assets/tokens/dune_candle_token.png"
+    },  
+	"3F3fPq5hFbej40T2": {
+      "actor": "modules/dimetria/assets/art/gibtas_swarm.png",
+      "token": "modules/dimetria/assets/tokens/gibtas_swarm_token.png"
+    },  
+	"YXF12ssz8tEh2YUe": {
+      "actor": "modules/dimetria/assets/art/dune_candle.png",
+      "token": "modules/dimetria/assets/tokens/dune_candle_token.png"
+    },  
+	"bfuIEdKBj9bhuOft": {
+      "actor": "modules/dimetria/assets/art/dune_candle.png",
+      "token": "modules/dimetria/assets/tokens/dune_candle_token.png"
+    },  
 	"gUihlg28MEloIqE3": {
       "actor": "modules/dimetria/assets/art/dune_candle.png",
       "token": "modules/dimetria/assets/tokens/dune_candle_token.png"
