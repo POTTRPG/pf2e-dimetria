@@ -766,6 +766,16 @@
       "token": "modules/dimetria/assets/abomination-vaults/bestiary-tokens/otari/morlibint.webp"
     }
   },
+  "age-of-ashes-bestiary": {
+    "ZqL6MP4XxDys9dmW": {
+      "actor": "modules/dimetria/assets/art/aiudara_wrath_spurned.png",
+      "token": "modules/dimetria/assets/tokens/aiudara_wrath_token.png"
+    },
+	"xrxjjjRMKzwsYbGm": {
+      "actor": "modules/dimetria/assets/art/accursed_forge_spurned.png",
+      "token": "modules/dimetria/assets/tokens/accursed_forge_spurned_token.png"
+    }
+  },  
   "pathfinder-bestiary-3": {
     "JkJRKxuIGJ3DOD9L": {
       "actor": "modules/dimetria/assets/abomination-vaults/bestiary-portraits/ch-08/owb.webp",
