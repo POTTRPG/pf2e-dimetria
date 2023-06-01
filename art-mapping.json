@@ -425,6 +425,138 @@
     }
   },
   "blood-lords-bestiary": {
+		"mfBLoIaSYNbmmtht": {
+            "actor": "modules/dimetria/assets/blood-lords/graveclaw/art/PZO90182_DRUSILLA.webp",
+            "token": "modules/dimetria/assets/blood-lords/graveclaw/tokens/bloodlords-drusilla-token.webp"
+        },
+        "0vCny4bIzIKehi5u": {
+            "actor": "modules/dimetria/assets/blood-lords/graveclaw/art/PZO90182_ARBOREAL_SNAG.webp",
+            "token": "modules/dimetria/assets/blood-lords/graveclaw/tokens/bloodlords-arboreal-snag-token.webp"
+        },
+        "DIDEV6UK5S5jQunK": {
+            "actor": "modules/dimetria/assets/blood-lords/graveclaw/art/PZO90182_ANIMATED_FIREPLACE.webp",
+            "token": "modules/dimetria/assets/blood-lords/graveclaw/tokens/bloodlords-animated-fireplace-token.webp"
+        },
+        "zrMBLTlxPCIwtwGo": {
+            "actor": "modules/dimetria/assets/blood-lords/graveclaw/art/IRON_TAVIAH_FINAL.webp",
+            "token": "modules/dimetria/assets/blood-lords/graveclaw/tokens/bloodlords-iron-taviah-token.webp"
+        },
+        "2uBSQl6CHkbAdzWo": {
+            "actor": "modules/dimetria/assets/blood-lords/graveclaw/art/PZO90182_HUNGRY_COTTAGE.webp",
+            "token": "modules/dimetria/assets/blood-lords/graveclaw/tokens/bloodlords-trap-token.webp"
+        },
+        "sySkOlAi825RpRrj": {
+            "actor": "modules/dimetria/assets/blood-lords/graveclaw/art/PZO2101%20HUMAN%20SAILOR.webp",
+            "token": "modules/dimetria/assets/blood-lords/graveclaw/tokens/bloodlords-human-sailor-token.webp"
+        },
+        "vYMWNYvaKYxKm2Jh": {
+            "actor": "modules/dimetria/assets/blood-lords/graveclaw/art/PZO90182_KAPOACINTH.webp",
+            "token": "modules/dimetria/assets/blood-lords/graveclaw/tokens/bloodlords-kapoacinth-token.webp"
+        },
+        "ZzRnrcSstcvJx5Dg": {
+            "actor": "modules/dimetria/assets/blood-lords/graveclaw/tokens/bloodlords-trap-token.webp",
+            "token": "modules/dimetria/assets/blood-lords/graveclaw/tokens/bloodlords-trap-token.webp"
+        },
+        "zYY1lFk4tole9Lx5": {
+            "actor": "modules/dimetria/assets/blood-lords/graveclaw/art/PZO90182_GHOUL_CROCODILE.webp",
+            "token": "modules/dimetria/assets/blood-lords/graveclaw/tokens/bloodlords-ghoul-crocodile-token.webp"
+        },
+        "SUTCBq10R5kEdvon": {
+            "actor": "modules/dimetria/assets/blood-lords/graveclaw/art/Zombie%20Chuul.webp",
+            "token": "modules/dimetria/assets/blood-lords/graveclaw/tokens/bloodlords-zombie-chuul-token.webp"
+        },
+        "Kq2dxvP4wqJJVzBr": {
+            "actor": "modules/dimetria/assets/blood-lords/graveclaw/art/Meat%20Guardian.webp",
+            "token": "modules/dimetria/assets/blood-lords/graveclaw/tokens/bloodlords-meat-guardian-token.webp"
+        },
+        "FiY8hCD5XoZjp9yX": {
+            "actor": "modules/dimetria/assets/blood-lords/graveclaw/art/Aquatic%20Ooze.webp",
+            "token": "modules/dimetria/assets/blood-lords/graveclaw/tokens/bloodlords-aquatic-ooze-token.webp"
+        },
+        "hQwP2F2CZfH1ZA0N": {
+            "actor": "modules/dimetria/assets/blood-lords/graveclaw/art/SAHNI_BRIDE-OF-THE-SEA_FINAL.webp",
+            "token": "modules/dimetria/assets/blood-lords/graveclaw/tokens/bloodlords-sahni-bride-of-the-sea-token.webp"
+        },
+        "XWb7V3dkiDlBD8Bn": {
+            "actor": "modules/dimetria/assets/blood-lords/graveclaw/art/PZO90182_LAZY_MARSH_GIANT.webp",
+            "token": "modules/dimetria/assets/blood-lords/graveclaw/tokens/bloodlords-lazy-marsh-giant-token.webp"
+        },
+        "PJ9O7J5MWhxvYnPW": {
+            "actor": "modules/dimetria/assets/blood-lords/graveclaw/art/PZO90182%20VIRULAK%20VILLAGER.webp",
+            "token": "modules/dimetria/assets/blood-lords/graveclaw/tokens/bloodlords-virulak-villager-token.webp"
+        },
+        "PFAxHAnorkDmvi26": {
+            "actor": "modules/dimetria/assets/blood-lords/graveclaw/art/CLOCKWORK_RIFLER_FINAL.webp",
+            "token": "modules/dimetria/assets/blood-lords/graveclaw/tokens/bloodlords-clockwork-rifler-token.webp"
+        },
+        "c8OrFlroChWV6ad4": {
+            "actor": "modules/dimetria/assets/blood-lords/graveclaw/art/Mechanical%20Laborer.webp",
+            "token": "modules/dimetria/assets/blood-lords/graveclaw/tokens/bloodlords-mechanical-laborer-token.webp"
+        },
+        "4yAbOWwebJGWRmt2": {
+            "actor": "modules/dimetria/assets/blood-lords/graveclaw/art/PZO90182_GhostlyMob.webp",
+            "token": "modules/dimetria/assets/blood-lords/graveclaw/tokens/bloodlords-ghostly-mob-token.webp"
+        },
+        "OuiTvUpfZVNlIIQV": {
+            "actor": "modules/dimetria/assets/blood-lords/graveclaw/art/PZO90182_AZMAKIAN_EFFIGY.webp",
+            "token": "modules/dimetria/assets/blood-lords/graveclaw/tokens/bloodlords-azmakian-effigy-token.webp"
+        },
+        "DunLW2kBqOpE0pkL": {
+            "actor": "modules/dimetria/assets/blood-lords/graveclaw/art/PZO90182_DECROSIA1.webp",
+            "token": "modules/dimetria/assets/blood-lords/graveclaw/tokens/bloodlords-decrosia-token.webp"
+        },
+        "2p9BaMPkI0HiTWyC": {
+            "actor": "modules/dimetria/assets/blood-lords/graveclaw/art/PZO90182_SULVIK.webp",
+            "token": "modules/dimetria/assets/blood-lords/graveclaw/tokens/bloodlords-sulvik-token.webp"
+        },
+        "GVIv3WxwbwztNmvD": {
+            "actor": "modules/dimetria/assets/blood-lords/graveclaw/art/PZO90182_TEACHING_ASSISTANT.webp",
+            "token": "modules/dimetria/assets/blood-lords/graveclaw/tokens/bloodlords-teaching-assistant-token.webp"
+        },
+        "QuuCHbVDpBfyu5JB": {
+            "actor": "modules/dimetria/assets/blood-lords/graveclaw/tokens/bloodlords-trap-token.webp",
+            "token": "modules/dimetria/assets/blood-lords/graveclaw/tokens/bloodlords-trap-token.webp"
+        },
+        "614jXwpPEVRulHYD": {
+            "actor": "modules/dimetria/assets/blood-lords/graveclaw/tokens/bloodlords-trap-token.webp",
+            "token": "modules/dimetria/assets/blood-lords/graveclaw/tokens/bloodlords-trap-token.webp"
+        },
+        "i722khDhe3zTB881": {
+            "actor": "modules/dimetria/assets/blood-lords/graveclaw/tokens/bloodlords-trap-token.webp",
+            "token": "modules/dimetria/assets/blood-lords/graveclaw/tokens/bloodlords-trap-token.webp"
+        },
+        "2ZpYVlsDigX5ZQR6": {
+            "actor": "modules/dimetria/assets/blood-lords/graveclaw/art/Mummy%20Valet.webp",
+            "token": "modules/dimetria/assets/blood-lords/graveclaw/tokens/bloodlords-mummy-valet-token.webp"
+        },
+        "R7NpmPUqPkMtsUIl": {
+            "actor": "modules/dimetria/assets/blood-lords/graveclaw/tokens/bloodlords-trap-token.webp",
+            "token": "modules/dimetria/assets/blood-lords/graveclaw/tokens/bloodlords-trap-token.webp"
+        },
+        "YZf8zp3ylEoAFyBX": {
+            "actor": "modules/dimetria/assets/blood-lords/graveclaw/art/PZO90182_ARBOREAL_SNAG.webp",
+            "token": "modules/dimetria/assets/blood-lords/graveclaw/tokens/bloodlords-arboreal-snag-token.webp"
+        },
+        "4Z704FJ69DWl71vP": {
+            "actor": "modules/dimetria/assets/blood-lords/graveclaw/art/PZO90182_CREEPING_CRONE.webp",
+            "token": "modules/dimetria/assets/blood-lords/graveclaw/tokens/bloodlords-creeping-crone-token.webp"
+        },
+        "N1VAU3XomX53b6HL": {
+            "actor": "modules/dimetria/assets/blood-lords/graveclaw/art/PZO90182_rust_hag.webp",
+            "token": "modules/dimetria/assets/blood-lords/graveclaw/tokens/bloodlords-rust-hag-token.webp"
+        },
+        "O0jtf0qQnuSTrNUp": {
+            "actor": "modules/dimetria/assets/blood-lords/graveclaw/art/PZO90182_grave_hag.webp",
+            "token": "modules/dimetria/assets/blood-lords/graveclaw/tokens/bloodlords-grave-hag-token.webp"
+        },
+        "epfj3ZAwLHMlYlF3": {
+            "actor": "modules/dimetria/assets/blood-lords/graveclaw/art/PZO90182%20VIRULAK%20NECROMANCER.webp",
+            "token": "modules/dimetria/assets/blood-lords/graveclaw/tokens/bloodlords-virulak-necromancer-token.webp"
+        },
+        "glq0AJMjNAB0R2Ke": {
+            "actor": "modules/dimetria/assets/blood-lords/graveclaw/art/Terra-cotta_Succubus.webp",
+            "token": "modules/dimetria/assets/blood-lords/graveclaw/tokens/bloodlords-terra-cotta-succubus-token.webp"
+        },
         "nmv3qAignhfl1in2": {
             "actor": "modules/dimetria/assets/blood-lords/zombie-feast/art/PZO90181_MOSGHUTA.webp",
             "token": "modules/dimetria/assets/blood-lords/zombie-feast/tokens/zombie-mosghuta-token.webp"
@@ -543,6 +675,34 @@
         }
     },
   "pathfinder-bestiary": {
+	"XrmHgbKgcHDi4OnK": {
+		"actor": "modules/dimetria/assets/blood-lords/graveclaw/art/Shadow.webp",
+		"token": "modules/dimetria/assets/blood-lords/graveclaw/tokens/bloodlords-shadow-token.webp"
+	},
+	"3VsQFEdIN5e1uWle": {
+		"actor": "modules/dimetria/assets/blood-lords/graveclaw/art/Giant%20Moray%20Eel.webp",
+		"token": "modules/dimetria/assets/blood-lords/graveclaw/tokens/bloodlords-giant-moray-eel-token.webp"
+	},
+	"ZPjQkKVMi3xoPcU0": {
+		"actor": "modules/dimetria/assets/blood-lords/graveclaw/art/Wight.webp",
+		"token": "modules/dimetria/assets/blood-lords/graveclaw/tokens/bloodlords-wight-token.webp"
+	},
+	"FJo8VkrM7kLkHa5D": {
+		"actor": "modules/dimetria/assets/blood-lords/graveclaw/art/bloodlords-zombie-brute.webp",
+		"token": "modules/dimetria/assets/blood-lords/graveclaw/tokens/bloodlords-zombie-brute-token.webp"
+	},
+	"HbROgIcU9Z9m6XuD": {
+		"actor": "modules/dimetria/assets/blood-lords/graveclaw/art/Incorporeal%20Undead%20-%20Wraith.webp",
+		"token": "modules/dimetria/assets/blood-lords/graveclaw/tokens/bloodlords-wraith-token.webp"
+	},
+	"Ix1PziAEk9IIMYBz": {
+		"actor": "modules/dimetria/assets/blood-lords/graveclaw/art/bloodlords-zombie-brute.webp",
+		"token": "modules/dimetria/assets/blood-lords/graveclaw/tokens/bloodlords-zombie-brute-token.webp"
+	},
+	"RMSx2C27yty0MTva": {
+		"actor": "modules/dimetria/assets/blood-lords/graveclaw/art/skeletal-champion.webp",
+		"token": "modules/dimetria/assets/blood-lords/graveclaw/tokens/bloodlords-skeletal-champion-token.webp"
+	},
 	"0plBflWwrCWQO2RO": {
 		"actor": "modules/dimetria/assets/blood-lords/zombie-feast/art/bloodlords-zombie-shambler1.webp",
 		"token": "modules/dimetria/assets/blood-lords/zombie-feast/tokens/bloodlords-zombie-shambler1-token.webp"
@@ -764,6 +924,34 @@
     }
   },
   "pathfinder-bestiary-2": {
+	"sMNqIHHxcVBXG08h": {
+		"actor": "modules/dimetria/assets/blood-lords/graveclaw/art/PZO2104_WIGHT%20CAIRN%20_Body%20Character.webp",
+		"token": "modules/dimetria/assets/blood-lords/graveclaw/tokens/bloodlords-cairn-wight-2-token.webp"
+	},
+	"WqppjHF2Y8yC6veS": {
+		"actor": "modules/dimetria/assets/blood-lords/graveclaw/art/Midnight%2C%20Shadow%20Drake.webp",
+		"token": "modules/dimetria/assets/blood-lords/graveclaw/tokens/bloodlords-midnight-shadow-drake-token.webp"
+	},
+	"DWQzgPL1WjXfu4rV": {
+		"actor": "modules/dimetria/assets/blood-lords/graveclaw/art/Assassin%20Vine.webp",
+		"token": "modules/dimetria/assets/blood-lords/graveclaw/tokens/bloodlords-assasin-vine-token.webp"
+	},
+	"dvZM7hGNDu8olV7A": {
+		"actor": "modules/dimetria/assets/blood-lords/graveclaw/art/Brood%20Leech%20Swarm.webp",
+		"token": "modules/dimetria/assets/blood-lords/graveclaw/tokens/bloodlords-brood-leech-swarm-token.webp"
+	},
+	"aMIb3Xm64NzRj8YP": {
+		"actor": "modules/dimetria/assets/blood-lords/graveclaw/art/Mandragora.webp",
+		"token": "modules/dimetria/assets/blood-lords/graveclaw/tokens/bloodlords-mandragora-token.webp"
+	},
+	"LQL8HU6tISXZwlOw": {
+		"actor": "modules/dimetria/assets/blood-lords/graveclaw/art/Skaveling.webp",
+		"token": "modules/dimetria/assets/blood-lords/graveclaw/tokens/bloodlords-skaveling-token.webp"
+	},
+	"M4mDroIJlrBYfHkM": {
+		"actor": "modules/dimetria/assets/blood-lords/graveclaw/art/bloodlords-crawling-hand.webp",
+		"token": "modules/dimetria/assets/blood-lords/graveclaw/tokens/bloodlords-crawling-hand-token.webp"
+	},
 	"oSQ3Q9tzTohksAtf": {
 		"actor": "modules/pf2e-ap181-zombie-feast/assets/art/bloodlords-crawling-hand2.webp",
 		"token": "modules/pf2e-ap181-zombie-feast/assets/tokens/bloodlords-crawling-hand-2-token.webp"
@@ -925,12 +1113,20 @@
     }
   },
   "npc-gallery": {
-		"DFurZlcpcNrUmmER": {
-			"actor": "modules/pf2e-ap181-zombie-feast/assets/art/bloodlords-ruffian4.webp",
-			"token": "modules/pf2e-ap181-zombie-feast/assets/tokens/bloodlords-ruffian4-token.webp"
-		}
-	},  
+	"XpkGaDlyMH2V5wxR": {
+		"actor": "modules/dimetria/assets/blood-lords/graveclaw/art/Pharasma_Cleric_finished_dark.webp",
+		"token": "modules/dimetria/assets/blood-lords/graveclaw/tokens/bloodlords-pharasma-cleric-3-token.webp"
+	},
+	"DFurZlcpcNrUmmER": {
+		"actor": "modules/pf2e-ap181-zombie-feast/assets/art/bloodlords-ruffian4.webp",
+		"token": "modules/pf2e-ap181-zombie-feast/assets/tokens/bloodlords-ruffian4-token.webp"
+	}
+  },  
   "age-of-ashes-bestiary": {
+	"tr3qlFJVHqloE9zI": {
+		"actor": "modules/dimetria/assets/blood-lords/graveclaw/art/FORGE-SPURNED_FINAL.webp",
+		"token": "modules/dimetria/assets/blood-lords/graveclaw/tokens/bloodlords-forge-spurned-token.webp"
+	},
     "ZqL6MP4XxDys9dmW": {
       "actor": "modules/dimetria/assets/art/aiudara_wraith.png",
       "token": "modules/dimetria/assets/tokens/aiudara_wraith_token.png"
@@ -941,6 +1137,10 @@
     }
   },  
   "pathfinder-bestiary-3": {
+	"OPRuZ1cEuKkJGPMV": {
+		"actor": "modules/dimetria/assets/blood-lords/graveclaw/art/Earth%20Elemental%20Wisp.webp",
+		"token": "modules/dimetria/assets/blood-lords/graveclaw/tokens/bloodlords-earth-elemental-wisp-token.webp"
+	},	  
 	"Nq0MR5YsuglgPi0m": {
 		"actor": "modules/pf2e-ap181-zombie-feast/assets/art/PZO90181_OSTOVITE.webp",
 		"token": "modules/pf2e-ap181-zombie-feast/assets/tokens/zombie-ostovite-token.webp"
@@ -961,5 +1161,15 @@
       "actor": "modules/dimetria/assets/abomination-vaults/bestiary-portraits/ch-08/owb.webp",
       "token": "modules/dimetria/assets/abomination-vaults/bestiary-tokens/ch-08/owb.webp"
     }
+  },
+  "book-of-the-dead-bestiary": {
+	"5ukWvQqK17BQl31O": {
+		"actor": "modules/dimetria/assets/blood-lords/graveclaw/art/Lacedon.webp",
+		"token": "modules/dimetria/assets/blood-lords/graveclaw/tokens/bloodlords-lacedon-token.webp"
+	},
+	"iEQOUQk1wVHFsajW": {
+		"actor": "modules/dimetria/assets/blood-lords/graveclaw/art/Geist.webp",
+		"token": "modules/dimetria/assets/blood-lords/graveclaw/tokens/bloodlords-geist-token.webp"
+	}
   }
 }
