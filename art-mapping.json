@@ -425,6 +425,251 @@
     }
   },
   "blood-lords-bestiary": {
+	"0NtGFCLjz0lPPp4o": {
+		"actor": "modules/dimetria/assets/blood-lords/ghouls-hunger/tokens/bloodlords-trap-token.webp",
+		"token": "modules/dimetria/assets/blood-lords/ghouls-hunger/tokens/bloodlords-trap-token.webp"
+	},
+	"0a2d830uaGnBN2OS": {
+		"actor": "modules/dimetria/assets/blood-lords/ghouls-hunger/art/PZO90184_GHOUL_RAZORCLAW.webp",
+		"token": "modules/dimetria/assets/blood-lords/ghouls-hunger/tokens/PZO90184%20GHOUL%20RAZORCLAW.webp"
+	},
+	"0PJ75DaIe8x5ynp1": {
+		"actor": "modules/dimetria/assets/blood-lords/ghouls-hunger/art/PZO90184_GHOUL_ANTIPALADIN.webp",
+		"token": "modules/dimetria/assets/blood-lords/ghouls-hunger/tokens/PZO90184%20GHOUL%20ANTIPALADIN.webp"
+	},
+	"CMQu4nHDLH7tt6yu": {
+		"actor": "modules/dimetria/assets/blood-lords/ghouls-hunger/art/PZO90184_GHOULS_SECRET_EATER.webp",
+		"token": "modules/dimetria/assets/blood-lords/ghouls-hunger/tokens/PZO90184%20GHOULS%20SECRET%20EATER.webp"
+	},
+	"2cSy2hsHLS0mYLXs": {
+		"actor": "modules/dimetria/assets/blood-lords/ghouls-hunger/tokens/bloodlords-trap-token.webp",
+		"token": "modules/dimetria/assets/blood-lords/ghouls-hunger/tokens/bloodlords-trap-token.webp"
+	},
+	"5qm8l3dAnnFA1EQQ": {
+		"actor": "modules/dimetria/assets/blood-lords/ghouls-hunger/art/PZO90184_PAIN_MILKER.webp",
+		"token": "modules/dimetria/assets/blood-lords/ghouls-hunger/tokens/bloodlords-trap-token.webp"
+	},
+	"8I2hoMYo2hXVYZZ0": {
+		"actor": "modules/dimetria/assets/blood-lords/ghouls-hunger/art/PZO90184_NYDAZUUL.webp",
+		"token": "modules/dimetria/assets/blood-lords/ghouls-hunger/tokens/PZO90184%20NYDAZUUL.webp"
+	},
+	"0iZHpYIbxquRDd8E": {
+		"actor": "modules/dimetria/assets/blood-lords/ghouls-hunger/art/PZO90184_PYROGEIST.webp",
+		"token": "modules/dimetria/assets/blood-lords/ghouls-hunger/tokens/PZO90184%20PYROGEIST.webp"
+	},
+	"ptVkyQSFmsX5PACJ": {
+		"actor": "modules/dimetria/assets/blood-lords/ghouls-hunger/art/PZO90184%20PORTALRENDER.webp",
+		"token": "modules/dimetria/assets/blood-lords/ghouls-hunger/tokens/bloodlords-trap-token.webp"
+	},
+	"TV3BSvxoG8p1fe0k": {
+		"actor": "modules/dimetria/assets/blood-lords/ghouls-hunger/art/PZO90184_GRAVE_DEMON.webp",
+		"token": "modules/dimetria/assets/blood-lords/ghouls-hunger/tokens/PZO90184%20GRAVE%20DEMON.webp"
+	},
+	"1KDrm9ErOHyMsDUP": {
+		"actor": "modules/dimetria/assets/blood-lords/ghouls-hunger/art/PZO90184_GHOUL_OWLBEAR.webp",
+		"token": "modules/dimetria/assets/blood-lords/ghouls-hunger/tokens/PZO90184%20GHOUL%20OWLBEAR.webp"
+	},
+	"mZUwni8Hhv27vj4s": {
+		"actor": "modules/dimetria/assets/blood-lords/ghouls-hunger/tokens/bloodlords-trap-token.webp",
+		"token": "modules/dimetria/assets/blood-lords/ghouls-hunger/tokens/bloodlords-trap-token.webp"
+	},
+	"noCFIy7gHIaaQEdJ": {
+		"actor": "modules/dimetria/assets/blood-lords/ghouls-hunger/art/PZO90184_yurgak1.webp",
+		"token": {
+			"img": "modules/dimetria/assets/blood-lords/ghouls-hunger/tokens/PZO90184%20yurgak_2x.webp",
+			"scale": 2
+		}
+	},
+	"1EOyUGMELVUIxFeB": {
+		"actor": "modules/dimetria/assets/blood-lords/ghouls-hunger/art/PZO90184_ROTBOMBER.webp",
+		"token": "modules/dimetria/assets/blood-lords/ghouls-hunger/tokens/PZO90184%20ROTBOMBER.webp"
+	},
+	"dEUFmId6fuT97MFg": {
+		"actor": "modules/dimetria/assets/blood-lords/ghouls-hunger/art/PZO90184_rumins_glass_golem.webp",
+		"token": "modules/dimetria/assets/blood-lords/ghouls-hunger/tokens/PZO90184%20rumins%20glass%20golem.webp"
+	},
+	"xtDVxT49QGCo78yp": {
+		"actor": "modules/dimetria/assets/blood-lords/ghouls-hunger/art/PZO90184_rumin_purgo.webp",
+		"token": "modules/dimetria/assets/blood-lords/ghouls-hunger/tokens/PZO90184%20rumin%20purgo.webp"
+	},
+	"lfQ4w6hWk4v2ewYR": {
+		"actor": "modules/dimetria/assets/blood-lords/ghouls-hunger/tokens/bloodlords-trap-token.webp",
+		"token": "modules/dimetria/assets/blood-lords/ghouls-hunger/tokens/bloodlords-trap-token.webp"
+	},
+	"VWGpfLFiu9HKv9hJ": {
+		"actor": "modules/dimetria/assets/blood-lords/ghouls-hunger/tokens/bloodlords-trap-token.webp",
+		"token": "modules/dimetria/assets/blood-lords/ghouls-hunger/tokens/bloodlords-trap-token.webp"
+	},
+	"syFR3SChA5KCx8OA": {
+		"actor": "modules/dimetria/assets/blood-lords/ghouls-hunger/art/PZO9184_VAMPIRE_GUARDIAN.webp",
+		"token": "modules/dimetria/assets/blood-lords/ghouls-hunger/tokens/PZO9184%20VAMPIRE%20GUARDIAN.webp"
+	},
+	"NogvW222v6TGMz5w": {
+		"actor": "modules/dimetria/assets/blood-lords/ghouls-hunger/tokens/bloodlords-trap-token.webp",
+		"token": "modules/dimetria/assets/blood-lords/ghouls-hunger/tokens/bloodlords-trap-token.webp"
+	},
+	"IXPZR1DTdT7Tu7UG": {
+		"actor": "modules/dimetria/assets/blood-lords/ghouls-hunger/art/PZO90184_BLOODSHROUD.webp",
+		"token": "modules/dimetria/assets/blood-lords/ghouls-hunger/tokens/PZO90184%20BLOODSHROUD.webp"
+	},
+	"7BqiEDwmEPDwGMAn": {
+		"actor": "modules/dimetria/assets/blood-lords/ghouls-hunger/art/PZO9184_HARMONY_IN_AGONY.webp",
+		"token": "modules/dimetria/assets/blood-lords/ghouls-hunger/tokens/PZO9184%20HARMONY%20IN%20AGONY.webp"
+	},
+	"CWg8NX6XHv2sEVlg": {
+		"actor": "modules/dimetria/assets/blood-lords/ghouls-hunger/art/PZO9184_WEEPING_JACK.webp",
+		"token": "modules/dimetria/assets/blood-lords/ghouls-hunger/tokens/PZO9184%20WEEPING%20JACK.webp"
+	},
+	"lmOabS84lQC3gJx4": {
+		"actor": "modules/dimetria/assets/blood-lords/ghouls-hunger/tokens/bloodlords-trap-token.webp",
+		"token": "modules/dimetria/assets/blood-lords/ghouls-hunger/tokens/bloodlords-trap-token.webp"
+	},
+	"9yd6jVPcLusk4BX1": {
+		"actor": "modules/dimetria/assets/blood-lords/ghouls-hunger/art/Skaveling.webp",
+		"token": "modules/dimetria/assets/blood-lords/ghouls-hunger/tokens/Skaveling.webp"
+	},
+	"2DhycjxPVPIAftM3": {
+		"actor": "modules/dimetria/assets/blood-lords/ghouls-hunger/art/PZO90184_TERRORGUARD.webp",
+		"token": {
+			"img": "modules/dimetria/assets/blood-lords/ghouls-hunger/tokens/PZO90184%20TERRORGUARD_1.5x.webp",
+			"scale": 1.5
+		}
+	},
+	"ku6gSDVfrxBKwAC3": {
+		"actor": "modules/dimetria/assets/blood-lords/ghouls-hunger/tokens/bloodlords-trap-token.webp",
+		"token": "modules/dimetria/assets/blood-lords/ghouls-hunger/tokens/bloodlords-trap-token.webp"
+	},
+	"3t57lJmLz6qQPqoD": {
+		"actor": "modules/dimetria/assets/blood-lords/ghouls-hunger/art/PZO90184_HYRUNE_LOXENNA.webp",
+		"token": "modules/dimetria/assets/blood-lords/ghouls-hunger/tokens/PZO90184%20HYRUNE_LOXENNA.webp"
+	},	  
+	"pHiRAXi3YxFhBeLi": {
+		"actor": "modules/dimetria/assets/blood-lords/field-of-maidens/art/PZO90183_Yshula.webp",
+		"token": "modules/dimetria/assets/blood-lords/field-of-maidens/tokens/PZO90183%20Yshula.webp"
+	},
+	"zVWCYNybRlSdYJrn": {
+		"actor": "modules/dimetria/assets/blood-lords/field-of-maidens/tokens/bloodlords-trap-token.webp",
+		"token": "modules/dimetria/assets/blood-lords/field-of-maidens/tokens/bloodlords-trap-token.webp"
+	},
+	"Q7Mfkogemi5D9LJh": {
+		"actor": "modules/dimetria/assets/blood-lords/field-of-maidens/art/PZO90183_Hungering_Growth.webp",
+		"token": "modules/dimetria/assets/blood-lords/field-of-maidens/tokens/PZO90183%20Hungering_Growth.webp"
+	},
+	"UT5B2LCirpTgaEEx": {
+		"actor": "modules/dimetria/assets/blood-lords/field-of-maidens/art/PZO90183_Shadowforged_Guardian_.webp",
+		"token": "modules/dimetria/assets/blood-lords/field-of-maidens/tokens/PZO90183%20Shadowforged_Guardian_.webp"
+	},
+	"QKFdks4RCxWxMw2K": {
+		"actor": "modules/dimetria/assets/blood-lords/field-of-maidens/tokens/bloodlords-trap-token.webp",
+		"token": "modules/dimetria/assets/blood-lords/field-of-maidens/tokens/bloodlords-trap-token.webp"
+	},
+	"bqyNCz1RU5M3S2S3": {
+		"actor": "modules/dimetria/assets/blood-lords/field-of-maidens/tokens/bloodlords-trap-token.webp",
+		"token": "modules/dimetria/assets/blood-lords/field-of-maidens/tokens/bloodlords-trap-token.webp"
+	},
+	"Q5HbADjzw2s2biXq": {
+		"actor": "modules/dimetria/assets/blood-lords/field-of-maidens/tokens/bloodlords-trap-token.webp",
+		"token": "modules/dimetria/assets/blood-lords/field-of-maidens/tokens/bloodlords-trap-token.webp"
+	},
+	"fekYhQe1qrvwarBL": {
+		"actor": "modules/dimetria/assets/blood-lords/field-of-maidens/tokens/bloodlords-trap-token.webp",
+		"token": "modules/dimetria/assets/blood-lords/field-of-maidens/tokens/bloodlords-trap-token.webp"
+	},
+	"duqhXs5SXmvSC1uI": {
+		"actor": "modules/dimetria/assets/blood-lords/field-of-maidens/art/PZO90183_hollowShell.webp",
+		"token": "modules/dimetria/assets/blood-lords/field-of-maidens/tokens/PZO90183_hollowShell.webp"
+	},
+	"b8IAeHndW8YVEzDM": {
+		"actor": "modules/dimetria/assets/blood-lords/field-of-maidens/art/PZO90183_Aeolakea_Azata.webp",
+		"token": "modules/dimetria/assets/blood-lords/field-of-maidens/tokens/PZO90183%20Aeolakea_Azata.webp"
+	},
+	"JiT7B2Y7yYG8G0ZL": {
+		"actor": "modules/dimetria/assets/blood-lords/field-of-maidens/art/PZO90183_NWANYIAN_ARCHER.webp",
+		"token": "modules/dimetria/assets/blood-lords/field-of-maidens/tokens/PZO90183%20NWANYIAN%20ARCHER.webp"
+	},
+	"pg4YAN1whVZsnLKf": {
+		"actor": "modules/dimetria/assets/blood-lords/field-of-maidens/art/PZO90183_GRACE_THE_RHINO.webp",
+		"token": "modules/dimetria/assets/blood-lords/field-of-maidens/tokens/PZO90183%20GRACE%20THE%20RHINO.webp"
+	},
+	"A8jGRgn97x59cJn8": {
+		"actor": "modules/dimetria/assets/blood-lords/field-of-maidens/art/PZO90183_NWANYIAN_DEFENDER.webp",
+		"token": "modules/dimetria/assets/blood-lords/field-of-maidens/tokens/PZO90183%20NWANYIAN%20DEFENDER.webp"
+	},
+	"p6wud30R7C5OAFGz": {
+		"actor": "modules/dimetria/assets/blood-lords/field-of-maidens/art/PZO90183_ghastBandy.webp",
+		"token": "modules/dimetria/assets/blood-lords/field-of-maidens/tokens/PZO90183_ghastBandy.webp"
+	},
+	"pQJbY3PTeHNYbkho": {
+		"actor": "modules/dimetria/assets/blood-lords/field-of-maidens/art/PZO90183_NWANYIAN_SKIRMISHER.webp",
+		"token": "modules/dimetria/assets/blood-lords/field-of-maidens/tokens/PZO90183%20NWANYIAN%20SKIRMISHER.webp"
+	},
+	"IeAy6hvDcnU1pCZr": {
+		"actor": "modules/dimetria/assets/blood-lords/field-of-maidens/art/PZO90183_Guloval_Agathion_1.webp",
+		"token": "modules/dimetria/assets/blood-lords/field-of-maidens/tokens/PZO90183%20Guloval_Agathion_.webp"
+	},
+	"bZPLaHBF66XuRQlv": {
+		"actor": "modules/dimetria/assets/blood-lords/field-of-maidens/art/PZO90183_NEW_LASHEELI_AMINDA.webp",
+		"token": "modules/dimetria/assets/blood-lords/field-of-maidens/tokens/PZO90183%20NEW%20LASHEELI%20AMINDA.webp"
+	},
+	"e5iMWebwtUQrOtPB": {
+		"actor": "modules/dimetria/assets/blood-lords/field-of-maidens/art/PZO90183_yulthruk.webp",
+		"token": {
+			"img": "modules/dimetria/assets/blood-lords/field-of-maidens/tokens/PZO90183_yulthruk_1.5X.webp",
+			"scale": 1.5
+		}
+	},
+	"624fuRv6nLi31THS": {
+		"actor": "modules/dimetria/assets/blood-lords/field-of-maidens/art/PZO90183_prachallaDoll.webp",
+		"token": "modules/dimetria/assets/blood-lords/field-of-maidens/tokens/PZO90183_prachallaDoll.webp"
+	},
+	"iVzVgK6igRZ8hkCu": {
+		"actor": "modules/dimetria/assets/blood-lords/field-of-maidens/tokens/Tea%20Cart.webp",
+		"token": "modules/dimetria/assets/blood-lords/field-of-maidens/tokens/Tea%20Cart.webp"
+	},
+	"1YdRAByWMiyUIXwt": {
+		"actor": "modules/dimetria/assets/blood-lords/field-of-maidens/art/PZO90183_kerinzaDoll.webp",
+		"token": "modules/dimetria/assets/blood-lords/field-of-maidens/tokens/PZO90183_kerinzaDoll.webp"
+	},
+	"fOklsDO2EB5CHuLF": {
+		"actor": "modules/dimetria/assets/blood-lords/field-of-maidens/art/Bulette.webp",
+		"token": "modules/dimetria/assets/blood-lords/field-of-maidens/tokens/Bulette.webp"
+	},
+	"picyq0Q5kjJeAfH8": {
+		"actor": "modules/dimetria/assets/blood-lords/field-of-maidens/tokens/bloodlords-trap-token.webp",
+		"token": "modules/dimetria/assets/blood-lords/field-of-maidens/tokens/bloodlords-trap-token.webp"
+	},
+	"yfyh7TkvcQuyWyie": {
+		"actor": "modules/dimetria/assets/blood-lords/field-of-maidens/art/Shadowbound%20Monk%20Statue.webp",
+		"token": "modules/dimetria/assets/blood-lords/field-of-maidens/tokens/Shadowbound%20Monk%20Statue.webp"
+	},
+	"l5jzqFVpGEg6Mj3e": {
+		"actor": "modules/dimetria/assets/blood-lords/field-of-maidens/art/Skeletal%20Knight.webp",
+		"token": "modules/dimetria/assets/blood-lords/field-of-maidens/tokens/Skeletal%20Knight.webp"
+	},
+	"RIKDtmwVQQeJUZKg": {
+		"actor": "modules/dimetria/assets/blood-lords/field-of-maidens/art/PZO90183_VETALARANA_TAVIAH.webp",
+		"token": "modules/dimetria/assets/blood-lords/field-of-maidens/tokens/PZO90183%20VETALARANA%20TAVIAH.webp"
+	},
+	"cUUyIZ3Y8VAbfI9P": {
+		"actor": "modules/dimetria/assets/blood-lords/field-of-maidens/art/PZO90183_KERINA_THE_LONELY_MAIDEN.webp",
+		"token": "modules/dimetria/assets/blood-lords/field-of-maidens/tokens/PZO90183%20KERINA%20THE%20LONELY%20MAIDEN.webp"
+	},
+	"MKYtgU2G42jk2Dwo": {
+		"actor": "modules/dimetria/assets/blood-lords/field-of-maidens/art/Soulbound%20Doll.webp",
+		"token": "modules/dimetria/assets/blood-lords/field-of-maidens/tokens/Soulbound_Doll.webp"
+	},
+	"FzEwUkw6SCgQ1YJg": {
+		"actor": "modules/dimetria/assets/blood-lords/field-of-maidens/art/PZO90183_Wheel_Archon.webp",
+		"token": "modules/dimetria/assets/blood-lords/field-of-maidens/tokens/PZO90183%20Wheel_Archon.webp"
+	},
+	"L30BKaq55auUhcPY": {
+		"actor": "modules/dimetria/assets/blood-lords/field-of-maidens/art/PZO90183_Shimmernewt.webp",
+		"token": "modules/dimetria/assets/blood-lords/field-of-maidens/tokens/PZO90183%20Shimmernewt.webp"
+	},
+		 "FVBJjBbvITVpHiec": {
+		"actor": "modules/dimetria/assets/blood-lords/field-of-maidens/art/PZO90183_dorielDoll.webp",
+		"token": "modules/dimetria/assets/blood-lords/field-of-maidens/tokens/PZO90183_dorielDoll.webp"
+	},	  
 		"mfBLoIaSYNbmmtht": {
             "actor": "modules/dimetria/assets/blood-lords/graveclaw/art/PZO90182_DRUSILLA.webp",
             "token": "modules/dimetria/assets/blood-lords/graveclaw/tokens/bloodlords-drusilla-token.webp"
@@ -675,6 +920,33 @@
         }
     },
   "pathfinder-bestiary": {
+	"ZXbr1ke1vF0ZFKY3": {
+		"actor": "modules/dimetria/assets/blood-lords/ghouls-hunger/art/Roper.webp",
+		"token": {
+			"img": "modules/dimetria/assets/blood-lords/ghouls-hunger/tokens/Roper_1.5x.webp",
+			"scale": 1.5
+		}
+	},	  
+	"H2ZxTHZOEigpH4LK": {
+		"actor": "modules/dimetria/assets/blood-lords/field-of-maidens/art/Vampire%20Spawn%20Rogue.webp",
+		"token": "modules/dimetria/assets/blood-lords/field-of-maidens/tokens/Vampire%20Spawn%20Rogue.webp"
+	},
+	"lo4fR4jDVzLdwwkH": {
+		"actor": "modules/dimetria/assets/blood-lords/field-of-maidens/art/Skeletal%20Hulk.webp",
+		"token": "modules/dimetria/assets/blood-lords/field-of-maidens/tokens/Skeletal%20Hulk.webp"
+	},
+	"4npwV3fuBm3sBCPG": {
+		"actor": "modules/dimetria/assets/blood-lords/field-of-maidens/art/Xorn.webp",
+		"token": "modules/dimetria/assets/blood-lords/field-of-maidens/tokens/Xorn.webp"
+	},
+	"VC7rtYR4hLxwg7WZ": {
+		"actor": "modules/dimetria/assets/blood-lords/field-of-maidens/art/Ghast.webp",
+		"token": "modules/dimetria/assets/blood-lords/field-of-maidens/tokens/Ghast.webp"
+	},
+	"IUzKFRX0uHl1yxkn": {
+		"actor": "modules/dimetria/assets/blood-lords/field-of-maidens/art/PZO90183_GREATER_SHADOW.webp",
+		"token": "modules/dimetria/assets/blood-lords/field-of-maidens/tokens/PZO90183%20GREATER%20SHADOW.webp"
+	},	  
 	"XrmHgbKgcHDi4OnK": {
 		"actor": "modules/dimetria/assets/blood-lords/graveclaw/art/Shadow.webp",
 		"token": "modules/dimetria/assets/blood-lords/graveclaw/tokens/bloodlords-shadow-token.webp"
@@ -924,6 +1196,29 @@
     }
   },
   "pathfinder-bestiary-2": {
+	"jQ7zBVDCEhuMOOTl": {
+		"actor": "modules/dimetria/assets/blood-lords/ghouls-hunger/art/Nabasu.webp",
+		"token": {
+			"img": "modules/dimetria/assets/blood-lords/ghouls-hunger/tokens/Nabasu_1.5x.webp",
+			"scale": 1.5
+		}
+	},
+	"ZGEf08j9q4fIPDFd": {
+		"actor": "modules/dimetria/assets/blood-lords/ghouls-hunger/art/Dread%20Wraith.webp",
+		"token": "modules/dimetria/assets/blood-lords/ghouls-hunger/tokens/Dread%20Wraith.webp"
+	},
+	"ytsHNgRwLzabsrZt": {
+		"actor": "modules/dimetria/assets/blood-lords/ghouls-hunger/art/Meladaemon.webp",
+		"token": "modules/dimetria/assets/blood-lords/ghouls-hunger/tokens/Meladaemon.webp"
+	},	  
+	"hvoIxruNUei1auQT": {
+		"actor": "modules/dimetria/assets/blood-lords/field-of-maidens/art/Melody%20on%20the%20Wind.webp",
+		"token": "modules/dimetria/assets/blood-lords/field-of-maidens/tokens/Melody%20on%20the%20Wind.webp"
+	},
+	"Y9SDbANT1DWI1DKU": {
+		"actor": "modules/dimetria/assets/blood-lords/field-of-maidens/art/Animate%20Dream.webp",
+		"token": "modules/dimetria/assets/blood-lords/field-of-maidens/tokens/Animate%20Dream.webp"
+	},	  
 	"sMNqIHHxcVBXG08h": {
 		"actor": "modules/dimetria/assets/blood-lords/graveclaw/art/PZO2104_WIGHT%20CAIRN%20_Body%20Character.webp",
 		"token": "modules/dimetria/assets/blood-lords/graveclaw/tokens/bloodlords-cairn-wight-2-token.webp"
@@ -1137,6 +1432,52 @@
     }
   },  
   "pathfinder-bestiary-3": {
+	"JHrINFX7a7fYhP4w": {
+		"actor": "modules/dimetria/assets/blood-lords/ghouls-hunger/art/Gliminal.webp",
+		"token": "modules/dimetria/assets/blood-lords/ghouls-hunger/tokens/Gliminal.webp"
+	},
+	"nnI7oj1BcetLUTYo": {
+		"actor": "modules/dimetria/assets/blood-lords/ghouls-hunger/art/Etioling.webp",
+		"token": "modules/dimetria/assets/blood-lords/ghouls-hunger/tokens/Etioling.webp"
+	},
+	"NQzkW5D28zIGESBt": {
+		"actor": "modules/dimetria/assets/blood-lords/ghouls-hunger/art/PZO9184_CAWADOC.webp",
+		"token": {
+			"img": "modules/dimetria/assets/blood-lords/ghouls-hunger/tokens/PZO9184%20CAWADOC_1.5x.webp",
+			"scale": 1.5
+		}
+	},
+	"ZMrydoEfgGUAJGNI": {
+		"actor": "modules/dimetria/assets/blood-lords/ghouls-hunger/art/Plague%20Giant.webp",
+		"token": "modules/dimetria/assets/blood-lords/ghouls-hunger/tokens/Plague%20Giant.webp"
+	},
+	"iiXjQ1SchGiotpVp": {
+		"actor": "modules/dimetria/assets/blood-lords/ghouls-hunger/art/Skeleton%20Infantry.webp",
+		"token": "modules/dimetria/assets/blood-lords/ghouls-hunger/tokens/Skeleton%20Infantry.webp"
+	},
+	"mK7FwVR1yyqeMlA4": {
+		"actor": "modules/dimetria/assets/blood-lords/ghouls-hunger/art/Seething%20Spirit.webp",
+		"token": "modules/dimetria/assets/blood-lords/ghouls-hunger/tokens/Seething%20Spirit.webp"
+	},	  
+	"dniiLeUhXaq5CElX": {
+		"actor": "modules/dimetria/assets/blood-lords/field-of-maidens/art/Arboreal%20Reaper.webp",
+		"token": "modules/dimetria/assets/blood-lords/field-of-maidens/tokens/Arboreal%20Reaper.webp"
+	},
+	"iiXjQ1SchGiotpVp": {
+		"actor": "modules/dimetria/assets/blood-lords/field-of-maidens/art/Skeleton%20Infantry.webp",
+		"token": "modules/dimetria/assets/blood-lords/field-of-maidens/tokens/Skeleton%20Infantry.webp"
+	},
+	"zGtfiKku0td5E0VJ": {
+		"actor": "modules/dimetria/assets/blood-lords/field-of-maidens/art/Fossil%20Golem.webp",
+		"token": "modules/dimetria/assets/blood-lords/field-of-maidens/tokens/Fossil%20Golem.webp"
+	},
+	"Y8lQqtOgXYXDCPFg": {
+		"actor": "modules/dimetria/assets/blood-lords/field-of-maidens/art/Swordkeeper.webp",
+		"token": {
+			"img": "modules/dimetria/assets/blood-lords/field-of-maidens/tokens/Swordkeeper_2x.webp",
+			"scale": 2
+		}
+	},	  
 	"OPRuZ1cEuKkJGPMV": {
 		"actor": "modules/dimetria/assets/blood-lords/graveclaw/art/Earth%20Elemental%20Wisp.webp",
 		"token": "modules/dimetria/assets/blood-lords/graveclaw/tokens/bloodlords-earth-elemental-wisp-token.webp"
@@ -1163,6 +1504,37 @@
     }
   },
   "book-of-the-dead-bestiary": {
+	"XrSjNpkJkBO6ysRG": {
+		"actor": "modules/dimetria/assets/blood-lords/ghouls-hunger/art/Gashadokuro.webp",
+		"token": {
+			"img": "modules/dimetria/assets/blood-lords/ghouls-hunger/tokens/Gashadokuro_1.5x.webp",
+			"scale": 1.5
+		}
+	},
+	"Cl1SZNiURw65rz4p": {
+		"actor": "modules/dimetria/assets/blood-lords/ghouls-hunger/art/Silent%20Stalker.webp",
+		"token": "modules/dimetria/assets/blood-lords/ghouls-hunger/tokens/Silent%20Stalker.webp"
+	},
+	"hjBcN7ulP6FSK7ie": {
+		"actor": "modules/dimetria/assets/blood-lords/ghouls-hunger/art/Tormented.webp",
+		"token": "modules/dimetria/assets/blood-lords/ghouls-hunger/tokens/Tormented.webp"
+	},
+	"lhzNUX83TTYpJuma": {
+		"actor": "modules/dimetria/assets/blood-lords/ghouls-hunger/art/Unrisen.webp",
+		"token": "modules/dimetria/assets/blood-lords/ghouls-hunger/tokens/Unrisen.webp"
+	},	  
+	"LWLUaSHl8YCZdDMH": {
+		"actor": "modules/dimetria/assets/blood-lords/field-of-maidens/art/Vetalarana%20Emergent.webp",
+		"token": "modules/dimetria/assets/blood-lords/field-of-maidens/tokens/Vetalarana%20Emergent.webp"
+	},
+	"z72hPIIjIiLIxnor": {
+		"actor": "modules/dimetria/assets/blood-lords/field-of-maidens/art/Withered%20Zombie.webp",
+		"token": "modules/dimetria/assets/blood-lords/field-of-maidens/tokens/Withered%20Zombie.webp"
+	},
+	"xxFiRpQdvbKd0P12": {
+		"actor": "modules/dimetria/assets/blood-lords/field-of-maidens/art/Hungry%20Ghost.webp",
+		"token": "modules/dimetria/assets/blood-lords/field-of-maidens/tokens/Hungry%20Ghost_80%25%20Transparent.webp"
+	},	  
 	"5ukWvQqK17BQl31O": {
 		"actor": "modules/dimetria/assets/blood-lords/graveclaw/art/Lacedon.webp",
 		"token": "modules/dimetria/assets/blood-lords/graveclaw/tokens/bloodlords-lacedon-token.webp"
@@ -1171,5 +1543,17 @@
 		"actor": "modules/dimetria/assets/blood-lords/graveclaw/art/Geist.webp",
 		"token": "modules/dimetria/assets/blood-lords/graveclaw/tokens/bloodlords-geist-token.webp"
 	}
-  }
+  },
+  "lost-omens-impossible-lands-bestiary": {
+	"1SIx3wcRvplbfwk3": {
+		"actor": "modules/dimetria/assets/blood-lords/field-of-maidens/art/PZO90183_stoneSister.webp",
+		"token": "modules/dimetria/assets/blood-lords/field-of-maidens/tokens/PZO90183_stoneSister.webp"
+	}
+  },
+  "hazards": {
+	"tbwGr6FIr5WpvQ6l": {
+		"actor": "modules/dimetria/assets/blood-lords/ghouls-hunger/tokens/bloodlords-trap-token.webp",
+		"token": "modules/dimetria/assets/blood-lords/ghouls-hunger/tokens/bloodlords-trap-token.webp"
+	}
+  }  
 }
