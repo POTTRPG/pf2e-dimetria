@@ -768,12 +768,12 @@
   },
   "age-of-ashes-bestiary": {
     "ZqL6MP4XxDys9dmW": {
-      "actor": "modules/dimetria/assets/art/aiudara_wrath_spurned.png",
-      "token": "modules/dimetria/assets/tokens/aiudara_wrath_token.png"
+      "actor": "modules/dimetria/assets/art/aiudara_wraith.png",
+      "token": "modules/dimetria/assets/tokens/aiudara_wraith_token.png"
     },
 	"xrxjjjRMKzwsYbGm": {
-      "actor": "modules/dimetria/assets/art/accursed_forge_spurned.png",
-      "token": "modules/dimetria/assets/tokens/accursed_forge_spurned_token.png"
+      "actor": "modules/dimetria/assets/art/accursed_forge_spurned.webp",
+      "token": "modules/dimetria/assets/tokens/accursed-forge-spurned_token.png"
     }
   },  
   "pathfinder-bestiary-3": {
