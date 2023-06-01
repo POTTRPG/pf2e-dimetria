@@ -424,7 +424,153 @@
       "token": "modules/dimetria/assets/abomination-vaults/bestiary-tokens/ch-07/ysondkhelir.webp"
     }
   },
+  "blood-lords-bestiary": {
+        "nmv3qAignhfl1in2": {
+            "actor": "modules/dimetria/assets/blood-lords/zombie-feast/art/PZO90181_MOSGHUTA.webp",
+            "token": "modules/dimetria/assets/blood-lords/zombie-feast/tokens/zombie-mosghuta-token.webp"
+        },
+        "LeJeFOI8P0L7pxxS": {
+            "actor": "modules/dimetria/assets/blood-lords/zombie-feast/art/PZO90181_ZOMBIE_HOUND.webp",
+            "token": "modules/dimetria/assets/blood-lords/zombie-feast/tokens/zombie-zombie-hound-token.webp"
+        },
+        "woGNg9IcqOtEy9hb": {
+            "actor": "modules/dimetria/assets/blood-lords/zombie-feast/art/bloodlords-zombie-horse.webp",
+            "token": "modules/dimetria/assets/blood-lords/zombie-feast/tokens/bloodlords-zombie-horse-token.webp"
+        },
+        "eReDW3oTDV8ehPlL": {
+            "actor": "modules/dimetria/assets/blood-lords/zombie-feast/art/bloodlords-slamming-gate.webp",
+            "token": "modules/dimetria/assets/blood-lords/zombie-feast/tokens/bloodlords-slamming-gate-token.webp"
+        },
+        "btuLRbWKuZK7ozti": {
+            "actor": "modules/dimetria/assets/blood-lords/zombie-feast/art/PZO90181_ARGHUN_THE_ANNIHILATOR.webp",
+            "token": "modules/dimetria/assets/blood-lords/zombie-feast/tokens/zombie-arghun-the-annihilator-token.webp"
+        },
+        "ej9sP9qKkeUiIMQT": {
+            "actor": "modules/dimetria/assets/blood-lords/zombie-feast/art/bloodlords-ostovite-nest2.webp",
+            "token": "modules/dimetria/assets/blood-lords/zombie-feast/tokens/bloodlords-ostovite-nest2-token.webp"
+        },
+        "OhJ4yePPE1zQ8JNL": {
+            "actor": "modules/dimetria/assets/blood-lords/zombie-feast/art/PZO90181_SAHREG.webp",
+            "token": "modules/dimetria/assets/blood-lords/zombie-feast/tokens/zombie-sahreg-token.webp"
+        },
+        "N387myolfXJxWYvF": {
+            "actor": "modules/dimetria/assets/blood-lords/zombie-feast/art/PZO90181_BONE_SHARDS_TOUGH.webp",
+            "token": "modules/dimetria/assets/blood-lords/zombie-feast/tokens/zombie-bone-shards-tough-token.webp"
+        },
+        "5fTgvzhP4maX4tcs": {
+            "actor": "modules/dimetria/assets/blood-lords/zombie-feast/art/bloodlords-precarious-bone-pile.webp",
+            "token": "modules/dimetria/assets/blood-lords/zombie-feast/tokens/bloodlords-precarious-bone-pile-token.webp"
+        },
+        "s16EyzsD3GLLY43o": {
+            "actor": "modules/dimetria/assets/blood-lords/zombie-feast/art/bloodlords-summoning-rune.webp",
+            "token": "modules/dimetria/assets/blood-lords/zombie-feast/tokens/bloodlords-summoning-rune-token.webp"
+        },
+        "Kg7E5rophKEmIqDz": {
+            "actor": "modules/dimetria/assets/blood-lords/zombie-feast/art/bloodlords-sickle-blade-trap.webp",
+            "token": "modules/dimetria/assets/blood-lords/zombie-feast/tokens/bloodlords-sickle-blade-trap-token.webp"
+        },
+        "BHuDRFyr8FbNHjVk": {
+            "actor": "modules/dimetria/assets/blood-lords/zombie-feast/art/PZO90181_TYLEGMUTS_LAST_MEAL.webp",
+            "token": "modules/dimetria/assets/blood-lords/zombie-feast/tokens/zombie-tylegmuts-last-meal-token.webp"
+        },
+        "SSFzb5JBZDG6sr9B": {
+            "actor": "modules/dimetria/assets/blood-lords/zombie-feast/art/PZO90181_OPKHERAB.webp",
+            "token": "modules/dimetria/assets/blood-lords/zombie-feast/tokens/zombie-opkherab-token.webp"
+        },
+        "aZMbCNaUnmqIVoyA": {
+            "actor": "modules/dimetria/assets/blood-lords/zombie-feast/art/PZO90181_GRANITE_VULTURE.webp",
+            "token": "modules/dimetria/assets/blood-lords/zombie-feast/tokens/zombie-granite-vulture-token.webp"
+        },
+        "UsvCc0wceUBOwbdl": {
+            "actor": "modules/dimetria/assets/blood-lords/zombie-feast/art/bloodlords-bursting-bone-vault.webp",
+            "token": "modules/dimetria/assets/blood-lords/zombie-feast/tokens/bloodlords-bursting-bone-vault-token.webp"
+        },
+        "pJ9Pfo3DCsV97GYO": {
+            "actor": "modules/dimetria/assets/blood-lords/zombie-feast/art/PZO90181_CROOKED_COFFIN_BREWER1.webp",
+            "token": "modules/dimetria/assets/blood-lords/zombie-feast/tokens/zombie-crooked-coffin-brewer-token.webp"
+        },
+        "t92NDPmfXnOke88G": {
+            "actor": "modules/dimetria/assets/blood-lords/zombie-feast/art/PZO90181_PESGAHI_THE_POISONER.webp",
+            "token": "modules/dimetria/assets/blood-lords/zombie-feast/tokens/zombie-pesgahi-the-poisoner-token.webp"
+        },
+        "5pfU6ZAyAWq3VEdq": {
+            "actor": "modules/dimetria/assets/blood-lords/zombie-feast/art/PZO90181_KEPGEDA.webp",
+            "token": "modules/dimetria/assets/blood-lords/zombie-feast/tokens/zombie-kepgeda-token.webp"
+        },
+        "rJOlv5hfotegHwx2": {
+            "actor": "modules/dimetria/assets/blood-lords/zombie-feast/art/bloodlords-kepgedas-keening-cauldron.webp",
+            "token": "modules/dimetria/assets/blood-lords/zombie-feast/tokens/bloodlords-kepgedas-keening-cauldron-token.webp"
+        },
+        "PCGYst9QySIxsjDK": {
+            "actor": "modules/dimetria/assets/blood-lords/zombie-feast/art/PZO90181_CHATTERING_JAW.webp",
+            "token": "modules/dimetria/assets/blood-lords/zombie-feast/tokens/zombie-chattering-jaw-token.webp"
+        },
+        "6I4ZtQJPT0ToITvq": {
+            "actor": "modules/dimetria/assets/blood-lords/zombie-feast/art/PZO90181_FLOATING_FEMUR.webp",
+            "token": "modules/dimetria/assets/blood-lords/zombie-feast/tokens/zombie-floating-femir-token.webp"
+        },
+        "nX7wdbO4lvdGlFPM": {
+            "actor": "modules/dimetria/assets/blood-lords/zombie-feast/art/PZO90181_BANK_PILLAR.webp",
+            "token": "modules/dimetria/assets/blood-lords/zombie-feast/tokens/bloodlords-phalanx-of-phalanges-token.webp"
+        },
+        "CVBM8oY76Yw4IxN5": {
+            "actor": "modules/dimetria/assets/blood-lords/zombie-feast/art/PZO90181_scrabbling_ribcage.webp",
+            "token": "modules/dimetria/assets/blood-lords/zombie-feast/tokens/zombie-scrabbling-ribcage-token.webp"
+        },
+        "vUv8SR7Pa5fONiuN": {
+            "actor": "modules/dimetria/assets/blood-lords/zombie-feast/art/PZO90181_CHARGHAR.webp",
+            "token": "modules/dimetria/assets/blood-lords/zombie-feast/tokens/zombie-charghar-token.webp"
+        },
+        "k8NnItW7Hp79bg26": {
+            "actor": "modules/dimetria/assets/blood-lords/zombie-feast/art/PZO90181_Cobblebone_Swarm.webp",
+            "token": "modules/dimetria/assets/blood-lords/zombie-feast/tokens/zombie-cobblebone-swarm-token.webp"
+        },
+        "KQkouk6tku8akpmU": {
+            "actor": "modules/dimetria/assets/blood-lords/zombie-feast/art/PZO90181_Necromunculus.webp",
+            "token": "modules/dimetria/assets/blood-lords/zombie-feast/tokens/zombie-necromunculus-token.webp"
+        },
+        "I9Nn9RsYdovSFiD6": {
+            "actor": "modules/dimetria/assets/blood-lords/zombie-feast/art/PZO90181_Skull_Fairy.webp",
+            "token": "modules/dimetria/assets/blood-lords/zombie-feast/tokens/zombie-skull-fairy-token.webp"
+        },
+        "Wh9Rr5uiYgMc55s9": {
+            "actor": "modules/dimetria/assets/blood-lords/zombie-feast/art/PZO90181_Tombstone_Troll.webp",
+            "token": "modules/dimetria/assets/blood-lords/zombie-feast/tokens/zombie-tombstone-troll-token.webp"
+        },
+        "LRHYWNJg7231HUOc": {
+            "actor": "modules/dimetria/assets/blood-lords/zombie-feast/art/PZO90181_Dirge_Piper.webp",
+            "token": "modules/dimetria/assets/blood-lords/zombie-feast/tokens/zombie-dirge-piper-token.webp"
+        }
+    },
   "pathfinder-bestiary": {
+	"0plBflWwrCWQO2RO": {
+		"actor": "modules/dimetria/assets/blood-lords/zombie-feast/art/bloodlords-zombie-shambler1.webp",
+		"token": "modules/dimetria/assets/blood-lords/zombie-feast/tokens/bloodlords-zombie-shambler1-token.webp"
+	},
+	"sPClc6y3dT3XZupv": {
+		"actor": "modules/dimetria/assets/blood-lords/zombie-feast/art/bloodlords-rat-swarm2.webp",
+		"token": "modules/dimetria/assets/blood-lords/zombie-feast/tokens/bloodlords-rat-swarm2-token.webp"
+	},
+	"AYwdybUfm4meGUTJ": {
+		"actor": "modules/dimetria/assets/blood-lords/zombie-feast/art/bloodlords-giant-rat.webp",
+		"token": "modules/dimetria/assets/blood-lords/zombie-feast/tokens/bloodlords-giant-rat-token.webp"
+	},
+	"KxN9aGFGPxl6oLGF": {
+		"actor": "modules/dimetria/assets/blood-lords/zombie-feast/art/bloodlords-plague-zombie.webp",
+		"token": "modules/dimetria/assets/blood-lords/zombie-feast/tokens/bloodlords-plague-zombie-token.webp"
+	},
+	"Hkq9ZS2J2iKnT7vT": {
+		"actor": "modules/dimetria/assets/blood-lords/zombie-feast/art/bloodlords-sewer-ooze.webp",
+		"token": "modules/dimetria/assets/blood-lords/zombie-feast/tokens/bloodlords-sewer-ooze-token.webp"
+	},
+	"Ix1PziAEk9IIMYBz": {
+		"actor": "modules/dimetria/assets/blood-lords/zombie-feast/art/bloodlords-zombie-brute.webp",
+		"token": "modules/dimetria/assets/blood-lords/zombie-feast/tokens/bloodlords-zombie-brute-token.webp"
+	},
+	"fgsDAeZHVbHRhSE8": {
+		"actor": "modules/dimetria/assets/blood-lords/zombie-feast/art/bloodlords-cockatrice.webp",
+		"token": "modules/dimetria/assets/blood-lords/zombie-feast/tokens/zombie-cockatrice-token.webp"
+	},	
     "FIoRPHaHdYUPVKdT": {
       "actor": "modules/dimetria/assets/abomination-vaults/bestiary-portraits/ch-06/barbazu.webp",
       "token": "modules/dimetria/assets/abomination-vaults/bestiary-tokens/ch-06/barbazu.webp"
@@ -618,6 +764,18 @@
     }
   },
   "pathfinder-bestiary-2": {
+	"oSQ3Q9tzTohksAtf": {
+		"actor": "modules/pf2e-ap181-zombie-feast/assets/art/bloodlords-crawling-hand2.webp",
+		"token": "modules/pf2e-ap181-zombie-feast/assets/tokens/bloodlords-crawling-hand-2-token.webp"
+	},
+	"yvmX4J21XE1wqDar": {
+		"actor": "modules/pf2e-ap181-zombie-feast/assets/art/PZO90181_DEPPIK.webp",
+		"token": "modules/pf2e-ap181-zombie-feast/assets/tokens/zombie-deppik-token.webp"
+	},
+	"y2LqIPBHv2dA0pjI": {
+		"actor": "modules/pf2e-ap181-zombie-feast/assets/art/PZO90181_NECROPHIDIUS.webp",
+		"token": "modules/pf2e-ap181-zombie-feast/assets/tokens/zombie-necrophidius-token.webp"
+	},	  
     "jCJUvzs1FaL6PAkq": {
       "actor": "modules/dimetria/assets/abomination-vaults/bestiary-portraits/ch-08/empty-death-bodak.webp",
       "token": "modules/dimetria/assets/abomination-vaults/bestiary-tokens/ch-08/empty-death-bodak.webp"
@@ -766,6 +924,12 @@
       "token": "modules/dimetria/assets/abomination-vaults/bestiary-tokens/otari/morlibint.webp"
     }
   },
+  "npc-gallery": {
+		"DFurZlcpcNrUmmER": {
+			"actor": "modules/pf2e-ap181-zombie-feast/assets/art/bloodlords-ruffian4.webp",
+			"token": "modules/pf2e-ap181-zombie-feast/assets/tokens/bloodlords-ruffian4-token.webp"
+		}
+	},  
   "age-of-ashes-bestiary": {
     "ZqL6MP4XxDys9dmW": {
       "actor": "modules/dimetria/assets/art/aiudara_wraith.png",
@@ -777,6 +941,22 @@
     }
   },  
   "pathfinder-bestiary-3": {
+	"Nq0MR5YsuglgPi0m": {
+		"actor": "modules/pf2e-ap181-zombie-feast/assets/art/PZO90181_OSTOVITE.webp",
+		"token": "modules/pf2e-ap181-zombie-feast/assets/tokens/zombie-ostovite-token.webp"
+	},
+	"EP8xhzy46zPWvhQL": {
+		"actor": "modules/pf2e-ap181-zombie-feast/assets/art/PZO90181_THE_LEFTOVERS.webp",
+		"token": "modules/pf2e-ap181-zombie-feast/assets/tokens/zombie-the-leftovers-token.webp"
+	},
+	"cbduxhlI7JbONLXF": {
+		"actor": "modules/pf2e-ap181-zombie-feast/assets/art/bloodlords-shambler-troop.webp",
+		"token": "modules/pf2e-ap181-zombie-feast/assets/tokens/bloodlords-shambler-troop-token.webp"
+	},
+	"Wq0Euk0RK6rhRDsN": {
+		"actor": "modules/pf2e-ap181-zombie-feast/assets/art/bloodlords-severed-head.webp",
+		"token": "modules/pf2e-ap181-zombie-feast/assets/tokens/bloodlords-severed-head-token.webp"
+	},	  
     "JkJRKxuIGJ3DOD9L": {
       "actor": "modules/dimetria/assets/abomination-vaults/bestiary-portraits/ch-08/owb.webp",
       "token": "modules/dimetria/assets/abomination-vaults/bestiary-tokens/ch-08/owb.webp"
