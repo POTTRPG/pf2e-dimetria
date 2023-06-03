@@ -1595,6 +1595,48 @@
         }
   },
   "pathfinder-bestiary": {
+	"4cPw8hZwW6uvyzvh": {
+		"actor": "modules/pf2e-ap190-the-choosing/assets/art/Vrock.webp",
+		"token": {
+			"img": "modules/pf2e-ap190-the-choosing/assets/tokens/Vrock.webp",
+			"scale": 1.5
+		}
+	},
+	"5pk6bfodgnllSIOy": {
+		"actor": "modules/pf2e-ap190-the-choosing/assets/art/flytrap-giant.webp",
+		"token": {
+			"img": "modules/pf2e-ap190-the-choosing/assets/tokens/flytrap-giant.webp",
+			"scale": 1.5
+		}
+	},
+	"WiOY3YbiKEJKIQQz": {
+		"actor": "modules/pf2e-ap190-the-choosing/assets/art/stone-giant.webp",
+		"token": {
+			"img": "modules/pf2e-ap190-the-choosing/assets/tokens/stone-giant.webp",
+			"scale": 1.5
+		}
+	},
+	"9llfviiJg5bJlBth": {
+		"actor": "modules/pf2e-ap190-the-choosing/assets/art/mukradi.webp",
+		"token": {
+			"img": "modules/pf2e-ap190-the-choosing/assets/tokens/mukradi.webp",
+			"scale": 1.5
+		}
+	},
+	"l05LjJTXvFS4tYTE": {
+		"actor": "modules/pf2e-ap190-the-choosing/assets/art/centaur.webp",
+		"token": {
+			"img": "modules/pf2e-ap190-the-choosing/assets/tokens/centaur.webp",
+			"scale": 1.5
+		}
+	},
+	"t4JYGYJqT1CaqKvh": {
+		"actor": "modules/pf2e-ap190-the-choosing/assets/art/shining-child.webp",
+		"token": {
+			"img": "modules/pf2e-ap190-the-choosing/assets/tokens/shining-child.webp",
+			"scale": 1.5
+		}
+	},	
 	"NW1Ax1QGE9W4DmiN": {
 		"actor": "modules/pf2e-ap189-dreamers-of-the-nameless-spires/assets/art/Ceustodaemon.webp",
 		"token": "modules/pf2e-ap189-dreamers-of-the-nameless-spires/assets/tokens/Ceustodaemon.webp"
@@ -1665,10 +1707,6 @@
 	"BLFEu9jCKPAMko01": {
 		"actor": "modules/dimetria/assets/gatewalkers/art/fist%20of%20ragadahn.webp",
 		"token": "modules/dimetria/assets/gatewalkers/tokens/Fist%20of%20Ragadahn.webp"
-	},
-	"4cPw8hZwW6uvyzvh": {
-		"actor": "modules/dimetria/assets/gatewalkers/art/vrock.webp",
-		"token": "modules/dimetria/assets/gatewalkers/tokens/Vrock.webp"
 	},
 	"9jF564DF6ylEovna": {
 		"actor": "modules/dimetria/assets/gatewalkers/art/quasit.webp",
@@ -2029,6 +2067,41 @@
     }
   },
   "pathfinder-bestiary-2": {
+	"xjV0TmPNfKR7UcKu": {
+		"actor": "modules/pf2e-ap190-the-choosing/assets/art/osyluth.webp",
+		"token": {
+			"img": "modules/pf2e-ap190-the-choosing/assets/tokens/osyluth.webp",
+			"scale": 1.5
+		}
+	},
+	"NoCtPLRoVvloZe63": {
+		"actor": "modules/pf2e-ap190-the-choosing/assets/art/PZO90190_SEDISSERAX_final.webp",
+		"token": {
+			"img": "modules/pf2e-ap190-the-choosing/assets/tokens/PZO90190_SEDISSERAX_final.webp",
+			"scale": 2
+		}
+	},
+	"W1OXnXGF22uybovO": {
+		"actor": "modules/pf2e-ap190-the-choosing/assets/art/taiga-giant.webp",
+		"token": {
+			"img": "modules/pf2e-ap190-the-choosing/assets/tokens/taiga-giant.webp",
+			"scale": 1.5
+		}
+	},
+	"pxlZ8QbxMK6b3l5w": {
+		"actor": "modules/pf2e-ap190-the-choosing/assets/art/leng-spider.webp",
+		"token": {
+			"img": "modules/pf2e-ap190-the-choosing/assets/tokens/leng-spider.webp",
+			"scale": 1.5
+		}
+	},
+	"zjPdqdQGNjO3Kto7": {
+		"actor": "modules/pf2e-ap190-the-choosing/assets/art/aurumvorax.webp",
+		"token": {
+			"img": "modules/pf2e-ap190-the-choosing/assets/tokens/aurumvorax.webp",
+			"scale": 1.5
+		}
+	},	
 	"bAaVfrdNLfFh7iHv": {
 		"actor": "modules/pf2e-ap189-dreamers-of-the-nameless-spires/assets/art/Basidirond.webp",
 		"token": "modules/pf2e-ap189-dreamers-of-the-nameless-spires/assets/tokens/Basidirond.webp"
@@ -2324,10 +2397,6 @@
       "actor": "modules/dimetria/assets/abomination-vaults/bestiary-portraits/ch-02/morlock.webp",
       "token": "modules/dimetria/assets/abomination-vaults/bestiary-tokens/ch-02/morlock.webp"
     },
-    "xjV0TmPNfKR7UcKu": {
-      "actor": "modules/dimetria/assets/abomination-vaults/bestiary-portraits/ch-07/iyagian.webp",
-      "token": "modules/dimetria/assets/abomination-vaults/bestiary-tokens/ch-07/iyagian.webp"
-    },
     "340AwQpRXGblw1kF": {
       "actor": "modules/dimetria/assets/abomination-vaults/bestiary-portraits/ch-06/sarglagon.webp",
       "token": {
@@ -2361,6 +2430,27 @@
     }
   },
   "pathfinder-bestiary-3": {
+	"YO3aTYRNGXWiSRal": {
+		"actor": "modules/pf2e-ap190-the-choosing/assets/art/Sorcerous_Skulls_Swarm.webp",
+		"token": {
+			"img": "modules/pf2e-ap190-the-choosing/assets/tokens/Sorcerous_Skulls_Swarm%20copy.webp",
+			"scale": 1.5
+		}
+	},
+	"mbu0D45HPRNAwgEU": {
+		"actor": "modules/pf2e-ap190-the-choosing/assets/art/munagola.webp",
+		"token": {
+			"img": "modules/pf2e-ap190-the-choosing/assets/tokens/munagola.webp",
+			"scale": 1.5
+		}
+	},
+	"CXCdPqMRX58sBQ9G": {
+		"actor": "modules/pf2e-ap190-the-choosing/assets/art/hellknight-cavalry-brigade.webp",
+		"token": {
+			"img": "modules/pf2e-ap190-the-choosing/assets/tokens/hellknight-cavalry-brigade.webp",
+			"scale": 1.5
+		}
+	},	
 	"HhuHFmaq69ekSgEl": {
 		"actor": "modules/pf2e-ap189-dreamers-of-the-nameless-spires/assets/art/Shantak.webp",
 		"token": {
@@ -2492,10 +2582,6 @@
 		"actor": "modules/dimetria/assets/blood-lords/ghost-kings-rage/art/pzo90186%20overlordNosferatu.webp",
 		"token": "modules/dimetria/assets/blood-lords/ghost-kings-rage/tokens/pzo90186%20overlordNosferatu.webp"
 	},
-	"YO3aTYRNGXWiSRal": {
-		"actor": "modules/dimetria/assets/blood-lords/ghost-kings-rage/art/Sorcerous Skulls Swarm.webp",
-		"token": "modules/dimetria/assets/blood-lords/ghost-kings-rage/tokens/Sorcerous%20Skulls%20Swarm.webp"
-	},
 	"d5UfBtz09fOXKSmr": {
 		"actor": "modules/dimetria/assets/blood-lords/ghost-kings-rage/art/NEMHAIN.webp",
 		"token": "modules/dimetria/assets/blood-lords/ghost-kings-rage/tokens/NEMHAIN.webp"
@@ -2586,6 +2672,20 @@
     }
   },
   "npc-gallery": {
+	"TCzxsJQjUpy02CsJ": {
+		"actor": "modules/pf2e-ap190-the-choosing/assets/art/Shoanti%20Human%20Tracker%202.webp",
+		"token": {
+			"img": "modules/pf2e-ap190-the-choosing/assets/tokens/Shoanti%20Human%20Tracker%202.webp",
+			"scale": 1.5
+		}
+	},
+	"GoGNtiHuYycppLPk": {
+		"actor": "modules/pf2e-ap190-the-choosing/assets/art/Skawnak.webp",
+		"token": {
+			"img": "modules/pf2e-ap190-the-choosing/assets/tokens/Skawnak.webp",
+			"scale": 1.5
+		}
+	},	
 	"KPUDfkVpemug2gKj": {
 		"actor": "modules/dimetria/assets/gatewalkers/art/bandit.webp",
 		"token": "modules/dimetria/assets/gatewalkers/tokens/Bandit.webp"
@@ -3111,5 +3211,203 @@
 		"actor": "modules/dimetria/assets/gatewalkers/tokens/symbiotic_amoeba.webp",
 		"token": "modules/dimetria/assets/gatewalkers/tokens/symbiotic_amoeba.webp"
 	}
-  }  
+  },
+  "stolen-fate-bestiary": {
+	"0C9muUhjn4vAL5UW": {
+		"actor": "modules/pf2e-ap190-the-choosing/assets/art/PZO90190%20Ferrugon.webp",
+		"token": {
+			"img": "modules/pf2e-ap190-the-choosing/assets/tokens/PZO90190%20Ferrugon.webp",
+			"scale": 2
+		}
+	},
+	"pFs3lFkXrwNNUsDf": {
+		"actor": "modules/pf2e-ap190-the-choosing/assets/art/PZO90190%20MERCENARY%20ASSASSIN.webp",
+		"token": {
+			"img": "modules/pf2e-ap190-the-choosing/assets/tokens/PZO90190%20MERCENARY%20ASSASSIN.webp",
+			"scale": 1.5
+		}
+	},
+	"mgFca9LCxEI3pqc7": {
+		"actor": "modules/pf2e-ap190-the-choosing/assets/art/PZO90190%20Vharnev%20The%20Butcher.webp",
+		"token": {
+			"img": "modules/pf2e-ap190-the-choosing/assets/tokens/PZO90190%20Vharnev%20The%20Butcher.webp",
+			"scale": 2
+		}
+	},
+	"WguseVujp1LjEzq4": {
+		"actor": "modules/pf2e-ap190-the-choosing/assets/art/PZO90190_unilla.webp",
+		"token": {
+			"img": "modules/pf2e-ap190-the-choosing/assets/tokens/PZO90190_unilla.webp",
+			"scale": 1.5
+		}
+	},
+	"F902rCNyW8cVyBEp": {
+		"actor": "modules/pf2e-ap190-the-choosing/assets/art/PZO90190_unilla.webp",
+		"token": {
+			"img": "modules/pf2e-ap190-the-choosing/assets/tokens/PZO90190_unilla.webp",
+			"scale": 1.5
+		}
+	},
+	"Bn7bG2gbyXYj7mzT": {
+		"actor": "modules/pf2e-ap190-the-choosing/assets/art/Dieral%20Myrnese.webp",
+		"token": {
+			"img": "modules/pf2e-ap190-the-choosing/assets/tokens/Dieral%20Myrnese.webp",
+			"scale": 1.5
+		}
+	},
+	"Yg5xl1lu0211JVi7": {
+		"actor": "modules/pf2e-ap190-the-choosing/assets/art/PZO90190%20Raskus.webp",
+		"token": {
+			"img": "modules/pf2e-ap190-the-choosing/assets/tokens/PZO90190%20Raskus.webp",
+			"scale": 1.5
+		}
+	},
+	"d68XkPVTpU42q8Gj": {
+		"actor": "modules/pf2e-ap190-the-choosing/assets/art/Mivanian%20Soldier.webp",
+		"token": {
+			"img": "modules/pf2e-ap190-the-choosing/assets/tokens/Mivanian%20Soldier.webp",
+			"scale": 1.5
+		}
+	},
+	"u5o9uU9Saweij7mF": {
+		"actor": "modules/pf2e-ap190-the-choosing/assets/art/PZO90190_hurlilu.webp",
+		"token": {
+			"img": "modules/pf2e-ap190-the-choosing/assets/tokens/PZO90190_hurlilu.webp",
+			"scale": 1.5
+		}
+	},
+	"mJyUqZYPGrCx13oT": {
+		"actor": "modules/pf2e-ap190-the-choosing/assets/art/PZO90190_oppali.webp",
+		"token": {
+			"img": "modules/pf2e-ap190-the-choosing/assets/tokens/PZO90190_oppali.webp",
+			"scale": 1.5
+		}
+	},
+	"ttUZn9WMNZzG9YdZ": {
+		"actor": "modules/pf2e-ap190-the-choosing/assets/art/PZO90190%20BHANYADA%20SCAVENGER.webp",
+		"token": {
+			"img": "modules/pf2e-ap190-the-choosing/assets/tokens/PZO90190%20BHANYADA%20SCAVENGER.webp",
+			"scale": 1.5
+		}
+	},
+	"eF3ndkXtyeMHpzZb": {
+		"actor": "modules/pf2e-ap190-the-choosing/assets/art/PZO90190%20BHANYADA%20BEHEMOTH.webp",
+		"token": {
+			"img": "modules/pf2e-ap190-the-choosing/assets/tokens/PZO90190%20BHANYADA%20BEHEMOTH.webp",
+			"scale": 2
+		}
+	},
+	"ax9j12x0JqBBPE5M": {
+		"actor": "modules/pf2e-ap190-the-choosing/assets/art/PZO90190%20BHANYADA%20SCAVENGER.webp",
+		"token": {
+			"img": "modules/pf2e-ap190-the-choosing/assets/tokens/PZO90190%20BHANYADA%20SCAVENGER.webp",
+			"scale": 1.2
+		}
+	},
+	"tVZ7ijV3W1HmMwzz": {
+		"actor": "modules/pf2e-ap190-the-choosing/assets/art/PZO90190%20Scaleseed%20nagaji.webp",
+		"token": {
+			"img": "modules/pf2e-ap190-the-choosing/assets/tokens/PZO90190%20Scaleseed%20nagaji.webp",
+			"scale": 1.5
+		}
+	},
+	"590fsfQ1S0dF1C3Z": {
+		"actor": "modules/pf2e-ap190-the-choosing/assets/art/PZO90190%20Kannijo.webp",
+		"token": {
+			"img": "modules/pf2e-ap190-the-choosing/assets/tokens/PZO90190%20Kannijo.webp",
+			"scale": 1.5
+		}
+	},
+	"UX7QKytewemOnNeX": {
+		"actor": "modules/pf2e-ap190-the-choosing/assets/tokens/hazard.webp",
+		"token": {
+			"img": "modules/pf2e-ap190-the-choosing/assets/tokens/hazard.webp",
+			"scale": 1.5
+		}
+	},
+	"IKlSxZfyN1wRZsQn": {
+		"actor": "modules/pf2e-ap190-the-choosing/assets/art/PZO90190%20SHALDAR%20FALLS%20FAR%20portrait.webp",
+		"token": {
+			"img": "modules/pf2e-ap190-the-choosing/assets/tokens/PZO90190%20SHALDAR%20FALLS%20FAR%20portrait.webp",
+			"scale": 1.5
+		}
+	},
+	"3OE96zZHIAnMbYWj": {
+		"actor": "modules/pf2e-ap190-the-choosing/assets/art/PZO90190%20Endlo%20kiver.webp",
+		"token": {
+			"img": "modules/pf2e-ap190-the-choosing/assets/tokens/PZO90190%20Endlo%20kiver.webp",
+			"scale": 3
+		}
+	},
+	"pLbDF5JJoF93vgwL": {
+		"actor": "modules/pf2e-ap190-the-choosing/assets/art/PZO90190%20Blade%20Mercenary.webp",
+		"token": {
+			"img": "modules/pf2e-ap190-the-choosing/assets/tokens/PZO90190%20Blade%20Mercenary.webp",
+			"scale": 1.5
+		}
+	},
+	"bsjCqkz0jIv9LOBS": {
+		"actor": "modules/pf2e-ap190-the-choosing/assets/art/Harpy%20Warbird.webp",
+		"token": {
+			"img": "modules/pf2e-ap190-the-choosing/assets/tokens/Harpy%20Warbird.webp",
+			"scale": 1.5
+		}
+	},
+	"88n1uQqK5XbIGnUF": {
+		"actor": "modules/pf2e-ap190-the-choosing/assets/art/PZO90190%20Queen%20kawlinawk.webp",
+		"token": {
+			"img": "modules/pf2e-ap190-the-choosing/assets/tokens/PZO90190%20Queen%20kawlinawk.webp",
+			"scale": 1.5
+		}
+	},
+	"8DBXzHdkxiSOVeKu": {
+		"actor": "modules/pf2e-ap190-the-choosing/assets/tokens/hazard.webp",
+		"token": {
+			"img": "modules/pf2e-ap190-the-choosing/assets/tokens/hazard.webp",
+			"scale": 1.5
+		}
+	},
+	"JPdT5ahsfGdvc3v5": {
+		"actor": "modules/pf2e-ap190-the-choosing/assets/tokens/hazard.webp",
+		"token": {
+			"img": "modules/pf2e-ap190-the-choosing/assets/tokens/hazard.webp",
+			"scale": 1.5
+		}
+	},
+	"7ze52pL9OFjZBGWa": {
+		"actor": "modules/pf2e-ap190-the-choosing/assets/art/PZO90190%20Blade%20magi.webp",
+		"token": {
+			"img": "modules/pf2e-ap190-the-choosing/assets/tokens/PZO90190%20Blade%20magi.webp",
+			"scale": 3
+		}
+	},
+	"oWFqioYktqayWFlS": {
+		"actor": "modules/pf2e-ap190-the-choosing/assets/art/PZO90190_arodeth.webp",
+		"token": {
+			"img": "modules/pf2e-ap190-the-choosing/assets/tokens/PZO90190%20ARODETH%20portrait.webp",
+			"scale": 1.5
+		}
+	},
+	"Zglw4NiZRVgmuI5x": {
+		"actor": "modules/pf2e-ap190-the-choosing/assets/art/PZO90190%20NDED%20FALSE%20FORM%20portrait.webp",
+		"token": {
+			"img": "modules/pf2e-ap190-the-choosing/assets/tokens/PZO90190%20NDED%20FALSE%20FORM%20portrait.webp",
+			"scale": 1.5
+		}
+	},
+	"nBhR5WE7M1cp1fEm": {
+		"actor": "modules/pf2e-ap190-the-choosing/assets/art/PZO90190%20DRUSTAN%20portrait.webp",
+		"token": {
+			"img": "modules/pf2e-ap190-the-choosing/assets/tokens/PZO90190%20DRUSTAN%20portrait.webp",
+			"scale": 1.5
+		}
+	},
+	"bmCBmw4pQeEIelkY": {
+		"actor": "modules/pf2e-ap190-the-choosing/assets/art/PZO90190_hurlilu.webp",
+		"token": {
+			"img": "modules/pf2e-ap190-the-choosing/assets/tokens/PZO90190_hurlilu.webp",
+			"scale": 1.5
+		}
+	}
+  }
 }
