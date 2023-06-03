@@ -1,5 +1,121 @@
 {
   "outlaws-of-alkenstar-bestiary": {
+	"RpGReUxsaT8wCz2u": {
+		"actor": "modules/pf2e-ap180-the-smoking-gun/assets/art/Gunmarshal.webp",
+		"token": "modules/pf2e-ap180-the-smoking-gun/assets/tokens/tsg-gunmarshal-token.webp"
+	},
+	"CNFAfmVoVebnj7bY": {
+		"actor": "modules/pf2e-ap180-the-smoking-gun/assets/art/Gunmarshal.webp",
+		"token": "modules/pf2e-ap180-the-smoking-gun/assets/tokens/tsg-gunmarshal-token.webp"
+	},
+	"c1v4Xb3x6nvpFmth": {
+		"actor": "modules/pf2e-ap180-the-smoking-gun/assets/pawns/tsg-atticus-pawn.webp",
+		"token": "modules/pf2e-ap180-the-smoking-gun/assets/tokens/tsg-atticus-token.webp"
+	},
+	"zNlQRFJcijptkQQ4": {
+		"actor": "modules/pf2e-ap180-the-smoking-gun/assets/pawns/tsg-leadsmith-pawn.webp",
+		"token": "modules/pf2e-ap180-the-smoking-gun/assets/tokens/tsg-leadsmith-token.webp"
+	},
+	"UdgI6p5FlE7Xcrl7": {
+		"actor": "modules/pf2e-ap180-the-smoking-gun/assets/pawns/tsg-vewslog-pawn.webp",
+		"token": "modules/pf2e-ap180-the-smoking-gun/assets/tokens/tsg-vewslog-token.webp"
+	},
+	"hm6S6xdvn0pL2t3D": {
+		"actor": "modules/pf2e-ap180-the-smoking-gun/assets/pawns/tsg-headless-rustler-pawn.webp",
+		"token": "modules/pf2e-ap180-the-smoking-gun/assets/tokens/tsg-headless-rustler-token.webp"
+	},
+	"aT6c5oEPV8U5zfRD": {
+		"actor": "modules/pf2e-ap180-the-smoking-gun/assets/pawns/tsg-pyronite-ooze-pawn.webp",
+		"token": "modules/pf2e-ap180-the-smoking-gun/assets/tokens/tsg-pyronite-ooze-token.webp"
+	},
+	"5GgDdZKPHB0uJYEu": {
+		"actor": "modules/pf2e-ap180-the-smoking-gun/assets/pawns/tsg-broken-centurion-pawn.webp",
+		"token": "modules/pf2e-ap180-the-smoking-gun/assets/tokens/tsg-broken-centurion-token.webp"
+	},
+	"fsO6qulg049kdo12": {
+		"actor": "modules/pf2e-ap180-the-smoking-gun/assets/pawns/tsg-gremlins1-pawn.webp",
+		"token": "modules/pf2e-ap180-the-smoking-gun/assets/tokens/tsg-gremlin1-priest-token.webp"
+	},
+	"5jRhf7NP9thQtYCe": {
+		"actor": "modules/pf2e-ap180-the-smoking-gun/assets/pawns/tsg-mutant-ogre-pawn.webp",
+		"token": "modules/pf2e-ap180-the-smoking-gun/assets/tokens/tsg-mutant-ogre-token.webp"
+	},
+	"2o6t3FioEbPT3M6U": {
+		"actor": "modules/pf2e-ap180-the-smoking-gun/assets/pawns/tsg-mutant-bats-pawn.webp",
+		"token": "modules/pf2e-ap180-the-smoking-gun/assets/tokens/tsg-mutant-bats-token.webp"
+	},
+	"kJNnY2a4bu0Q7hnl": {
+		"actor": "modules/pf2e-ap180-the-smoking-gun/assets/pawns/tsg-captured-dezullon-pawn.webp",
+		"token": "modules/pf2e-ap180-the-smoking-gun/assets/tokens/tsg-captured-dezullon-token.webp"
+	},
+	"pgYXyo7Qs9b84bQh": {
+		"actor": "modules/pf2e-ap180-the-smoking-gun/assets/pawns/tsg-disgorged-zombie-pawn.webp",
+		"token": "modules/pf2e-ap180-the-smoking-gun/assets/tokens/tsg-shock-zombie-token.webp"
+	},
+	"UgaIxXmbPe7qcrNk": {
+		"actor": "modules/pf2e-ap180-the-smoking-gun/assets/pawns/tsg-smog-wraith-pawn.webp",
+		"token": "modules/pf2e-ap180-the-smoking-gun/assets/tokens/tsg-smog-wraith-token.webp"
+	},
+	"V3la31QNaidyHUnU": {
+		"actor": "modules/pf2e-ap180-the-smoking-gun/assets/pawns/tsg-clockwork-shambler-pawn.webp",
+		"token": "modules/pf2e-ap180-the-smoking-gun/assets/tokens/tsg-clockwork-shambler-token.webp"
+	},
+	"WwDdD9FI3ololycu": {
+		"actor": "modules/pf2e-ap180-the-smoking-gun/assets/pawns/tsg-zombies-pawn.webp",
+		"token": "modules/pf2e-ap180-the-smoking-gun/assets/tokens/tsg-zombies-token.webp"
+	},
+	"dPVX37fMzAzb3mkv": {
+		"actor": "modules/pf2e-ap180-the-smoking-gun/assets/pawns/tsg-clockwork-puppeteer-pawn.webp",
+		"token": "modules/pf2e-ap180-the-smoking-gun/assets/tokens/tsg-clockwork-puppeteer-token.webp"
+	},
+	"SuFVqL1LRxsGWB1B": {
+		"actor": "modules/pf2e-ap180-the-smoking-gun/assets/pawns/tsg-disgorged-zombie-pawn.webp",
+		"token": "modules/pf2e-ap180-the-smoking-gun/assets/tokens/tsg-shock-zombie-token.webp"
+	},
+	"TLF3QsSKubSBsSOG": {
+		"actor": "modules/pf2e-ap180-the-smoking-gun/assets/pawns/tsg-chemical-zombie-pawn.webp",
+		"token": "modules/pf2e-ap180-the-smoking-gun/assets/tokens/tsg-chemical-zombie-token.webp"
+	},
+	"3BFECcR5ggVH69Gu": {
+		"actor": "modules/pf2e-ap180-the-smoking-gun/assets/pawns/tsg-skeletal-crocodile-pawn.webp",
+		"token": "modules/pf2e-ap180-the-smoking-gun/assets/tokens/tsg-skeletal-crocodile-token.webp"
+	},
+	"irkdc3CACxbhd2MN": {
+		"actor": "modules/pf2e-ap180-the-smoking-gun/assets/pawns/tsg-cranium-preserver-pawn.webp",
+		"token": "modules/pf2e-ap180-the-smoking-gun/assets/tokens/tsg-cranium-preserver-token.webp"
+	},
+	"GmK9VzDtB1i7pmGI": {
+		"actor": "modules/pf2e-ap180-the-smoking-gun/assets/pawns/tsg-parsus-pawn.webp",
+		"token": "modules/pf2e-ap180-the-smoking-gun/assets/tokens/tsg-parsus-token.webp"
+	},
+	"oriWalYkx3CUSPdN": {
+		"actor": "modules/pf2e-ap180-the-smoking-gun/assets/pawns/tsg-clockwork-buccaneer-pawn.webp",
+		"token": "modules/pf2e-ap180-the-smoking-gun/assets/tokens/tsg-clockwork-buccaneer-token.webp"
+	},
+	"KCnloN7xxY0UOhML": {
+		"actor": "modules/pf2e-ap180-the-smoking-gun/assets/pawns/tsg-alethsia-pawn.webp",
+		"token": "modules/pf2e-ap180-the-smoking-gun/assets/tokens/tsg-alethsia-token.webp"
+	},
+	"t60zBqM2apOZtOaC": {
+		"actor": "modules/pf2e-ap180-the-smoking-gun/assets/pawns/tsg-glass-elephant-pawn.webp",
+		"token": "modules/pf2e-ap180-the-smoking-gun/assets/tokens/tsg-glass-elephant-token.webp"
+	},
+	"omcS9Zvq7ZDd35A2": {
+		"actor": "modules/pf2e-ap180-the-smoking-gun/assets/pawns/tsg-glass-buccaneer-pawn.webp",
+		"token": "modules/pf2e-ap180-the-smoking-gun/assets/tokens/tsg-glass-buccaneer-token.webp"
+	},
+	"RgGijwS8Z9fNFFO3": {
+		"actor": "modules/pf2e-ap180-the-smoking-gun/assets/pawns/tsg-glass-sentry-pawn.webp",
+		"token": "modules/pf2e-ap180-the-smoking-gun/assets/tokens/tsg-glass-sentry-token.webp"
+	},
+	"ChBr4WYIeCnRUbHL": {
+		"actor": "modules/pf2e-ap180-the-smoking-gun/assets/pawns/tsg-ibrium-pawn.webp",
+		"token": "modules/pf2e-ap180-the-smoking-gun/assets/tokens/tsg-ibrium-token.webp"
+	},
+	"4tXjSKUChH1W9I6P": {
+		"actor": "modules/pf2e-ap180-the-smoking-gun/assets/pawns/tsg-angelique-loveless-pawn.webp",
+		"token": "modules/pf2e-ap180-the-smoking-gun/assets/tokens/tsg-anjelique-loveless-2-token.webp"
+	},
 	"jaJxIGaNxmcLZ0jK": {
 		"actor": "modules/dimetria/assets/outlaws/art/CLOCKWORK%20DOOR%20WARDEN_result.webp",
 		"token": "modules/dimetria/assets/outlaws/tokens/quartz-clockwork-door-warden-token.webp"
@@ -1479,6 +1595,14 @@
         }
     },
   "pathfinder-bestiary": {
+	"bIXfNKFWduf8MH0f": {
+		"actor": "modules/pf2e-ap180-the-smoking-gun/assets/pawns/tsg-slug-warboss-pawn.webp",
+		"token": "modules/pf2e-ap180-the-smoking-gun/assets/tokens/tsg-slug-warboss-token.webp"
+	},
+	"gdXok08bITkhowDJ": {
+		"actor": "modules/pf2e-ap180-the-smoking-gun/assets/pawns/tsg-ogre-warrior-pawn.webp",
+		"token": "modules/pf2e-ap180-the-smoking-gun/assets/tokens/tsg-ogre-warrior-token.webp"
+	},	
 	"KsWAIXTTh3mfNWOY": {
 		"actor": "modules/dimetria/assets/outlaws/art/GIANT%20VIPER_result.webp",
 		"token": "modules/dimetria/assets/outlaws/tokens/quartz-giant-viper-token.webp"
@@ -1784,6 +1908,22 @@
     }
   },
   "pathfinder-bestiary-2": {
+	"n6cv7eCzPSs4dbHn": {
+		"actor": "modules/pf2e-ap180-the-smoking-gun/assets/pawns/tsg-dweomercat-pawn.webp",
+		"token": "modules/pf2e-ap180-the-smoking-gun/assets/tokens/tsg-dweomercat-token.webp"
+	},
+	"ABMn623izSLHA0sx": {
+		"actor": "modules/pf2e-ap180-the-smoking-gun/assets/pawns/tsg-glass-golem-pawn.webp",
+		"token": "modules/pf2e-ap180-the-smoking-gun/assets/tokens/tsg-glass-golem-token.webp"
+	},
+	"BJoM8LAVP8MA5o8v": {
+		"actor": "modules/pf2e-ap180-the-smoking-gun/assets/pawns/tsg-catoblepas-pawn.webp",
+		"token": "modules/pf2e-ap180-the-smoking-gun/assets/tokens/tsg-catoblepas-token.webp"
+	},
+	"n1jTYFRCaqF1nQrf": {
+		"actor": "modules/pf2e-ap180-the-smoking-gun/assets/pawns/tsg-titan-centipede-pawn.webp",
+		"token": "modules/pf2e-ap180-the-smoking-gun/assets/tokens/tsg-titan-centipede-token.webp"
+	},	
 	"27R4ntwgch7eIQM6": {
 		"actor": "modules/dimetria/assets/outlaws/art/akizendris_result.webp",
 		"token": "modules/dimetria/assets/outlaws/tokens/quartz-akizendris-token.webp"
