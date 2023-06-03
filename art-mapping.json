@@ -1483,10 +1483,6 @@
 		"actor": "modules/dimetria/assets/outlaws/art/GIANT%20VIPER_result.webp",
 		"token": "modules/dimetria/assets/outlaws/tokens/quartz-giant-viper-token.webp"
 	},
-	"fgsDAeZHVbHRhSE8": {
-		"actor": "modules/dimetria/assets/outlaws/art/COCKATRICES.webp",
-		"token": "modules/dimetria/assets/outlaws/tokens/quartz-cockatrices-token.webp"
-	},
 	"E5RDV3n7GnjAspQ5": {
 		"actor": "modules/dimetria/assets/outlaws/art/Mummy.webp",
 		"token": "modules/dimetria/assets/outlaws/tokens/quartz-mummy-token.webp"
@@ -1522,13 +1518,6 @@
 		"actor": "modules/dimetria/assets/blood-lords/ghost-kings-rage/art/DEMILICH.webp",
 		"token": "modules/dimetria/assets/blood-lords/ghost-kings-rage/tokens/DEMILICH.webp"
 	},
-	"4p07SH4zdmVZ405I": {
-		"actor": "modules/dimetria/assets/blood-lords/ghost-kings-rage/art/GraveKnight_v08.webp",
-		"token": {
-			"img": "modules/dimetria/assets/blood-lords/ghost-kings-rage/tokens/GraveKnight_v08.webp",
-			"scale": 1.5
-		}
-	},	  
 	"pkNWilK2pHZ5TDsd": {
 		"actor": "modules/dimetria/assets/blood-lords/taste-of-ashes/art/Lesser%20Death.webp",
 		"token": {
@@ -1570,10 +1559,6 @@
 		"actor": "modules/dimetria/assets/blood-lords/field-of-maidens/art/PZO90183_GREATER_SHADOW.webp",
 		"token": "modules/dimetria/assets/blood-lords/field-of-maidens/tokens/PZO90183%20GREATER%20SHADOW.webp"
 	},	  
-	"XrmHgbKgcHDi4OnK": {
-		"actor": "modules/dimetria/assets/blood-lords/graveclaw/art/Shadow.webp",
-		"token": "modules/dimetria/assets/blood-lords/graveclaw/tokens/bloodlords-shadow-token.webp"
-	},
 	"3VsQFEdIN5e1uWle": {
 		"actor": "modules/dimetria/assets/blood-lords/graveclaw/art/Giant%20Moray%20Eel.webp",
 		"token": "modules/dimetria/assets/blood-lords/graveclaw/tokens/bloodlords-giant-moray-eel-token.webp"
@@ -1617,10 +1602,6 @@
 	"Hkq9ZS2J2iKnT7vT": {
 		"actor": "modules/dimetria/assets/blood-lords/zombie-feast/art/bloodlords-sewer-ooze.webp",
 		"token": "modules/dimetria/assets/blood-lords/zombie-feast/tokens/bloodlords-sewer-ooze-token.webp"
-	},
-	"Ix1PziAEk9IIMYBz": {
-		"actor": "modules/dimetria/assets/blood-lords/zombie-feast/art/bloodlords-zombie-brute.webp",
-		"token": "modules/dimetria/assets/blood-lords/zombie-feast/tokens/bloodlords-zombie-brute-token.webp"
 	},
 	"fgsDAeZHVbHRhSE8": {
 		"actor": "modules/dimetria/assets/blood-lords/zombie-feast/art/bloodlords-cockatrice.webp",
@@ -1675,10 +1656,6 @@
         "img": "modules/dimetria/assets/abomination-vaults/bestiary-tokens/ch-07/erinys.webp",
         "scale": 1.5
       }
-    },
-    "VC7rtYR4hLxwg7WZ": {
-      "actor": "modules/dimetria/assets/abomination-vaults/bestiary-portraits/ch-06/ghast.webp",
-      "token": "modules/dimetria/assets/abomination-vaults/bestiary-tokens/ch-06/ghast.webp"
     },
     "LHHgGSs0ELCR4CYK": {
       "actor": "modules/dimetria/assets/abomination-vaults/bestiary-portraits/ch-03/ghoul.webp",
@@ -1770,10 +1747,6 @@
         "scale": 1.5
       }
     },
-    "ZXbr1ke1vF0ZFKY3": {
-      "actor": "modules/dimetria/assets/abomination-vaults/bestiary-portraits/ch-08/roper.webp",
-      "token": "modules/dimetria/assets/abomination-vaults/bestiary-tokens/ch-08/roper.webp"
-    },
     "XrmHgbKgcHDi4OnK": {
       "actor": "modules/dimetria/assets/abomination-vaults/bestiary-portraits/ch-02/shadow.webp",
       "token": {
@@ -1788,10 +1761,6 @@
     "5MVBU86ZRw2ANMQn": {
       "actor": "modules/dimetria/assets/abomination-vaults/bestiary-portraits/ch-02/skeletal-giant.webp",
       "token": "modules/dimetria/assets/abomination-vaults/bestiary-tokens/ch-02/skeletal-giant.webp"
-    },
-    "lo4fR4jDVzLdwwkH": {
-      "actor": "modules/dimetria/assets/abomination-vaults/bestiary-portraits/ch-08/skeletal-hulk.webp",
-      "token": "modules/dimetria/assets/abomination-vaults/bestiary-tokens/ch-08/skeletal-hulk.webp"
     },
     "5H8ZX7y5IkUBhvhF": {
       "actor": "modules/dimetria/assets/abomination-vaults/bestiary-portraits/ch-01/skeleton-guard.webp",
@@ -1812,10 +1781,6 @@
     "wRQ7TZdd0n5UIIao": {
       "actor": "modules/dimetria/assets/abomination-vaults/bestiary-portraits/ch-04/will-o-wisp.webp",
       "token": "modules/dimetria/assets/abomination-vaults/bestiary-tokens/ch-04/will-o-wisp.webp"
-    },
-    "0plBflWwrCWQO2RO": {
-      "actor": "modules/dimetria/assets/abomination-vaults/bestiary-portraits/ch-01/zombie-shambler.webp",
-      "token": "modules/dimetria/assets/abomination-vaults/bestiary-tokens/ch-01/zombie-shambler.webp"
     }
   },
   "pathfinder-bestiary-2": {
@@ -1876,10 +1841,6 @@
 			"scale": 1.5
 		}
 	},
-	"ZGEf08j9q4fIPDFd": {
-		"actor": "modules/dimetria/assets/blood-lords/ghouls-hunger/art/Dread%20Wraith.webp",
-		"token": "modules/dimetria/assets/blood-lords/ghouls-hunger/tokens/Dread%20Wraith.webp"
-	},
 	"ytsHNgRwLzabsrZt": {
 		"actor": "modules/dimetria/assets/blood-lords/ghouls-hunger/art/Meladaemon.webp",
 		"token": "modules/dimetria/assets/blood-lords/ghouls-hunger/tokens/Meladaemon.webp"
@@ -1892,10 +1853,6 @@
 		"actor": "modules/dimetria/assets/blood-lords/field-of-maidens/art/Animate%20Dream.webp",
 		"token": "modules/dimetria/assets/blood-lords/field-of-maidens/tokens/Animate%20Dream.webp"
 	},	  
-	"sMNqIHHxcVBXG08h": {
-		"actor": "modules/dimetria/assets/blood-lords/graveclaw/art/PZO2104_WIGHT%20CAIRN%20_Body%20Character.webp",
-		"token": "modules/dimetria/assets/blood-lords/graveclaw/tokens/bloodlords-cairn-wight-2-token.webp"
-	},
 	"WqppjHF2Y8yC6veS": {
 		"actor": "modules/dimetria/assets/blood-lords/graveclaw/art/Midnight%2C%20Shadow%20Drake.webp",
 		"token": "modules/dimetria/assets/blood-lords/graveclaw/tokens/bloodlords-midnight-shadow-drake-token.webp"
@@ -1904,10 +1861,6 @@
 		"actor": "modules/dimetria/assets/blood-lords/graveclaw/art/Assassin%20Vine.webp",
 		"token": "modules/dimetria/assets/blood-lords/graveclaw/tokens/bloodlords-assasin-vine-token.webp"
 	},
-	"dvZM7hGNDu8olV7A": {
-		"actor": "modules/dimetria/assets/blood-lords/graveclaw/art/Brood%20Leech%20Swarm.webp",
-		"token": "modules/dimetria/assets/blood-lords/graveclaw/tokens/bloodlords-brood-leech-swarm-token.webp"
-	},
 	"aMIb3Xm64NzRj8YP": {
 		"actor": "modules/dimetria/assets/blood-lords/graveclaw/art/Mandragora.webp",
 		"token": "modules/dimetria/assets/blood-lords/graveclaw/tokens/bloodlords-mandragora-token.webp"
@@ -1915,14 +1868,6 @@
 	"LQL8HU6tISXZwlOw": {
 		"actor": "modules/dimetria/assets/blood-lords/graveclaw/art/Skaveling.webp",
 		"token": "modules/dimetria/assets/blood-lords/graveclaw/tokens/bloodlords-skaveling-token.webp"
-	},
-	"M4mDroIJlrBYfHkM": {
-		"actor": "modules/dimetria/assets/blood-lords/graveclaw/art/bloodlords-crawling-hand.webp",
-		"token": "modules/dimetria/assets/blood-lords/graveclaw/tokens/bloodlords-crawling-hand-token.webp"
-	},
-	"oSQ3Q9tzTohksAtf": {
-		"actor": "modules/pf2e-ap181-zombie-feast/assets/art/bloodlords-crawling-hand2.webp",
-		"token": "modules/pf2e-ap181-zombie-feast/assets/tokens/bloodlords-crawling-hand-2-token.webp"
 	},
 	"yvmX4J21XE1wqDar": {
 		"actor": "modules/pf2e-ap181-zombie-feast/assets/art/PZO90181_DEPPIK.webp",
@@ -2044,10 +1989,6 @@
         "img": "modules/dimetria/assets/abomination-vaults/bestiary-tokens/ch-06/sarglagon.webp",
         "scale": 1.5
       }
-    },
-    "HNEUSYnInffvGPHK": {
-      "actor": "modules/dimetria/assets/abomination-vaults/bestiary-portraits/ch-05/specter.webp",
-      "token": "modules/dimetria/assets/abomination-vaults/bestiary-tokens/ch-05/specter.webp"
     },
     "h4SZ3U9at7aT0ASv": {
       "actor": "modules/dimetria/assets/abomination-vaults/bestiary-portraits/ch-08/vethris.webp",
@@ -2176,10 +2117,6 @@
 		"actor": "modules/dimetria/assets/blood-lords/taste-of-ashes/art/Consonite%20Choir.webp",
 		"token": "modules/dimetria/assets/blood-lords/taste-of-ashes/tokens/Consonite%20Choir.webp"
 	},
-	"YO3aTYRNGXWiSRal": {
-		"actor": "modules/dimetria/assets/blood-lords/taste-of-ashes/art/Sorcerous%20Skulls%20Swarm.webp",
-		"token": "modules/dimetria/assets/blood-lords/taste-of-ashes/tokens/Sorcerous%20Skulls%20Swarm.webp"
-	},	  
 	"JHrINFX7a7fYhP4w": {
 		"actor": "modules/dimetria/assets/blood-lords/ghouls-hunger/art/Gliminal.webp",
 		"token": "modules/dimetria/assets/blood-lords/ghouls-hunger/tokens/Gliminal.webp"
@@ -2198,10 +2135,6 @@
 	"ZMrydoEfgGUAJGNI": {
 		"actor": "modules/dimetria/assets/blood-lords/ghouls-hunger/art/Plague%20Giant.webp",
 		"token": "modules/dimetria/assets/blood-lords/ghouls-hunger/tokens/Plague%20Giant.webp"
-	},
-	"iiXjQ1SchGiotpVp": {
-		"actor": "modules/dimetria/assets/blood-lords/ghouls-hunger/art/Skeleton%20Infantry.webp",
-		"token": "modules/dimetria/assets/blood-lords/ghouls-hunger/tokens/Skeleton%20Infantry.webp"
 	},
 	"mK7FwVR1yyqeMlA4": {
 		"actor": "modules/dimetria/assets/blood-lords/ghouls-hunger/art/Seething%20Spirit.webp",
@@ -2258,10 +2191,6 @@
 			"img": "modules/dimetria/assets/blood-lords/ghost-kings-rage/tokens/PZO2110%20grave%20Knight%20War%20Master.webp",
 			"scale": 1.5
 		}
-	},
-	"zqftTUpxqkdLx2IY": {
-		"actor": "modules/dimetria/assets/blood-lords/ghost-kings-rage/art/PZO2110 Ecorche.webp",
-		"token": "modules/dimetria/assets/blood-lords/ghost-kings-rage/tokens/PZO2110 Ecorche.webp"
 	},
 	"zPQZLswJISQrvPb7": {
 		"actor": "modules/dimetria/assets/blood-lords/ghost-kings-rage/art/Imdrigal.webp",
