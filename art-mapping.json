@@ -1595,6 +1595,54 @@
         }
   },
   "pathfinder-bestiary": {
+	"NW1Ax1QGE9W4DmiN": {
+		"actor": "modules/pf2e-ap189-dreamers-of-the-nameless-spires/assets/art/Ceustodaemon.webp",
+		"token": "modules/pf2e-ap189-dreamers-of-the-nameless-spires/assets/tokens/Ceustodaemon.webp"
+	},
+	"mqz4MfBwFxlBQeHs": {
+		"actor": "modules/pf2e-ap189-dreamers-of-the-nameless-spires/assets/art/Invisible_Stalker.webp",
+		"token": "modules/pf2e-ap189-dreamers-of-the-nameless-spires/assets/tokens/Invisible_Stalker.webp"
+	},
+	"AdQVjlOWB6rmBRVp": {
+		"actor": "modules/pf2e-ap189-dreamers-of-the-nameless-spires/assets/art/Doppelganger.webp",
+		"token": {
+			"img": "modules/pf2e-ap189-dreamers-of-the-nameless-spires/assets/tokens/Doppelganger.webp",
+			"scale": 1.5
+		}
+	
+	},
+	"oSvWsqFnQLS5wlvg": {
+		"actor": "modules/pf2e-ap189-dreamers-of-the-nameless-spires/assets/art/Frost_Giant.webp",
+		"token": {
+			"img": "modules/pf2e-ap189-dreamers-of-the-nameless-spires/assets/tokens/Frost_Giant.webp",
+			"scale": 1.5
+		}
+	},
+	"pyFvLyQsyYjOz0xI": {
+		"actor": "modules/pf2e-ap189-dreamers-of-the-nameless-spires/assets/art/Frost_Drake.webp",
+		"token": {
+			"img": "modules/pf2e-ap189-dreamers-of-the-nameless-spires/assets/tokens/Frost_Drake.webp",
+			"scale": 1.5
+		}
+	},
+	"Zbvh6ChdD0TWv257": {
+		"actor": "modules/pf2e-ap189-dreamers-of-the-nameless-spires/assets/art/Remorhaz.webp",
+		"token": {
+			"img": "modules/pf2e-ap189-dreamers-of-the-nameless-spires/assets/tokens/remorhaz.webp",
+			"scale": 2
+		}
+	},
+	"7ZgQuis8r8YQyUnI": {
+		"actor": "modules/pf2e-ap189-dreamers-of-the-nameless-spires/assets/art/Yeti.webp",
+		"token": {
+			"img": "modules/pf2e-ap189-dreamers-of-the-nameless-spires/assets/tokens/yeti.webp",
+			"scale": 1.5
+		}
+	},
+	"PfcS6WzhMGzds5Wf": {
+		"actor": "modules/pf2e-ap189-dreamers-of-the-nameless-spires/assets/art/Nilith.webp",
+		"token": "modules/pf2e-ap189-dreamers-of-the-nameless-spires/assets/tokens/Nilith.webp"
+	},	
 	"PiZkpRK23u89h82S": {
 		"actor": "modules/dimetria/assets/gatewalkers/art/PZO90188_Obsidian_Oath_Raider_cmyk.webp",
 		"token": {
@@ -1828,10 +1876,6 @@
       "actor": "modules/dimetria/assets/abomination-vaults/bestiary-portraits/ch-09/cauthooj.webp",
       "token": "modules/dimetria/assets/abomination-vaults/bestiary-tokens/ch-09/cauthooj.webp"
     },
-    "NW1Ax1QGE9W4DmiN": {
-      "actor": "modules/dimetria/assets/abomination-vaults/bestiary-portraits/ch-09/ceustodaemon.webp",
-      "token": "modules/dimetria/assets/abomination-vaults/bestiary-tokens/ch-09/ceustodaemon.webp"
-    },
     "aD76W2uEQhFFUrom": {
       "actor": "modules/dimetria/assets/abomination-vaults/bestiary-portraits/ch-08/chuul.webp",
       "token": "modules/dimetria/assets/abomination-vaults/bestiary-tokens/ch-08/chuul.webp"
@@ -1929,10 +1973,6 @@
       "actor": "modules/dimetria/assets/abomination-vaults/bestiary-portraits/ch-01/mitflit.webp",
       "token": "modules/dimetria/assets/abomination-vaults/bestiary-tokens/ch-01/mitflit.webp"
     },
-    "PfcS6WzhMGzds5Wf": {
-      "actor": "modules/dimetria/assets/abomination-vaults/bestiary-portraits/ch-08/nilith.webp",
-      "token": "modules/dimetria/assets/abomination-vaults/bestiary-tokens/ch-08/nilith.webp"
-    },
     "uQBOJfjtzEXvpLQz": {
       "actor": "modules/dimetria/assets/abomination-vaults/bestiary-portraits/ch-06/ochre-jelly.webp",
       "token": "modules/dimetria/assets/abomination-vaults/bestiary-tokens/ch-06/ochre-jelly.webp"
@@ -1989,6 +2029,25 @@
     }
   },
   "pathfinder-bestiary-2": {
+	"bAaVfrdNLfFh7iHv": {
+		"actor": "modules/pf2e-ap189-dreamers-of-the-nameless-spires/assets/art/Basidirond.webp",
+		"token": "modules/pf2e-ap189-dreamers-of-the-nameless-spires/assets/tokens/Basidirond.webp"
+	},
+	"3YcsuATyahEMygNy": {
+		"actor": "modules/pf2e-ap189-dreamers-of-the-nameless-spires/assets/art/Revenant.webp",
+		"token": "modules/pf2e-ap189-dreamers-of-the-nameless-spires/assets/tokens/revenant.webp"
+	},
+	"2Kw49I6EZbKKlTtK": {
+		"actor": "modules/pf2e-ap189-dreamers-of-the-nameless-spires/assets/art/Blizzardborn.webp",
+		"token": {
+			"img": "modules/pf2e-ap189-dreamers-of-the-nameless-spires/assets/tokens/blizzardborn.webp",
+			"scale": 1.5
+		}
+	},
+	"N3XfcwDn1Nu7milG": {
+		"actor": "modules/pf2e-ap189-dreamers-of-the-nameless-spires/assets/art/Icewyrm.webp",
+		"token": "modules/pf2e-ap189-dreamers-of-the-nameless-spires/assets/tokens/Icewyrm.webp"
+	},
 	"48agy7vl9fQW1LLA": {
 		"actor": "modules/dimetria/assets/gatewalkers/art/PZO90188_Draugar.webp",
 		"token": {
@@ -1999,13 +2058,6 @@
 	"OVRvL7fKERLsM4KP": {
 		"actor": "modules/dimetria/assets/gatewalkers/art/grodair.webp",
 		"token": "modules/dimetria/assets/gatewalkers/tokens/Grodair.webp"
-	},
-	"2Kw49I6EZbKKlTtK": {
-		"actor": "modules/dimetria/assets/gatewalkers/art/manifested%20blizzard.webp",
-		"token": {
-			"img": "modules/dimetria/assets/gatewalkers/tokens/Manifested%20Blizzard.webp",
-			"scale": 1.5
-		}
 	},
 	"DEo5AEY1i9s0kWYZ": {
 		"actor": "modules/dimetria/assets/gatewalkers/art/lunar%20naga.webp",
@@ -2309,6 +2361,13 @@
     }
   },
   "pathfinder-bestiary-3": {
+	"HhuHFmaq69ekSgEl": {
+		"actor": "modules/pf2e-ap189-dreamers-of-the-nameless-spires/assets/art/Shantak.webp",
+		"token": {
+			"img": "modules/pf2e-ap189-dreamers-of-the-nameless-spires/assets/tokens/shantak.webp",
+			"scale": 2
+		}
+	},	
 	"6AvQH0XXccorLE6d": {
 		"actor": "modules/dimetria/assets/gatewalkers/art/skinstitch.webp",
 		"token": "modules/dimetria/assets/gatewalkers/tokens/Skinstitch.webp"
@@ -2665,6 +2724,128 @@
 	}
   },
   "gatewalkers-bestiary": {
+	"DP1XF7ygEPlBOdVB": {
+		"actor": "modules/pf2e-ap189-dreamers-of-the-nameless-spires/assets/art/PZO90189_SNOWY_OWL.webp",
+		"token": {
+			"img": "modules/pf2e-ap189-dreamers-of-the-nameless-spires/assets/tokens/PZO90189%20SNOWY%20OWL.webp",
+			"scale": 2
+		}
+	},
+	"y9W4wnQ5mzs09Px8": {
+		"actor": "modules/pf2e-ap189-dreamers-of-the-nameless-spires/assets/tokens/gatewalkers-trap-token.webp",
+		"token": "modules/pf2e-ap189-dreamers-of-the-nameless-spires/assets/tokens/gatewalkers-trap-token.webp"
+	},
+	"m1M7f4Rd5zuBRVDe": {
+		"actor": "modules/pf2e-ap189-dreamers-of-the-nameless-spires/assets/art/PZO90189_OGMUNZORIUS.webp",
+		"token": "modules/pf2e-ap189-dreamers-of-the-nameless-spires/assets/tokens/PZO90189%20OGMUNZORIUS.webp"
+	},
+	"xSKsWdRWd69OA92K": {
+		"actor": "modules/pf2e-ap189-dreamers-of-the-nameless-spires/assets/tokens/gatewalkers-trap-token.webp",
+		"token": "modules/pf2e-ap189-dreamers-of-the-nameless-spires/assets/tokens/gatewalkers-trap-token.webp"
+	},
+	"FGOMsKi1Z0a7uJJy": {
+		"actor": "modules/pf2e-ap189-dreamers-of-the-nameless-spires/assets/art/PZO90189_THE_GUEST.webp",
+		"token": {
+			"img": "modules/pf2e-ap189-dreamers-of-the-nameless-spires/assets/tokens/PZO90189_THE%20GUEST.webp",
+			"scale": 2
+		}
+	
+	},
+	"MnOXwpGD3vJIFydk": {
+		"actor": "modules/pf2e-ap189-dreamers-of-the-nameless-spires/assets/art/PZO90189_ETWARD_RITALSON_portrait.webp",
+		"token": "modules/pf2e-ap189-dreamers-of-the-nameless-spires/assets/tokens/PZO90189%20ETWARD%20RITALSON%20portrait.webp"
+	},
+	"qbTNd1UeIxYEihNs": {
+		"actor": "modules/pf2e-ap189-dreamers-of-the-nameless-spires/assets/art/PZO90189_MINDMOPPET.webp",
+		"token": {
+			"img": "modules/pf2e-ap189-dreamers-of-the-nameless-spires/assets/tokens/PZO90189_MINDMOPPET.webp",
+			"scale": 1.5
+		}
+	},
+	"N659rGqG2uyI2gp5": {
+		"actor": "modules/pf2e-ap189-dreamers-of-the-nameless-spires/assets/art/Ilverani_Elf.webp",
+		"token": "modules/pf2e-ap189-dreamers-of-the-nameless-spires/assets/tokens/Ilverani_Elf.webp"
+	},
+	"Yy2DDehhj47BMWgP": {
+		"actor": "modules/pf2e-ap189-dreamers-of-the-nameless-spires/assets/art/Guecubu.webp",
+		"token": "modules/pf2e-ap189-dreamers-of-the-nameless-spires/assets/tokens/Guecubu.webp"
+	},
+	"PAQHiQqCcfFo8koZ": {
+		"actor": "modules/pf2e-ap189-dreamers-of-the-nameless-spires/assets/art/PZO90189_ILAKNI.webp",
+		"token": "modules/pf2e-ap189-dreamers-of-the-nameless-spires/assets/tokens/PZO90189%20ILAKNI.webp"
+	},
+	"tjDGU0T5RYZG49EN": {
+		"actor": "modules/pf2e-ap189-dreamers-of-the-nameless-spires/assets/art/PZO90189_ELDER_THING.webp",
+		"token": "modules/pf2e-ap189-dreamers-of-the-nameless-spires/assets/tokens/PZO90189_ELDER%20THING.webp"
+	},
+	"6HB8S40uMTxM9prV": {
+		"actor": "modules/pf2e-ap189-dreamers-of-the-nameless-spires/assets/art/PZO90189_CROWNBOUND_CONSTEALLATION.webp",
+		"token": {
+			"img": "modules/pf2e-ap189-dreamers-of-the-nameless-spires/assets/tokens/PZO90189_CROWNBOUND%20CONSTEALLATION.webp",
+			"scale": 2
+		}
+	},
+	"piLAtgB51zXEHmFt": {
+		"actor": "modules/pf2e-ap189-dreamers-of-the-nameless-spires/assets/art/PZO90189_YAIAFINETI.webp",
+		"token": {
+			"img": "modules/pf2e-ap189-dreamers-of-the-nameless-spires/assets/tokens/PZO90189_YAIAFINETI.webp",
+			"scale": 1.5
+		}
+	},
+	"8typuC7n5nE01Gzu": {
+		"actor": "modules/pf2e-ap189-dreamers-of-the-nameless-spires/assets/art/PZO90189_DREAMSCRAPER.webp",
+		"token": {
+			"img": "modules/pf2e-ap189-dreamers-of-the-nameless-spires/assets/tokens/PZO90189_DREAMSCRAPER.webp",
+			"scale": 1.5
+		}
+	},
+	"AeM32zT3kFOOAugS": {
+		"actor": "modules/pf2e-ap189-dreamers-of-the-nameless-spires/assets/art/PZO90189_EQUENDIA.webp",
+		"token": {
+			"img": "modules/pf2e-ap189-dreamers-of-the-nameless-spires/assets/tokens/PZO90189%20EQUENDIA.webp",
+			"scale": 2
+		}
+	},
+	"jzU3LPOPpzd5RDTW": {
+		"actor": "modules/pf2e-ap189-dreamers-of-the-nameless-spires/assets/tokens/gatewalkers-trap-token.webp",
+		"token": "modules/pf2e-ap189-dreamers-of-the-nameless-spires/assets/tokens/gatewalkers-trap-token.webp"
+	},
+	"5kcL1xtNY0apAwhO": {
+		"actor": "modules/pf2e-ap189-dreamers-of-the-nameless-spires/assets/art/PZO90189_BLACKFROST_PROPHET.webp",
+		"token": {
+			"img": "modules/pf2e-ap189-dreamers-of-the-nameless-spires/assets/tokens/PZO90189_BLACKFROST%20PROPHET.webp",
+			"scale": 1.5
+		}
+	},
+	"bnKUnG9XzsKzIUxK": {
+		"actor": "modules/pf2e-ap189-dreamers-of-the-nameless-spires/assets/art/PZO90189_ANCIENT_TUPILAQ.webp",
+		"token": {
+			"img": "modules/pf2e-ap189-dreamers-of-the-nameless-spires/assets/tokens/PZO90189%20ANCIENT%20TUPILAQ.webp",
+			"scale": 1.5
+		}
+	},
+	"4LTBKID3ZcZgyOVw": {
+		"actor": "modules/pf2e-ap189-dreamers-of-the-nameless-spires/assets/art/PZO90189_ELDER_THING.webp",
+		"token": "modules/pf2e-ap189-dreamers-of-the-nameless-spires/assets/tokens/PZO90189_ELDER%20THING.webp"
+	},
+	"78E4gYNIFP3jd8Bt": {
+		"actor": "modules/pf2e-ap189-dreamers-of-the-nameless-spires/assets/art/PZO90189_Protosoul.webp",
+		"token": {
+			"img": "modules/pf2e-ap189-dreamers-of-the-nameless-spires/assets/tokens/PZO90189%20Protosoul.webp",
+			"scale": 2
+		}
+	},
+	"kgW2ycNTgQsMmkTC": {
+		"actor": "modules/pf2e-ap189-dreamers-of-the-nameless-spires/assets/art/PZO90189_ainamuuren.webp",
+		"token": "modules/pf2e-ap189-dreamers-of-the-nameless-spires/assets/tokens/PZO90189%20AINAMUUREN%20portrait.webp"
+	},
+	"2mq2bKfkW7gtxKla": {
+		"actor": "modules/pf2e-ap189-dreamers-of-the-nameless-spires/assets/art/PZO90189_BLACKFROST_ZOMBIE.webp",
+		"token": {
+			"img": "modules/pf2e-ap189-dreamers-of-the-nameless-spires/assets/tokens/PZO90189_BLACKFROST%20ZOMBIE.webp",
+			"scale": 1.5
+		}
+	},	
 	"2i3x4XFKf8G2vN0N": {
 		"actor": "modules/dimetria/assets/gatewalkers/tokens/gatewalkers-trap-token.webp",
 		"token": "modules/dimetria/assets/gatewalkers/tokens/gatewalkers-trap-token.webp"
