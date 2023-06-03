@@ -1,5 +1,125 @@
 {
   "outlaws-of-alkenstar-bestiary": {
+	"jaJxIGaNxmcLZ0jK": {
+		"actor": "modules/pf2e-ap179-cradle-of-quartz/assets/art/CLOCKWORK%20DOOR%20WARDEN_result.webp",
+		"token": "modules/pf2e-ap179-cradle-of-quartz/assets/tokens/quartz-clockwork-door-warden-token.webp"
+	},
+	"VfFt5YAVe7d9fonE": {
+		"actor": "modules/pf2e-ap179-cradle-of-quartz/assets/art/PZO90179_SWEE_PUP.webp",
+		"token": "modules/pf2e-ap179-cradle-of-quartz/assets/tokens/quartz-swee-pup-token.webp"
+	},
+	"ENCh6fX1xGwwrjCf": {
+		"actor": "modules/pf2e-ap179-cradle-of-quartz/assets/art/PZO90179-trap-jaw_swarm.webp",
+		"token": "modules/pf2e-ap179-cradle-of-quartz/assets/tokens/quartz-trap-jaw-swarm-token.webp"
+	},
+	"661SdyR6HhzsmYJN": {
+		"actor": "modules/pf2e-ap179-cradle-of-quartz/assets/art/CLOCKWORK%20DOOR%20WARDEN_result.webp",
+		"token": "modules/pf2e-ap179-cradle-of-quartz/assets/tokens/quartz-clockwork-door-warden-token.webp"
+	},
+	"T9vLIrNIbcNkYx1M": {
+		"actor": "modules/pf2e-ap179-cradle-of-quartz/assets/art/PZO90179_MASU.webp",
+		"token": "modules/pf2e-ap179-cradle-of-quartz/assets/tokens/quartz-masu-token.webp"
+	},
+	"aJCzNXYDKsTGyaaN": {
+		"actor": "modules/pf2e-ap179-cradle-of-quartz/assets/art/PZO90179_GILDED_GUNNER_GOON.webp",
+		"token": "modules/pf2e-ap179-cradle-of-quartz/assets/tokens/quartz-gilded-gunner-goon-token.webp"
+	},
+	"eBM6yUAHDyEp8Ewi": {
+		"actor": "modules/pf2e-ap179-cradle-of-quartz/assets/art/PZO90179_LUCKY_LANKS.webp",
+		"token": "modules/pf2e-ap179-cradle-of-quartz/assets/tokens/quartz-lucky-lanks-token.webp"
+	},
+	"jXiIATJxyBLgjkm7": {
+		"actor": "modules/pf2e-ap179-cradle-of-quartz/assets/art/SPELLSCAR%20SKY%20MARAUDERS_result.webp",
+		"token": "modules/pf2e-ap179-cradle-of-quartz/assets/tokens/quartz-spellscar-sky-marauders-token.webp"
+	},
+	"wHbf1jbqcHFY6rnj": {
+		"actor": "modules/pf2e-ap179-cradle-of-quartz/assets/art/PZO90179_Chimeric_Manticore.webp",
+		"token": "modules/pf2e-ap179-cradle-of-quartz/assets/tokens/quartz-chimeric-manticore-token.webp"
+	},
+	"YsSpSUB1jeLSifFg": {
+		"actor": "modules/pf2e-ap179-cradle-of-quartz/assets/art/PZO90179_I.webp",
+		"token": "modules/pf2e-ap179-cradle-of-quartz/assets/tokens/quartz-i-token.webp"
+	},
+	"JuN7m62ohqdb4mL5": {
+		"actor": "modules/pf2e-ap179-cradle-of-quartz/assets/art/PZO90179_PALZU_AND_JAX.webp",
+		"token": "modules/pf2e-ap179-cradle-of-quartz/assets/tokens/quartz-palzu-and-jax-token.webp"
+	},
+	"8KUB92Ljms7hS7vq": {
+		"actor": "modules/pf2e-ap179-cradle-of-quartz/assets/art/PZO90179_Kreeth-Ni.webp",
+		"token": "modules/pf2e-ap179-cradle-of-quartz/assets/tokens/quartz-kreeth-ni-token.webp"
+	},
+	"zLy98F3VPHwJPgih": {
+		"actor": "modules/pf2e-ap179-cradle-of-quartz/assets/art/AKRIDA_result.webp",
+		"token": "modules/pf2e-ap179-cradle-of-quartz/assets/tokens/quartz-akrida-token.webp"
+	}, 
+	"3ibFfE1X8thaWb8A": {
+		"actor": "modules/pf2e-ap179-cradle-of-quartz/assets/art/PZO90179_THE_CLAWS_OF_TIME.webp",
+		"token": "modules/pf2e-ap179-cradle-of-quartz/assets/tokens/quartz-the-claws-of-time-token.webp"
+	},
+	"lM7vowMNtvLnz8Q6": {
+		"actor": "modules/pf2e-ap179-cradle-of-quartz/assets/art/pzo90179_clockwork_Sphinix.webp",
+		"token": "modules/pf2e-ap179-cradle-of-quartz/assets/tokens/quartz-clockwork-sphinx-token.webp"
+	},
+	"q7bUVljOk9Xy55Bt": {
+		"actor": "modules/pf2e-ap179-cradle-of-quartz/assets/art/PZO90179-Scarecophagus.webp",
+		"token": "modules/pf2e-ap179-cradle-of-quartz/assets/tokens/quartz-scarecophagus-token.webp"
+	},
+	"8jYqoyei7X2Bikb0": {
+		"actor": "modules/pf2e-ap179-cradle-of-quartz/assets/art/PZO90179_BRIGH_HEREXEN.webp",
+		"token": "modules/pf2e-ap179-cradle-of-quartz/assets/tokens/quartz-brigh-herexen-token.webp"
+	},
+	"RqV8n5CxdDQ6ZahH": {
+		"actor": "modules/pf2e-ap179-cradle-of-quartz/assets/art/PZO90179_clockwork_disposer_B.webp",
+		"token": "modules/pf2e-ap179-cradle-of-quartz/assets/tokens/quartz-clockwork-disposer-b-token.webp"
+	},
+	"2IjwfgmGutHhpg7B": {
+		"actor": "modules/pf2e-ap179-cradle-of-quartz/assets/art/PZO90179_GILDED_GUNNER_VETERAN.webp",
+		"token": "modules/pf2e-ap179-cradle-of-quartz/assets/tokens/quartz-gilded-gunner-veteran-token.webp"
+	},
+	"TDLiOXhnBxC0n3jr": {
+		"actor": "modules/pf2e-ap179-cradle-of-quartz/assets/art/GILDED%20GUNNER%20SAFECRACKERS_result.webp",
+		"token": "modules/pf2e-ap179-cradle-of-quartz/assets/tokens/quartz-gilded-gunner-safecrackers-token.webp"
+	},
+	"LhjQnXhGFWhWVdmg": {
+		"actor": "modules/pf2e-ap179-cradle-of-quartz/assets/art/STEAMING%20KINGDOM%20BARTENDER_result.webp",
+		"token": "modules/pf2e-ap179-cradle-of-quartz/assets/tokens/quartz-steaming-kingdom-bartender-token.webp"
+	},
+	"o2nLVCZVOacqkWus": {
+		"actor": "modules/pf2e-ap179-cradle-of-quartz/assets/art/CLOCKWORK%20GUNNER_result.webp",
+		"token": "modules/pf2e-ap179-cradle-of-quartz/assets/tokens/quartz-clockwork-gunner-token.webp"
+	},
+	"rN4Q66R0601txrHg": {
+		"actor": "modules/pf2e-ap179-cradle-of-quartz/assets/art/Hansin_result.webp",
+		"token": "modules/pf2e-ap179-cradle-of-quartz/assets/tokens/quartz-hansin-token.webp"
+	},
+	"WtpeHbOQdK5CiaLf": {
+		"actor": "modules/pf2e-ap179-cradle-of-quartz/assets/art/Drela_result.webp",
+		"token": "modules/pf2e-ap179-cradle-of-quartz/assets/tokens/quartz-drela-token.webp"
+	},
+	"TfyWBoNpR1iNBcLV": {
+		"actor": "modules/pf2e-ap179-cradle-of-quartz/assets/art/PZO90179_SABORA_SHARKOSA.webp",
+		"token": "modules/pf2e-ap179-cradle-of-quartz/assets/tokens/quartz-sabora-sharkosa-token.webp"
+	},
+	"Wr08A69Iu5pXNWXj": {
+		"actor": "modules/pf2e-ap179-cradle-of-quartz/assets/art/PZO90179_Ambrost_Mugland_Final.webp",
+		"token": "modules/pf2e-ap179-cradle-of-quartz/assets/tokens/quartz-ambrost-mugland-token.webp"
+	},
+	"zUHMrJZKcKIv6IpM": {
+		"actor": "modules/pf2e-ap179-cradle-of-quartz/assets/art/PZO90179-Dalem.webp",
+		"token": "modules/pf2e-ap179-cradle-of-quartz/assets/tokens/quartz-dalem-token.webp"
+	},
+	"AAkT7x3eYV1hn1I6": {
+		"actor": "modules/pf2e-ap179-cradle-of-quartz/assets/art/PZO90179_Lodestone_Giant.webp",
+		"token": "modules/pf2e-ap179-cradle-of-quartz/assets/tokens/quartz-lodestone-giant-token.webp"
+	},
+	"BO72SUjG83p8p9UU": {
+		"actor": "modules/pf2e-ap179-cradle-of-quartz/assets/art/PZO90179-Mutant_Toad.webp",
+		"token": "modules/pf2e-ap179-cradle-of-quartz/assets/tokens/quartz-mutant-toad-token.webp"
+	},
+	"ceKqkc0c86gh6cI1": {
+		"actor": "modules/pf2e-ap179-cradle-of-quartz/assets/art/PZO90179-desert-drake.webp",
+		"token": "modules/pf2e-ap179-cradle-of-quartz/assets/tokens/quartz-desert-drake-token.webp"
+	},	
 	"3dL5oBOLaFaAmDR4": {
 		"actor": "modules/dimetria/assets/outlaws/art/punks-powder-keg-punk-bombardier-pawn.webp",
 		"token": "modules/dimetria/assets/outlaws/tokens/punks-powder-keg-punk-bombardier.webp"
@@ -1359,6 +1479,18 @@
         }
     },
   "pathfinder-bestiary": {
+	"KsWAIXTTh3mfNWOY": {
+		"actor": "modules/pf2e-ap179-cradle-of-quartz/assets/art/GIANT%20VIPER_result.webp",
+		"token": "modules/pf2e-ap179-cradle-of-quartz/assets/tokens/quartz-giant-viper-token.webp"
+	},
+	"fgsDAeZHVbHRhSE8": {
+		"actor": "modules/pf2e-ap179-cradle-of-quartz/assets/art/COCKATRICES.webp",
+		"token": "modules/pf2e-ap179-cradle-of-quartz/assets/tokens/quartz-cockatrices-token.webp"
+	},
+	"E5RDV3n7GnjAspQ5": {
+		"actor": "modules/pf2e-ap179-cradle-of-quartz/assets/art/Mummy.webp",
+		"token": "modules/pf2e-ap179-cradle-of-quartz/assets/tokens/quartz-mummy-token.webp"
+	},	
 	"jVZRROs0GzDjVrgi": {
 		"actor": "modules/dimetria/assets/outlaws/art/punks-goblin-warrior-pawn.webp",
 		"token": "modules/dimetria/assets/outlaws/tokens/punks-goblin-warrior.webp"
@@ -1687,6 +1819,26 @@
     }
   },
   "pathfinder-bestiary-2": {
+	"27R4ntwgch7eIQM6": {
+		"actor": "modules/pf2e-ap179-cradle-of-quartz/assets/art/akizendris_result.webp",
+		"token": "modules/pf2e-ap179-cradle-of-quartz/assets/tokens/quartz-akizendris-token.webp"
+	},
+	"E4aJhHWyFDxgJcy9": {
+		"actor": "modules/pf2e-ap179-cradle-of-quartz/assets/art/PERYTONS_result.webp",
+		"token": "modules/pf2e-ap179-cradle-of-quartz/assets/tokens/quartz-perytons-token.webp"
+	},
+	"gOjrie9YndQPomU8": {
+		"actor": "modules/pf2e-ap179-cradle-of-quartz/assets/art/ANIMATED%20HOODOO_result.webp",
+		"token": "modules/pf2e-ap179-cradle-of-quartz/assets/tokens/quartz-animated-hoodoo-token.webp"
+	},
+	"BbIyNJDPkGKLK0Rt": {
+		"actor": "modules/pf2e-ap179-cradle-of-quartz/assets/art/VEXGITS_result.webp",
+		"token": "modules/pf2e-ap179-cradle-of-quartz/assets/tokens/quartz-vexgits-token.webp"
+	},
+	"HNEUSYnInffvGPHK": {
+		"actor": "modules/pf2e-ap179-cradle-of-quartz/assets/art/Droxolos%20the%20Eroder_result.webp",
+		"token": "modules/pf2e-ap179-cradle-of-quartz/assets/tokens/quartz-droxolos-the-eroder-token.webp"
+	},	
 	"8HJNH3aDTJyJi3pU": {
 		"actor": "modules/dimetria/assets/outlaws/art/punks-cockroach-art.webp",
 		"token": "modules/dimetria/assets/outlaws/tokens/punks-cockroach-swarm.webp"
@@ -1953,6 +2105,38 @@
     }
   },  
   "pathfinder-bestiary-3": {
+	"cKZtOsBlN3Qu8Kyq": {
+		"actor": "modules/pf2e-ap179-cradle-of-quartz/assets/art/CLOCKWORK%20SPIES_result.webp",
+		"token": "modules/pf2e-ap179-cradle-of-quartz/assets/tokens/quartz-clockwork-spies-token.webp"
+	},
+	"YLLyd6Jb4Zqmz0lo": {
+		"actor": "modules/pf2e-ap179-cradle-of-quartz/assets/art/Karayo_result.webp",
+		"token": "modules/pf2e-ap179-cradle-of-quartz/assets/tokens/quartz-karayo-token.webp"
+	},
+	"tjtTHdIBP5QIAyS7": {
+		"actor": "modules/pf2e-ap179-cradle-of-quartz/assets/art/Siksusu_result.webp",
+		"token": "modules/pf2e-ap179-cradle-of-quartz/assets/tokens/quartz-siksusu-token.webp"
+	},
+	"2pQoqcUxyHsTLhjw": {
+		"actor": "modules/pf2e-ap179-cradle-of-quartz/assets/art/VIPER%20SWARM_result.webp",
+		"token": "modules/pf2e-ap179-cradle-of-quartz/assets/tokens/quartz-viper-swarm-token.webp"
+	},
+	"9SW7NWlTisAjNwAu": {
+		"actor": "modules/pf2e-ap179-cradle-of-quartz/assets/art/SPRITE%20NYKTERA_result.webp",
+		"token": "modules/pf2e-ap179-cradle-of-quartz/assets/tokens/quartz-sprite-nyktera-token.webp"
+	},
+	"OsWFo87OQ4G67zMS": {
+		"actor": "modules/pf2e-ap179-cradle-of-quartz/assets/art/Kurobozu_result.webp",
+		"token": "modules/pf2e-ap179-cradle-of-quartz/assets/tokens/quartz-kurobozu-token.webp"
+	},
+	"KGAuzJaKfPAdn0It": {
+		"actor": "modules/pf2e-ap179-cradle-of-quartz/assets/art/AGHASHES_result.webp",
+		"token": "modules/pf2e-ap179-cradle-of-quartz/assets/tokens/quartz-aghashes-token.webp"
+	},
+	"zMoJh88vXJQwSHsX": {
+		"actor": "modules/pf2e-ap179-cradle-of-quartz/assets/art/ABANDONED%20ZEALOTS_result.webp",
+		"token": "modules/pf2e-ap179-cradle-of-quartz/assets/tokens/quartz-abandoned-zealots-token.webp"
+	},	
 	"FXwgsLTRneGzclsw": {
 		"actor": "modules/dimetria/assets/outlaws/art/Ennosite ioton.webp",
 		"token": "modules/dimetria/assets/outlaws/tokens/punks-ioton-token.webp"
