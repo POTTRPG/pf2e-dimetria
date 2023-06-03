@@ -1593,8 +1593,57 @@
             "actor": "modules/dimetria/assets/blood-lords/zombie-feast/art/PZO90181_Dirge_Piper.webp",
             "token": "modules/dimetria/assets/blood-lords/zombie-feast/tokens/zombie-dirge-piper-token.webp"
         }
-    },
+  },
   "pathfinder-bestiary": {
+	"PiZkpRK23u89h82S": {
+		"actor": "modules/dimetria/assets/gatewalkers/art/PZO90188_Obsidian_Oath_Raider_cmyk.webp",
+		"token": {
+			"img": "modules/dimetria/assets/gatewalkers/tokens/PZO90188_Obsidian_Oath_Raider_cmyk.webp",
+			"scale": 2
+		}
+	},
+	"KclNszYZ7sjwE9nX": {
+		"actor": "modules/dimetria/assets/gatewalkers/art/narthkeza.webp",
+		"token": "modules/dimetria/assets/gatewalkers/tokens/Narthkeza.webp"
+	},
+	"8uXLbKKzxN5O0ZhM": {
+		"actor": "modules/dimetria/assets/gatewalkers/art/elananx.webp",
+		"token": "modules/dimetria/assets/gatewalkers/tokens/Elananx.webp"
+	},
+	"ZPjQkKVMi3xoPcU0": {
+		"actor": "modules/dimetria/assets/gatewalkers/art/wight.webp",
+		"token": "modules/dimetria/assets/gatewalkers/tokens/Wight.webp"
+	},
+	"BLFEu9jCKPAMko01": {
+		"actor": "modules/dimetria/assets/gatewalkers/art/fist%20of%20ragadahn.webp",
+		"token": "modules/dimetria/assets/gatewalkers/tokens/Fist%20of%20Ragadahn.webp"
+	},
+	"4cPw8hZwW6uvyzvh": {
+		"actor": "modules/dimetria/assets/gatewalkers/art/vrock.webp",
+		"token": "modules/dimetria/assets/gatewalkers/tokens/Vrock.webp"
+	},
+	"9jF564DF6ylEovna": {
+		"actor": "modules/dimetria/assets/gatewalkers/art/quasit.webp",
+		"token": "modules/dimetria/assets/gatewalkers/tokens/Quasit.webp"
+	},
+	"quXuocHuT2US7cWz": {
+		"actor": "modules/dimetria/assets/gatewalkers/art/daeodon.webp",
+		"token": "modules/dimetria/assets/gatewalkers/tokens/Daeodon.webp"
+	},
+	"gdXok08bITkhowDJ": {
+		"actor": "modules/dimetria/assets/gatewalkers/art/ogre%20warrior.webp",
+		"token": {
+			"img": "modules/dimetria/assets/gatewalkers/tokens/Ogre%20Warrior.webp",
+			"scale": 1.5
+		}
+	},
+	"bIw7czN0E3rENrVd": {
+		"actor": "modules/dimetria/assets/gatewalkers/art/stag-beetle-giant.webp",
+		"token": {
+			"img": "modules/dimetria/assets/gatewalkers/tokens/stag-beetle-giant.webp",
+			"scale": 1.5
+		}
+	},	
 	"lFlXmieuHTBIonhj": {
 		"actor": "modules/dimetria/assets/gatewalkers/art/Viper.webp",
 		"token": "modules/dimetria/assets/gatewalkers/tokens/Viper.webp"
@@ -1643,10 +1692,6 @@
 		"actor": "modules/dimetria/assets/outlaws/pawns/tsg-slug-warboss-pawn.webp",
 		"token": "modules/dimetria/assets/outlaws/tokens/tsg-slug-warboss-token.webp"
 	},
-	"gdXok08bITkhowDJ": {
-		"actor": "modules/dimetria/assets/outlaws/pawns/tsg-ogre-warrior-pawn.webp",
-		"token": "modules/dimetria/assets/outlaws/tokens/tsg-ogre-warrior-token.webp"
-	},	
 	"KsWAIXTTh3mfNWOY": {
 		"actor": "modules/dimetria/assets/outlaws/art/GIANT%20VIPER_result.webp",
 		"token": "modules/dimetria/assets/outlaws/tokens/quartz-giant-viper-token.webp"
@@ -1730,10 +1775,6 @@
 	"3VsQFEdIN5e1uWle": {
 		"actor": "modules/dimetria/assets/blood-lords/graveclaw/art/Giant%20Moray%20Eel.webp",
 		"token": "modules/dimetria/assets/blood-lords/graveclaw/tokens/bloodlords-giant-moray-eel-token.webp"
-	},
-	"ZPjQkKVMi3xoPcU0": {
-		"actor": "modules/dimetria/assets/blood-lords/graveclaw/art/Wight.webp",
-		"token": "modules/dimetria/assets/blood-lords/graveclaw/tokens/bloodlords-wight-token.webp"
 	},
 	"FJo8VkrM7kLkHa5D": {
 		"actor": "modules/dimetria/assets/blood-lords/graveclaw/art/bloodlords-zombie-brute.webp",
@@ -1948,6 +1989,67 @@
     }
   },
   "pathfinder-bestiary-2": {
+	"48agy7vl9fQW1LLA": {
+		"actor": "modules/dimetria/assets/gatewalkers/art/PZO90188_Draugar.webp",
+		"token": {
+			"img": "modules/dimetria/assets/gatewalkers/tokens/PZO90188_Draugar.webp",
+			"scale": 2
+		}
+	},
+	"OVRvL7fKERLsM4KP": {
+		"actor": "modules/dimetria/assets/gatewalkers/art/grodair.webp",
+		"token": "modules/dimetria/assets/gatewalkers/tokens/Grodair.webp"
+	},
+	"2Kw49I6EZbKKlTtK": {
+		"actor": "modules/dimetria/assets/gatewalkers/art/manifested%20blizzard.webp",
+		"token": {
+			"img": "modules/dimetria/assets/gatewalkers/tokens/Manifested%20Blizzard.webp",
+			"scale": 1.5
+		}
+	},
+	"DEo5AEY1i9s0kWYZ": {
+		"actor": "modules/dimetria/assets/gatewalkers/art/lunar%20naga.webp",
+		"token": {
+			"img": "modules/dimetria/assets/gatewalkers/tokens/Lunar%20Naga.webp",
+			"scale": 1.5
+		}
+	},
+	"l3kFjH4n9Shet6bz": {
+		"actor": "modules/dimetria/assets/gatewalkers/art/fen%20mosquito%20swarm.webp",
+		"token": "modules/dimetria/assets/gatewalkers/tokens/Fen%20Mosquito%20Swarm.webp"
+	},
+	"uBG93M52pa84qIt5": {
+		"actor": "modules/dimetria/assets/gatewalkers/art/giant%20mosquito.webp",
+		"token": {
+			"img": "modules/dimetria/assets/gatewalkers/tokens/Giant%20Mosquito.webp",
+			"scale": 1.5
+		}
+	},
+	"wqsmnoby2n3BOvKu": {
+		"actor": "modules/dimetria/assets/gatewalkers/art/moonflower.webp",
+		"token": "modules/dimetria/assets/gatewalkers/tokens/Moonflower.webp"
+	},
+	"M2BkGD9YwEmCvD9D": {
+		"actor": "modules/dimetria/assets/gatewalkers/art/invidiak.webp",
+		"token": {
+			"img": "modules/dimetria/assets/gatewalkers/tokens/Invidiak.webp",
+			"scale": 1.5
+		}
+	},
+	"Ud6Iy1GolgtwrKQK": {
+		"actor": "modules/dimetria/assets/gatewalkers/art/babau.webp",
+		"token": {
+			"img": "modules/dimetria/assets/gatewalkers/tokens/Babau.webp",
+			"scale": 1.5
+		}
+	},
+	"sMNqIHHxcVBXG08h": {
+		"actor": "modules/dimetria/assets/gatewalkers/art/cairn-wight.webp",
+		"token": {
+			"img": "modules/dimetria/assets/gatewalkers/tokens/cairn-wight.webp",
+			"scale": 2
+		}
+	},	
 	"Z2v611Np3J1MBkpv": {
 		"actor": "modules/dimetria/assets/gatewalkers/art/PZO90187_Dream_Spider.webp",
 		"token": {
@@ -1967,10 +2069,6 @@
 		"actor": "modules/dimetria/assets/gatewalkers/art/The%20Chronicler.webp",
 		"token": "modules/dimetria/assets/gatewalkers/tokens/The%20Chronicler.webp"
 	},
-	"sMNqIHHxcVBXG08h": {
-		"actor": "modules/dimetria/assets/gatewalkers/art/PZO90187_EOX_WIGHT.webp",
-		"token": "modules/dimetria/assets/gatewalkers/tokens/PZO90187%20EOX%20WIGHT.webp"
-	},	
 	"n6cv7eCzPSs4dbHn": {
 		"actor": "modules/dimetria/assets/outlaws/pawns/tsg-dweomercat-pawn.webp",
 		"token": "modules/dimetria/assets/outlaws/tokens/tsg-dweomercat-token.webp"
@@ -2210,37 +2308,29 @@
       "token": "modules/dimetria/assets/abomination-vaults/bestiary-tokens/ch-06/zebub.webp"
     }
   },
-  "blog-bestiary": {
-    "GQE978SzTLS0Sa8B": {
-      "actor": "modules/dimetria/assets/abomination-vaults/bestiary-portraits/otari/morlibint.webp",
-      "token": "modules/dimetria/assets/abomination-vaults/bestiary-tokens/otari/morlibint.webp"
-    }
-  },
-  "npc-gallery": {
-	"XpkGaDlyMH2V5wxR": {
-		"actor": "modules/dimetria/assets/blood-lords/graveclaw/art/Pharasma_Cleric_finished_dark.webp",
-		"token": "modules/dimetria/assets/blood-lords/graveclaw/tokens/bloodlords-pharasma-cleric-3-token.webp"
-	},
-	"DFurZlcpcNrUmmER": {
-		"actor": "modules/pf2e-ap181-zombie-feast/assets/art/bloodlords-ruffian4.webp",
-		"token": "modules/pf2e-ap181-zombie-feast/assets/tokens/bloodlords-ruffian4-token.webp"
-	}
-  },  
-  "age-of-ashes-bestiary": {
-	"tr3qlFJVHqloE9zI": {
-		"actor": "modules/dimetria/assets/blood-lords/graveclaw/art/FORGE-SPURNED_FINAL.webp",
-		"token": "modules/dimetria/assets/blood-lords/graveclaw/tokens/bloodlords-forge-spurned-token.webp"
-	},
-    "ZqL6MP4XxDys9dmW": {
-      "actor": "modules/dimetria/assets/art/aiudara_wraith.png",
-      "token": "modules/dimetria/assets/tokens/aiudara_wraith_token.png"
-    },
-	"xrxjjjRMKzwsYbGm": {
-      "actor": "modules/dimetria/assets/art/accursed_forge_spurned.webp",
-      "token": "modules/dimetria/assets/tokens/accursed-forge-spurned_token.png"
-    }
-  },  
   "pathfinder-bestiary-3": {
+	"6AvQH0XXccorLE6d": {
+		"actor": "modules/dimetria/assets/gatewalkers/art/skinstitch.webp",
+		"token": "modules/dimetria/assets/gatewalkers/tokens/Skinstitch.webp"
+	},
+	"rVtBZrHnWM3lvSs7": {
+		"actor": "modules/dimetria/assets/gatewalkers/art/brimorak.webp",
+		"token": {
+			"img": "modules/dimetria/assets/gatewalkers/tokens/Brimorak.webp",
+			"scale": 1.5
+		}
+	},
+	"GGuT6YsRH4aXhpl3": {
+		"actor": "modules/dimetria/assets/gatewalkers/art/PZO90188_ZOMBIE_DRAGON.webp",
+		"token": {
+			"img": "modules/dimetria/assets/gatewalkers/tokens/PZO90188%20ZOMBIE%20DRAGON.webp",
+			"scale": 3
+		}
+	},
+	"ooyJuLQ3AivRwLpa": {
+		"actor": "modules/dimetria/assets/gatewalkers/art/dretch.webp",
+		"token": "modules/dimetria/assets/gatewalkers/tokens/Dretch.webp"
+	},	
 	"zGco5QmokZpFgLes": {
 		"actor": "modules/dimetria/assets/gatewalkers/art/Grimple.webp",
 		"token": "modules/dimetria/assets/gatewalkers/tokens/Grimple.webp"
@@ -2430,6 +2520,48 @@
       "token": "modules/dimetria/assets/abomination-vaults/bestiary-tokens/ch-08/owb.webp"
     }
   },
+  "blog-bestiary": {
+    "GQE978SzTLS0Sa8B": {
+      "actor": "modules/dimetria/assets/abomination-vaults/bestiary-portraits/otari/morlibint.webp",
+      "token": "modules/dimetria/assets/abomination-vaults/bestiary-tokens/otari/morlibint.webp"
+    }
+  },
+  "npc-gallery": {
+	"KPUDfkVpemug2gKj": {
+		"actor": "modules/dimetria/assets/gatewalkers/art/bandit.webp",
+		"token": "modules/dimetria/assets/gatewalkers/tokens/Bandit.webp"
+	},
+	"5LvpvIMhaYLcyAk6": {
+		"actor": "modules/dimetria/assets/gatewalkers/art/pzo9422-ilizmagorti%20freebooter.webp",
+		"token": "modules/dimetria/assets/gatewalkers/tokens/PZO9422-Ilizmagorti%20Freebooter.webp"
+	},
+	"1NZ1ZAgcUlWKmQSs": {
+		"actor": "modules/dimetria/assets/gatewalkers/art/red%20duchess%20bosun.webp",
+		"token": "modules/dimetria/assets/gatewalkers/tokens/Red%20Duchess%20Bosun.webp"
+	},
+	"XpkGaDlyMH2V5wxR": {
+		"actor": "modules/dimetria/assets/blood-lords/graveclaw/art/Pharasma_Cleric_finished_dark.webp",
+		"token": "modules/dimetria/assets/blood-lords/graveclaw/tokens/bloodlords-pharasma-cleric-3-token.webp"
+	},
+	"DFurZlcpcNrUmmER": {
+		"actor": "modules/pf2e-ap181-zombie-feast/assets/art/bloodlords-ruffian4.webp",
+		"token": "modules/pf2e-ap181-zombie-feast/assets/tokens/bloodlords-ruffian4-token.webp"
+	}
+  },  
+  "age-of-ashes-bestiary": {
+	"tr3qlFJVHqloE9zI": {
+		"actor": "modules/dimetria/assets/blood-lords/graveclaw/art/FORGE-SPURNED_FINAL.webp",
+		"token": "modules/dimetria/assets/blood-lords/graveclaw/tokens/bloodlords-forge-spurned-token.webp"
+	},
+    "ZqL6MP4XxDys9dmW": {
+      "actor": "modules/dimetria/assets/art/aiudara_wraith.png",
+      "token": "modules/dimetria/assets/tokens/aiudara_wraith_token.png"
+    },
+	"xrxjjjRMKzwsYbGm": {
+      "actor": "modules/dimetria/assets/art/accursed_forge_spurned.webp",
+      "token": "modules/dimetria/assets/tokens/accursed-forge-spurned_token.png"
+    }
+  },  
   "book-of-the-dead-bestiary": {
 	"Yv9e7NSCzPuhlCnH": {
 		"actor": "modules/dimetria/assets/blood-lords/ghost-kings-rage/art/PZO2110%20grave%20Knight%20War%20Master.webp",
@@ -2533,6 +2665,124 @@
 	}
   },
   "gatewalkers-bestiary": {
+	"2i3x4XFKf8G2vN0N": {
+		"actor": "modules/dimetria/assets/gatewalkers/tokens/gatewalkers-trap-token.webp",
+		"token": "modules/dimetria/assets/gatewalkers/tokens/gatewalkers-trap-token.webp"
+	},
+	"uTaGZT1vl7UG9tdf": {
+		"actor": "modules/dimetria/assets/gatewalkers/art/animated%20object%202%20(animated%20bureau)(correct).webp",
+		"token": "modules/dimetria/assets/gatewalkers/tokens/animated%20object%202%20(animated%20bureau)(correct).webp"
+	},
+	"rrMtTABR1587fJGU": {
+		"actor": "modules/dimetria/assets/gatewalkers/art/PZO90188_Ghodrak_The_Quick.webp",
+		"token": "modules/dimetria/assets/gatewalkers/tokens/PZO90188_Ghodrak_The_Quick.webp"
+	},
+	"A9gKXEQXwKb4U6wA": {
+		"actor": "modules/dimetria/assets/gatewalkers/art/PZO90188_Myroga.webp",
+		"token": "modules/dimetria/assets/gatewalkers/tokens/PZO90188%20Myroga.webp"
+	},
+	"16Ru7zfHAHD544xO": {
+		"actor": "modules/dimetria/assets/gatewalkers/art/PZO90188_Glimmervine.webp",
+		"token": "modules/dimetria/assets/gatewalkers/tokens/PZO90188%20Glimmervine.webp"
+	},
+	"9pu5FhW9oW1mZaaC": {
+		"actor": "modules/dimetria/assets/gatewalkers/art/PZO90188_Capstan_Swabbie.webp",
+		"token": {
+			"img": "modules/dimetria/assets/gatewalkers/tokens/PZO90188%20Capstan%20Swabbie.webp",
+			"scale": 1.5
+		}
+	},
+	"7LdB1zPPNiWX4Ji5": {
+		"actor": "modules/dimetria/assets/gatewalkers/art/PZO90188_Kvernknurr1.webp",
+		"token": "modules/dimetria/assets/gatewalkers/tokens/PZO90188%20Kvernknurr.webp"
+	},
+	"mcNpKicW6L1E327u": {
+		"actor": "modules/dimetria/assets/gatewalkers/art/PZO90188_Pholebis.webp",
+		"token": "modules/dimetria/assets/gatewalkers/tokens/PZO90188_Pholebis.webp"
+	},
+	"eR1tzQX7WrTsJMb3": {
+		"actor": "modules/dimetria/assets/gatewalkers/art/PZO90188_Red_Duchess_Captain.webp",
+		"token": {
+			"img": "modules/dimetria/assets/gatewalkers/tokens/PZO90188_Red_Duchess_Captain.webp",
+			"scale": 1.5
+		}
+	},
+	"FgQwsnyJOOSdgUbg": {
+		"actor": "modules/dimetria/assets/gatewalkers/tokens/gatewalkers-trap-token.webp",
+		"token": "modules/dimetria/assets/gatewalkers/tokens/gatewalkers-trap-token.webp"
+	},
+	"BlF4FiqivSuigBxy": {
+		"actor": "modules/dimetria/assets/gatewalkers/art/PZO90188_Skin_Beetle_Swarm.webp",
+		"token": "modules/dimetria/assets/gatewalkers/tokens/Skin%20Beetle%20Swarm.webp"
+	},
+	"PGqYo173cQAYLHTz": {
+		"actor": "modules/dimetria/assets/gatewalkers/tokens/gatewalkers-trap-token.webp",
+		"token": "modules/dimetria/assets/gatewalkers/tokens/gatewalkers-trap-token.webp"
+	},
+	"f1Wpj3sqUrfr4m6K": {
+		"actor": "modules/dimetria/assets/gatewalkers/art/PZO90188_VALMAR1.webp",
+		"token": "modules/dimetria/assets/gatewalkers/tokens/PZO90188%20VALMAR.webp"
+	},
+	"tWT89vRMBNtU2i5y": {
+		"actor": "modules/dimetria/assets/gatewalkers/tokens/gatewalkers-trap-token.webp",
+		"token": "modules/dimetria/assets/gatewalkers/tokens/gatewalkers-trap-token.webp"
+	},
+	"COyGm2KW6YKFE67u": {
+		"actor": "modules/dimetria/assets/gatewalkers/art/PZO90188_Skin_Beetle_Swarm.webp",
+		"token": "modules/dimetria/assets/gatewalkers/tokens/Skin%20Beetle%20Swarm.webp"
+	},
+	"UPmGB6VZqrF2Mo8B": {
+		"actor": "modules/dimetria/assets/gatewalkers/tokens/gatewalkers-trap-token.webp",
+		"token": "modules/dimetria/assets/gatewalkers/tokens/gatewalkers-trap-token.webp"
+	},
+	"JrMv2lQ1hRTpMumk": {
+		"actor": "modules/dimetria/assets/gatewalkers/art/PZO90188_ALKOASHA.webp",
+		"token": {
+			"img": "modules/dimetria/assets/gatewalkers/tokens/PZO90188%20ALKOASHA%20Heads%200.webp",
+			"scale": 2
+		}
+	},
+	"SbJe7zmuevvBFhad": {
+		"actor": "modules/dimetria/assets/gatewalkers/art/abyssal%20muckrager%202.webp",
+		"token": {
+			"img": "modules/dimetria/assets/gatewalkers/tokens/Abyssal%20Muckrager%202.webp",
+			"scale": 1.5
+		}
+	},
+	"flnTtopxODLH45H8": {
+		"actor": "modules/dimetria/assets/gatewalkers/tokens/gatewalkers-trap-token.webp",
+		"token": "modules/dimetria/assets/gatewalkers/tokens/gatewalkers-trap-token.webp"
+	},
+	"eRRWMgdYHwNIm6zp": {
+		"actor": "modules/dimetria/assets/gatewalkers/art/PZO90188_SAKUACHIS_SPIRIT_GUIDE.webp",
+		"token": {
+			"img": "modules/dimetria/assets/gatewalkers/tokens/PZO90188%20SAKUACHI%27S%20SPIRIT%20GUIDE.webp",
+			"scale": 3
+		}
+	},
+	"ESgndiwI8BzwhDLi": {
+		"actor": "modules/dimetria/assets/gatewalkers/art/PZO90188_Demon.webp",
+		"token": {
+			"img": "modules/dimetria/assets/gatewalkers/tokens/PZO90188%20Demon.webp",
+			"scale": 2
+		}
+	},
+	"yTREQiKhDqp16UeO": {
+		"actor": "modules/dimetria/assets/gatewalkers/art/PZO90188_Green_Monkey.webp",
+		"token": "modules/dimetria/assets/gatewalkers/tokens/PZO90188%20Green%20Monkey.webp"
+	},
+	"DWT0VLHV9MCbbjbx": {
+		"actor": "modules/dimetria/assets/gatewalkers/art/PZO90188_Stone_Breasted_Owl.webp",
+		"token": "modules/dimetria/assets/gatewalkers/tokens/PZO90188%20Stone%20Breasted%20Owl.webp"
+	},
+	"wdeje31VJ7Ivcdd6": {
+		"actor": "modules/dimetria/assets/gatewalkers/art/PZO90188_SAKUACHI_portrait.webp",
+		"token": "modules/dimetria/assets/gatewalkers/tokens/PZO90188%20SAKUACHI%20portrait.webp"
+	},
+	"NeNIMJO0P1KA8KCM": {
+		"actor": "modules/dimetria/assets/gatewalkers/art/demontangle%20-%20gibbering%20mouther.webp",
+		"token": "modules/dimetria/assets/gatewalkers/tokens/Demontangle%20-%20Gibbering%20Mouther.webp"
+	},	
 	"kneoApQfhlRhhp1R": {
 		"actor": "modules/dimetria/assets/gatewalkers/art/PZO90187_Oaksteward_Enforcer.webp",
 		"token": "modules/dimetria/assets/gatewalkers/tokens/PZO90187_Oaksteward_Enforcer.webp"
@@ -2680,5 +2930,5 @@
 		"actor": "modules/dimetria/assets/gatewalkers/tokens/symbiotic_amoeba.webp",
 		"token": "modules/dimetria/assets/gatewalkers/tokens/symbiotic_amoeba.webp"
 	}
-}  
+  }  
 }
