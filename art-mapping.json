@@ -1595,6 +1595,30 @@
         }
   },
   "pathfinder-bestiary": {
+    "KDRlxdIUADWHI6Vr": {
+		"actor": "modules/dimetria/assets/PFS04/art/Air%20Mephit.webp",
+		"token": {
+		  "img": "modules/dimetria/assets/PFS04/tokens/Air%20Mephit.webp"
+		}
+	  },
+	  "hNR4xZRsxUkGPI1v": {
+		"actor": "modules/dimetria/assets/PFS04/art/rakshsa%20dandasuka%20hires.webp",
+		"token": {
+		  "img": "modules/dimetria/assets/PFS04/tokens/rakshsa%20dandasuka%20hires.webp"
+		}
+	  },
+	  "k9fM0vufbdsDPQul": {
+		"actor": "modules/dimetria/assets/PFS04/art/Fire%20Mephit.webp",
+		"token": {
+		  "img": "modules/dimetria/assets/PFS04/tokens/Fire%20Mephit.webp"
+		}
+	  },
+	  "9hOuoOONmp6500GZ": {
+		"actor": "modules/dimetria/assets/PFS04/art/Giant%20Gecko.webp",
+		"token": {
+		  "img": "modules/dimetria/assets/PFS04/tokens/Giant%20Gecko.webp"
+		}
+	  },
     "cZDiyluplFqRxmGy": {
 		"actor": "modules/dimetria/assets/bb/portraits-bestiary/animated-armor.webp",
 		"token": "modules/dimetria/assets/bb/tokens-bestiary/animated-armor.webp"
@@ -1926,10 +1950,6 @@
 			"scale": 1.5
 		}
 	},
-	"9hOuoOONmp6500GZ": {
-		"actor": "modules/dimetria/assets/gatewalkers/art/Carla.webp",
-		"token": "modules/dimetria/assets/gatewalkers/tokens/Carla.webp"
-	},	
 	"bIXfNKFWduf8MH0f": {
 		"actor": "modules/dimetria/assets/outlaws/pawns/tsg-slug-warboss-pawn.webp",
 		"token": "modules/dimetria/assets/outlaws/tokens/tsg-slug-warboss-token.webp"
@@ -2621,6 +2641,12 @@
     }
   },
   "pathfinder-bestiary-3": {
+	  "8M91u7Q3javRQVEY": {
+		"actor": "modules/dimetria/assets/PFS04/art/Rakshasa%20Raktavarna.webp",
+		"token": {
+		  "img": "modules/dimetria/assets/PFS04/tokens/Rakshasa%20Raktavarna.webp"
+		}
+	  },	
 	"vOTFqODTDDC2BDLx": {
 		"actor": "modules/dimetria/assets/stolen-fate/art/Rancorous%20Priesthood.webp",
 		"token": {
@@ -2887,6 +2913,20 @@
     }
   },
   "npc-gallery": {
+    "B09JfuBZHjcRXztU": {
+		"note": "Ruffian",
+		"actor": "modules/dimetria/assets/PFS04/art/Qadiran%20Ruffian.webp",
+		"token": {
+		  "img": "modules/dimetria/assets/PFS04/tokens/Qadiran%20Ruffian.webp"
+		}
+	  },
+	  "DFurZlcpcNrUmmER": {
+		"note": "Burglar",
+		"actor": "modules/dimetria/assets/PFS04/art/Qadiran%20Ruffian.webp",
+		"token": {
+		  "img": "modules/dimetria/assets/PFS04/tokens/Qadiran%20Ruffian.webp"
+		}
+	  },	
 	"TCzxsJQjUpy02CsJ": {
 		"actor": "modules/dimetria/assets/stolen-fate/art/Shoanti%20Human%20Tracker%202.webp",
 		"token": {
@@ -2916,10 +2956,6 @@
 	"XpkGaDlyMH2V5wxR": {
 		"actor": "modules/dimetria/assets/blood-lords/graveclaw/art/Pharasma_Cleric_finished_dark.webp",
 		"token": "modules/dimetria/assets/blood-lords/graveclaw/tokens/bloodlords-pharasma-cleric-3-token.webp"
-	},
-	"DFurZlcpcNrUmmER": {
-		"actor": "modules/pf2e-ap181-zombie-feast/assets/art/bloodlords-ruffian4.webp",
-		"token": "modules/pf2e-ap181-zombie-feast/assets/tokens/bloodlords-ruffian4-token.webp"
 	}
   },  
   "age-of-ashes-bestiary": {
@@ -4099,6 +4135,211 @@
     "0plBflWwrCWQO2RO": {
       "actor": "modules/dimetria/assets/bb/portraits-bestiary/zombie-shambler.webp",
       "token": "modules/dimetria/assets/bb/tokens-bestiary/zombie-shambler.webp"
+    }
+  },
+  "pfs-season-4-bestiary": {
+    "473NoC8CXToJcWzk": {
+      "actor": "modules/dimetria/assets/PFS04/art/PZOPFS0413_BURROWING%20VIPER%20RATS.webp",
+      "token": {
+        "img": "modules/dimetria/assets/PFS04/tokens/PZOPFS0413_BURROWING%20VIPER%20RATS.webp"
+      }
+    },
+    "aOniinvqGZ6EUbyq": {
+      "actor": "modules/dimetria/assets/PFS04/art/pzo2104%20shadow%20drake%20fin.webp",
+      "token": {
+        "img": "modules/dimetria/assets/PFS04/tokens/pzo2104%20shadow%20drake%20fin.webp"
+      }
+    },
+    "jyFItQzXQpyJT8kO": {
+      "actor": "modules/dimetria/assets/PFS04/art/PZOPFS0413_MAYOR%20DEYAHI.webp",
+      "token": {
+        "img": "modules/dimetria/assets/PFS04/tokens/PZOPFS0413_MAYOR%20DEYAHI.webp"
+      }
+    },
+    "4Kll3POFvVeSNVkH": {
+      "actor": "modules/dimetria/assets/PFS04/art/Gremlin%20-%20Scrit.webp",
+      "token": {
+        "img": "modules/dimetria/assets/PFS04/tokens/Gremlin%20-%20Scrit.webp"
+      }
+    },
+    "hKyWYatvNfvM82QG": {
+      "actor": "modules/dimetria/assets/PFS04/art/pzo2104%20shadow%20drake%20fin.webp",
+      "token": {
+        "img": "modules/dimetria/assets/PFS04/tokens/pzo2104%20shadow%20drake%20fin.webp"
+      }
+    },
+    "55qjNw6rOCdJYC52": {
+      "actor": "modules/dimetria/assets/PFS04/art/pzo2104%20shadow%20drake%20fin.webp",
+      "token": {
+        "img": "modules/dimetria/assets/PFS04/tokens/pzo2104%20shadow%20drake%20fin.webp"
+      }
+    },
+    "XkoZF15KKDsz2m2x": {
+      "actor": "modules/dimetria/assets/PFS04/art/PZOPFS0413_RUNT.webp",
+      "token": {
+        "img": "modules/dimetria/assets/PFS04/tokens/PZOPFS0413_RUNT.webp"
+      }
+    },
+    "qkqL6iX7WRmOfNk7": {
+      "actor": "modules/dimetria/assets/PFS04/art/PZOPFS0413_RUNT.webp",
+      "token": {
+        "img": "modules/dimetria/assets/PFS04/tokens/PZOPFS0413_RUNT.webp"
+      }
+    },
+    "ixCuB33ckYp0BLnh": {
+      "note": "Snakebush (1-2)",
+      "actor": "modules/dimetria/assets/PFS04/tokens/hazard.webp",
+      "token": {
+        "img": "modules/dimetria/assets/PFS04/tokens/hazard.webp"
+      }
+    },
+    "lC3AaEl9XFaewjx0": {
+      "note": "Snakebush (3-4)",
+      "actor": "modules/dimetria/assets/PFS04/tokens/hazard.webp",
+      "token": {
+        "img": "modules/dimetria/assets/PFS04/tokens/hazard.webp"
+      }
+    },
+    "VQ1TNqlUvdlKkuN6": {
+      "actor": "modules/dimetria/assets/PFS04/art/SUHKO_PZOPFS0412.webp",
+      "token": {
+        "img": "modules/dimetria/assets/PFS04/tokens/SUHKO_PZOPFS0412.webp"
+      }
+    },
+    "7W9dzIWzgEOB2UTK": {
+      "actor": "modules/dimetria/assets/PFS04/art/SUHKO_PZOPFS0412.webp",
+      "token": {
+        "img": "modules/dimetria/assets/PFS04/tokens/SUHKO_PZOPFS0412.webp"
+      }
+    },
+    "ysyBat8g5V1KxAYN": {
+      "note": "Suncatcher Blooms (1-2)",
+      "actor": "modules/dimetria/assets/PFS04/tokens/hazard.webp",
+      "token": {
+        "img": "modules/dimetria/assets/PFS04/tokens/hazard.webp"
+      }
+    },
+    "GGypi6t8oJBqWdWS": {
+      "note": "Suncatcher Blooms (3-4)",
+      "actor": "modules/dimetria/assets/PFS04/tokens/hazard.webp",
+      "token": {
+        "img": "modules/dimetria/assets/PFS04/tokens/hazard.webp"
+      }
+    },
+    "tihsW2usCLrMwa2Y": {
+      "actor": "modules/dimetria/assets/PFS04/art/Gremlin%20-%20Scrit.webp",
+      "token": {
+        "img": "modules/dimetria/assets/PFS04/tokens/Gremlin%20-%20Scrit.webp"
+      }
+    },
+    "IkS9AxSHCAPTYSoB": {
+      "actor": "modules/dimetria/assets/PFS04/art/PZOPFS0413_TSIMAAN%20AYIKA.webp",
+      "token": {
+        "img": "modules/dimetria/assets/PFS04/tokens/PZOPFS0413_TSIMAAN%20AYIKA.webp"
+      }
+    },
+    "cDqNZtFdqfhgFhLI": {
+      "actor": "modules/dimetria/assets/PFS04/art/PZOPFS0413_WHIIRII.webp",
+      "token": {
+        "img": "modules/dimetria/assets/PFS04/tokens/PZOPFS0413_WHIIRII.webp"
+      }
+    },
+    "lutwHdRXlCllpIsG": {
+      "note": "Adagio",
+      "actor": "modules/dimetria/assets/PFS04/tokens/hazard.webp",
+      "token": {
+        "img": "modules/dimetria/assets/PFS04/tokens/hazard.webp"
+      }
+    },
+    "zbohP3l19fvkAypi": {
+      "note": "Allegro",
+      "actor": "modules/dimetria/assets/PFS04/tokens/hazard.webp",
+      "token": {
+        "img": "modules/dimetria/assets/PFS04/tokens/hazard.webp"
+      }
+    },
+    "xYzi5lnTSwcsKi8S": {
+      "note": "It Pours",
+      "actor": "modules/dimetria/assets/PFS04/tokens/hazard.webp",
+      "token": {
+        "img": "modules/dimetria/assets/PFS04/tokens/hazard.webp"
+      }
+    },
+    "8mtq3RF6L0EL1kSW": {
+      "note": "It Rains",
+      "actor": "modules/dimetria/assets/PFS04/tokens/hazard.webp",
+      "token": {
+        "img": "modules/dimetria/assets/PFS04/tokens/hazard.webp"
+      }
+    },
+    "G0ur3TDztA2Vj8vv": {
+      "note": "Malevolent Reflections",
+      "actor": "modules/dimetria/assets/PFS04/tokens/hazard.webp",
+      "token": {
+        "img": "modules/dimetria/assets/PFS04/tokens/hazard.webp"
+      }
+    },
+    "ytltNW8kF7VssFNJ": {
+      "note": "Shaitan Tactics (3-4)",
+      "actor": "modules/dimetria/assets/PFS04/tokens/hazard.webp",
+      "token": {
+        "img": "modules/dimetria/assets/PFS04/tokens/hazard.webp"
+      }
+    },
+    "kZr0bYzlCcMooMuf": {
+      "note": "Shaitan Tactics (5-6)",
+      "actor": "modules/dimetria/assets/PFS04/tokens/hazard.webp",
+      "token": {
+        "img": "modules/dimetria/assets/PFS04/tokens/hazard.webp"
+      }
+    },
+    "HXq9Vqshk7DzFQ0C": {
+      "note": "Storm-Wrought Chains",
+      "actor": "modules/dimetria/assets/PFS04/tokens/hazard.webp",
+      "token": {
+        "img": "modules/dimetria/assets/PFS04/tokens/hazard.webp"
+      }
+    },
+    "6pg2w3qRLK4h6alz": {
+      "note": "Tempest-Forged Chains",
+      "actor": "modules/dimetria/assets/PFS04/tokens/hazard.webp",
+      "token": {
+        "img": "modules/dimetria/assets/PFS04/tokens/hazard.webp"
+      }
+    },
+    "BFTZmBmib06cgtXD": {
+      "note": "Wicket Reflection",
+      "actor": "modules/dimetria/assets/PFS04/tokens/hazard.webp",
+      "token": {
+        "img": "modules/dimetria/assets/PFS04/tokens/hazard.webp"
+      }
+    },
+    "spj8i9bMQDZhj8C9": {
+      "actor": "modules/dimetria/assets/PFS04/art/PZOPFS04_FARAH%20AL-SALEEL.webp",
+      "token": {
+        "img": "modules/dimetria/assets/PFS04/tokens/PZOPFS04_FARAH%20AL-SALEEL.webp"
+      }
+    },
+    "vHLV1hPjfAwMSUEI": {
+      "actor": "modules/dimetria/assets/PFS04/art/PZOPFS04_FARAH%20AL-SALEEL.webp",
+      "token": {
+        "img": "modules/dimetria/assets/PFS04/tokens/PZOPFS04_FARAH%20AL-SALEEL.webp"
+      }
+    },
+    "p1ip40AhsO1fwy4M": {
+      "actor": "modules/dimetria/assets/PFS04/art/PZOPFS0312%20Fasiel%20Ibn%20Sazadin.webp",
+      "token": {
+        "img": "modules/dimetria/assets/PFS04/tokens/PZOPFS0312%20Fasiel%20Ibn%20Sazadin.webp"
+      }
+    }
+  },
+  "pfs-season-3-bestiary": {
+    "986YKe07u2538RcF": {
+      "note": "Fasiel Ibn Sazadin (3-4)",
+      "actor": "modules/dimetria/assets/PFS04/art/PZOPFS0312%20Fasiel%20Ibn%20Sazadin.webp",
+      "token": {
+        "img": "modules/dimetria/assets/PFS04/tokens/PZOPFS0312%20Fasiel%20Ibn%20Sazadin.webp"
+      }
     }
   }  
 }
