@@ -1595,45 +1595,66 @@
         }
   },
   "pathfinder-bestiary": {
-	"4cPw8hZwW6uvyzvh": {
-		"actor": "modules/pf2e-ap190-the-choosing/assets/art/Vrock.webp",
+	"XbClt5wkqECrQToJ": {
+		"actor": "modules/dimetria/assets/stolen-fate/art/Hadi%20Tafen.webp",
 		"token": {
-			"img": "modules/pf2e-ap190-the-choosing/assets/tokens/Vrock.webp",
+			"img": "modules/dimetria/assets/stolen-fate/tokens/Hadi%20Tafen.webp",
+			"scale": 1.6
+		}
+	},
+	"ImueS9YFhV6sxqBP": {
+		"actor": "modules/dimetria/assets/stolen-fate/art/Drenodroz%20the%20Remade.webp",
+		"token": {
+			"img": "modules/dimetria/assets/stolen-fate/tokens/Drenodroz%20the%20Remade.webp",
+			"scale": 1.5
+		}
+	},
+	"BRo0snV2sH6TFuh6": {
+		"actor": "modules/dimetria/assets/stolen-fate/art/Glabrezu%2002.webp",
+		"token": {
+			"img": "modules/dimetria/assets/stolen-fate/tokens/Glabrezu%2002.webp",
+			"scale": 1.5
+		}
+	},	
+	"4cPw8hZwW6uvyzvh": {
+		"actor": "modules/dimetria/assets/stolen-fate/art/Vrock.webp",
+		"token": {
+			"img": "modules/dimetria/assets/stolen-fate/tokens/Vrock.webp",
 			"scale": 1.5
 		}
 	},
 	"5pk6bfodgnllSIOy": {
-		"actor": "modules/pf2e-ap190-the-choosing/assets/art/flytrap-giant.webp",
+		"actor": "modules/dimetria/assets/stolen-fate/art/flytrap-giant.webp",
 		"token": {
-			"img": "modules/pf2e-ap190-the-choosing/assets/tokens/flytrap-giant.webp",
+			"img": "modules/dimetria/assets/stolen-fate/tokens/flytrap-giant.webp",
 			"scale": 1.5
 		}
 	},
 	"WiOY3YbiKEJKIQQz": {
-		"actor": "modules/pf2e-ap190-the-choosing/assets/art/stone-giant.webp",
+		"actor": "modules/dimetria/assets/stolen-fate/art/stone-giant.webp",
 		"token": {
-			"img": "modules/pf2e-ap190-the-choosing/assets/tokens/stone-giant.webp",
+			"img": "modules/dimetria/assets/stolen-fate/tokens/stone-giant.webp",
 			"scale": 1.5
 		}
 	},
 	"9llfviiJg5bJlBth": {
-		"actor": "modules/pf2e-ap190-the-choosing/assets/art/mukradi.webp",
+		"actor": "modules/dimetria/assets/stolen-fate/art/mukradi.webp",
 		"token": {
-			"img": "modules/pf2e-ap190-the-choosing/assets/tokens/mukradi.webp",
+			"img": "modules/dimetria/assets/stolen-fate/tokens/mukradi.webp",
 			"scale": 1.5
 		}
 	},
 	"l05LjJTXvFS4tYTE": {
-		"actor": "modules/pf2e-ap190-the-choosing/assets/art/centaur.webp",
+		"actor": "modules/dimetria/assets/stolen-fate/art/centaur.webp",
 		"token": {
-			"img": "modules/pf2e-ap190-the-choosing/assets/tokens/centaur.webp",
+			"img": "modules/dimetria/assets/stolen-fate/tokens/centaur.webp",
 			"scale": 1.5
 		}
 	},
 	"t4JYGYJqT1CaqKvh": {
-		"actor": "modules/pf2e-ap190-the-choosing/assets/art/shining-child.webp",
+		"actor": "modules/dimetria/assets/stolen-fate/art/shining-child.webp",
 		"token": {
-			"img": "modules/pf2e-ap190-the-choosing/assets/tokens/shining-child.webp",
+			"img": "modules/dimetria/assets/stolen-fate/tokens/shining-child.webp",
 			"scale": 1.5
 		}
 	},	
@@ -1765,10 +1786,6 @@
 			"img": "modules/dimetria/assets/gatewalkers/tokens/PZO90187%20CASTROVELIAN%20JUNGLE%20DRAKE.webp",
 			"scale": 1.5
 		}
-	},
-	"XbClt5wkqECrQToJ": {
-		"actor": "modules/dimetria/assets/gatewalkers/art/Nurl.webp",
-		"token": "modules/dimetria/assets/gatewalkers/tokens/Nurl.webp"
 	},
 	"9hOuoOONmp6500GZ": {
 		"actor": "modules/dimetria/assets/gatewalkers/art/Carla.webp",
@@ -2067,38 +2084,80 @@
     }
   },
   "pathfinder-bestiary-2": {
-	"xjV0TmPNfKR7UcKu": {
-		"actor": "modules/pf2e-ap190-the-choosing/assets/art/osyluth.webp",
+	"wqiFcGPARy8zmQfd": {
+		"actor": "modules/dimetria/assets/stolen-fate/art/Hezrou.webp",
 		"token": {
-			"img": "modules/pf2e-ap190-the-choosing/assets/tokens/osyluth.webp",
+			"img": "modules/dimetria/assets/stolen-fate/tokens/Hezrou.webp",
+			"scale": 1.5
+		}
+	},
+	"NlMqwcN2ZaALOVSY": {
+		"actor": "modules/dimetria/assets/stolen-fate/art/Alchemical%20Blob.webp",
+		"token": {
+			"img": "modules/dimetria/assets/stolen-fate/tokens/Alchemical%20Blob.webp",
+			"scale": 1.5
+		}
+	},
+	"YUZF9WhDmfzma3dE": {
+		"actor": "modules/dimetria/assets/stolen-fate/art/PZO90149%20NALFESHNEE.webp",
+		"token": {
+			"img": "modules/dimetria/assets/stolen-fate/tokens/PZO90149%20NALFESHNEE.webp",
+			"scale": 1.5
+		}
+	},
+	"SpnJQIHLeiJOjEWR": {
+		"actor": "modules/dimetria/assets/stolen-fate/art/Shadow%20Giant.webp",
+		"token": {
+			"img": "modules/dimetria/assets/stolen-fate/tokens/Shadow%20Giant.webp",
+			"scale": 1.5
+		}
+	},
+	"DxV2vH17H789bJ6y": {
+		"actor": "modules/dimetria/assets/stolen-fate/art/Ankou.webp",
+		"token": {
+			"img": "modules/dimetria/assets/stolen-fate/tokens/Ankou.webp",
+			"scale": 1.5
+		}
+	},
+	"kKH3uMHbVZQmEtxj": {
+		"actor": "modules/dimetria/assets/stolen-fate/art/Jotund%20Troll.webp",
+		"token": {
+			"img": "modules/dimetria/assets/stolen-fate/tokens/Jotund%20Troll.webp",
+			"scale": 1.5
+		}
+	},	
+	"xjV0TmPNfKR7UcKu": {
+		"actor": "modules/dimetria/assets/stolen-fate/art/osyluth.webp",
+		"token": {
+			"img": "modules/dimetria/assets/stolen-fate/tokens/osyluth.webp",
 			"scale": 1.5
 		}
 	},
 	"NoCtPLRoVvloZe63": {
-		"actor": "modules/pf2e-ap190-the-choosing/assets/art/PZO90190_SEDISSERAX_final.webp",
+		"actor": "modules/dimetria/assets/stolen-fate/art/PZO90190_SEDISSERAX_final.webp",
 		"token": {
-			"img": "modules/pf2e-ap190-the-choosing/assets/tokens/PZO90190_SEDISSERAX_final.webp",
+			"img": "modules/dimetria/assets/stolen-fate/tokens/PZO90190_SEDISSERAX_final.webp",
 			"scale": 2
 		}
 	},
 	"W1OXnXGF22uybovO": {
-		"actor": "modules/pf2e-ap190-the-choosing/assets/art/taiga-giant.webp",
+		"actor": "modules/dimetria/assets/stolen-fate/art/taiga-giant.webp",
 		"token": {
-			"img": "modules/pf2e-ap190-the-choosing/assets/tokens/taiga-giant.webp",
+			"img": "modules/dimetria/assets/stolen-fate/tokens/taiga-giant.webp",
 			"scale": 1.5
 		}
 	},
 	"pxlZ8QbxMK6b3l5w": {
-		"actor": "modules/pf2e-ap190-the-choosing/assets/art/leng-spider.webp",
+		"actor": "modules/dimetria/assets/stolen-fate/art/leng-spider.webp",
 		"token": {
-			"img": "modules/pf2e-ap190-the-choosing/assets/tokens/leng-spider.webp",
+			"img": "modules/dimetria/assets/stolen-fate/tokens/leng-spider.webp",
 			"scale": 1.5
 		}
 	},
 	"zjPdqdQGNjO3Kto7": {
-		"actor": "modules/pf2e-ap190-the-choosing/assets/art/aurumvorax.webp",
+		"actor": "modules/dimetria/assets/stolen-fate/art/aurumvorax.webp",
 		"token": {
-			"img": "modules/pf2e-ap190-the-choosing/assets/tokens/aurumvorax.webp",
+			"img": "modules/dimetria/assets/stolen-fate/tokens/aurumvorax.webp",
 			"scale": 1.5
 		}
 	},	
@@ -2245,13 +2304,6 @@
 	"e0PXAtnDnJo4ggFX": {
 		"actor": "modules/dimetria/assets/blood-lords/taste-of-ashes/art/Vrykolakas%20Ancient.webp",
 		"token": "modules/dimetria/assets/blood-lords/taste-of-ashes/tokens/Vrykolakas%20Ancient.webp"
-	},
-	"SpnJQIHLeiJOjEWR": {
-		"actor": "modules/dimetria/assets/blood-lords/taste-of-ashes/art/PZO90147%20SHADOW%20GIANT.webp",
-		"token": {
-			"img": "modules/dimetria/assets/blood-lords/taste-of-ashes/tokens/PZO90147%20SHADOW%20GIANT%201.5x.webp",
-			"scale": 1.5
-		}
 	},
 	"Nk3Inn5jel1VQMLt": {
 		"actor": "modules/dimetria/assets/blood-lords/taste-of-ashes/art/Radiant%20Warden.webp",
@@ -2430,24 +2482,52 @@
     }
   },
   "pathfinder-bestiary-3": {
-	"YO3aTYRNGXWiSRal": {
-		"actor": "modules/pf2e-ap190-the-choosing/assets/art/Sorcerous_Skulls_Swarm.webp",
+	"vOTFqODTDDC2BDLx": {
+		"actor": "modules/dimetria/assets/stolen-fate/art/Rancorous%20Priesthood.webp",
 		"token": {
-			"img": "modules/pf2e-ap190-the-choosing/assets/tokens/Sorcerous_Skulls_Swarm%20copy.webp",
+			"img": "modules/dimetria/assets/stolen-fate/tokens/Rancorous%20Priesthood.webp",
+			"scale": 1.5
+		}
+	},
+	"aX0zhmJGzpnwCwMr": {
+		"actor": "modules/dimetria/assets/stolen-fate/art/Feral%20Skull%20Swarm.webp",
+		"token": {
+			"img": "modules/dimetria/assets/stolen-fate/tokens/Feral%20Skull%20Swarm.webp",
+			"scale": 1.5
+		}
+	},
+	"EMT6L7RarzkSiEOq": {
+		"actor": "modules/dimetria/assets/stolen-fate/art/Living%20Rune.webp",
+		"token": {
+			"img": "modules/dimetria/assets/stolen-fate/tokens/Living%20Rune.webp",
+			"scale": 1.2
+		}
+	},
+	"d5UfBtz09fOXKSmr": {
+		"actor": "modules/dimetria/assets/stolen-fate/art/Remnant.webp",
+		"token": {
+			"img": "modules/dimetria/assets/stolen-fate/tokens/Remnant.webp",
+			"scale": 1.5
+		}
+	},	
+	"YO3aTYRNGXWiSRal": {
+		"actor": "modules/dimetria/assets/stolen-fate/art/Sorcerous_Skulls_Swarm.webp",
+		"token": {
+			"img": "modules/dimetria/assets/stolen-fate/tokens/Sorcerous_Skulls_Swarm%20copy.webp",
 			"scale": 1.5
 		}
 	},
 	"mbu0D45HPRNAwgEU": {
-		"actor": "modules/pf2e-ap190-the-choosing/assets/art/munagola.webp",
+		"actor": "modules/dimetria/assets/stolen-fate/art/munagola.webp",
 		"token": {
-			"img": "modules/pf2e-ap190-the-choosing/assets/tokens/munagola.webp",
+			"img": "modules/dimetria/assets/stolen-fate/tokens/munagola.webp",
 			"scale": 1.5
 		}
 	},
 	"CXCdPqMRX58sBQ9G": {
-		"actor": "modules/pf2e-ap190-the-choosing/assets/art/hellknight-cavalry-brigade.webp",
+		"actor": "modules/dimetria/assets/stolen-fate/art/hellknight-cavalry-brigade.webp",
 		"token": {
-			"img": "modules/pf2e-ap190-the-choosing/assets/tokens/hellknight-cavalry-brigade.webp",
+			"img": "modules/dimetria/assets/stolen-fate/tokens/hellknight-cavalry-brigade.webp",
 			"scale": 1.5
 		}
 	},	
@@ -2582,10 +2662,6 @@
 		"actor": "modules/dimetria/assets/blood-lords/ghost-kings-rage/art/pzo90186%20overlordNosferatu.webp",
 		"token": "modules/dimetria/assets/blood-lords/ghost-kings-rage/tokens/pzo90186%20overlordNosferatu.webp"
 	},
-	"d5UfBtz09fOXKSmr": {
-		"actor": "modules/dimetria/assets/blood-lords/ghost-kings-rage/art/NEMHAIN.webp",
-		"token": "modules/dimetria/assets/blood-lords/ghost-kings-rage/tokens/NEMHAIN.webp"
-	},	  
 	"AybyC0n2CWNbXAbK": {
 		"actor": "modules/dimetria/assets/blood-lords/taste-of-ashes/art/POPOBAWA.webp",
 		"token": "modules/dimetria/assets/blood-lords/taste-of-ashes/tokens/POPOBAWA.webp"
@@ -2673,16 +2749,16 @@
   },
   "npc-gallery": {
 	"TCzxsJQjUpy02CsJ": {
-		"actor": "modules/pf2e-ap190-the-choosing/assets/art/Shoanti%20Human%20Tracker%202.webp",
+		"actor": "modules/dimetria/assets/stolen-fate/art/Shoanti%20Human%20Tracker%202.webp",
 		"token": {
-			"img": "modules/pf2e-ap190-the-choosing/assets/tokens/Shoanti%20Human%20Tracker%202.webp",
+			"img": "modules/dimetria/assets/stolen-fate/tokens/Shoanti%20Human%20Tracker%202.webp",
 			"scale": 1.5
 		}
 	},
 	"GoGNtiHuYycppLPk": {
-		"actor": "modules/pf2e-ap190-the-choosing/assets/art/Skawnak.webp",
+		"actor": "modules/dimetria/assets/stolen-fate/art/Skawnak.webp",
 		"token": {
-			"img": "modules/pf2e-ap190-the-choosing/assets/tokens/Skawnak.webp",
+			"img": "modules/dimetria/assets/stolen-fate/tokens/Skawnak.webp",
 			"scale": 1.5
 		}
 	},	
@@ -3213,199 +3289,444 @@
 	}
   },
   "stolen-fate-bestiary": {
-	"0C9muUhjn4vAL5UW": {
-		"actor": "modules/pf2e-ap190-the-choosing/assets/art/PZO90190%20Ferrugon.webp",
+	"okLgvERf3ul8JxKk": {
+		"actor": "modules/dimetria/assets/stolen-fate/art/PZO90191%20ALL-SEEING%20HAJECK.webp",
 		"token": {
-			"img": "modules/pf2e-ap190-the-choosing/assets/tokens/PZO90190%20Ferrugon.webp",
+			"img": "modules/dimetria/assets/stolen-fate/tokens/PZO90191%20HAJECK.webp",
+			"scale": 1.5
+		}
+	},
+	"FHBQg45hdMXLqy3I": {
+		"actor": "modules/dimetria/assets/stolen-fate/art/PZO90188%20VROCK.webp",
+		"token": {
+			"img": "modules/dimetria/assets/stolen-fate/tokens/PZO90188%20VROCK.webp",
+			"scale": 1.5
+		}
+	},
+	"ZBMuaCCbIdv8euNx": {
+		"actor": "modules/dimetria/assets/stolen-fate/art/PZO90191%20Yellow%20Prophet.webp",
+		"token": {
+			"img": "modules/dimetria/assets/stolen-fate/tokens/PZO90191%20Yellow%20Prophet.webp",
+			"scale": 1.5
+		}
+	},
+	"a5B1GrGkM97l20Wk": {
+		"actor": "modules/dimetria/assets/stolen-fate/art/PZO90191%20galzarokh.webp",
+		"token": {
+			"img": "modules/dimetria/assets/stolen-fate/tokens/PZO90191%20galzarokh.webp",
+			"scale": 1.5
+		}
+	},
+	"mLDzt35dEHUimp1E": {
+		"actor": "modules/dimetria/assets/stolen-fate/art/PZO90191%20demonic%20Rabble.webp",
+		"token": {
+			"img": "modules/dimetria/assets/stolen-fate/tokens/PZO90191%20demonic%20Rabble.webp",
+			"scale": 2
+		}
+	},
+	"2crt0oeOnu3G3Nhw": {
+		"actor": "modules/dimetria/assets/stolen-fate/art/PZO90191%20demongate%20Colossus.webp",
+		"token": {
+			"img": "modules/dimetria/assets/stolen-fate/tokens/PZO90191%20demongate%20Colossus.webp",
+			"scale": 1.5
+		}
+	},
+	"jXjo59pIAMteUtUD": {
+		"actor": "modules/dimetria/assets/stolen-fate/art/PZO90191%20Shadow%20Prince.webp",
+		"token": {
+			"img": "modules/dimetria/assets/stolen-fate/tokens/PZO90191%20Shadow%20Prince.webp",
+			"scale": 2
+		}
+	},
+	"KPwAtJ0wFmMTFfWV": {
+		"actor": "modules/dimetria/assets/stolen-fate/art/Aluum.webp",
+		"token": {
+			"img": "modules/dimetria/assets/stolen-fate/tokens/Aluum.webp",
+			"scale": 2
+		}
+	},
+	"2J1wbM7u7rU7yDzo": {
+		"actor": "modules/dimetria/assets/stolen-fate/art/PZO90191%20Crystal%20Sentinel.webp",
+		"token": {
+			"img": "modules/dimetria/assets/stolen-fate/tokens/PZO90191%20Crystal%20Sentinel.webp",
+			"scale": 1.5
+		}
+	},
+	"IxLbsbIVhclXMf9M": {
+		"actor": "modules/dimetria/assets/stolen-fate/tokens/hazard.webp",
+		"token": {
+			"img": "modules/dimetria/assets/stolen-fate/tokens/hazard.webp",
+			"scale": 1.5
+		}
+	},
+	"jH57QwQxH7aBs56G": {
+		"actor": "modules/dimetria/assets/stolen-fate/art/PZO90191%20hadi%20Mob.webp",
+		"token": {
+			"img": "modules/dimetria/assets/stolen-fate/tokens/PZO90191%20hadi%20Mob.webp",
+			"scale": 1.5
+		}
+	},
+	"25cRUcUTP3rK5qjU": {
+		"actor": "modules/dimetria/assets/stolen-fate/art/PZO90191%20TREXIMA%20BUTOI.webp",
+		"token": {
+			"img": "modules/dimetria/assets/stolen-fate/tokens/PZO90191%20TREXIMA%20BUTOI.webp",
+			"scale": 2
+		}
+	},
+	"VCn8GC3XXCES5Cns": {
+		"actor": "modules/dimetria/assets/stolen-fate/art/PZO90191%20Quoppopak%20Mummy.webp",
+		"token": {
+			"img": "modules/dimetria/assets/stolen-fate/tokens/PZO90191%20Quoppopak%20Mummy.webp",
+			"scale": 1.5
+		}
+	},
+	"KqZXzqkMnftu8tGb": {
+		"actor": "modules/dimetria/assets/stolen-fate/tokens/hazard.webp",
+		"token": {
+			"img": "modules/dimetria/assets/stolen-fate/tokens/hazard.webp",
+			"scale": 1.5
+		}
+	},
+	"lJnVbE89rKEYJ3Hw": {
+		"actor": "modules/dimetria/assets/stolen-fate/art/Aquatic%20Viper%20Vine.webp",
+		"token": {
+			"img": "modules/dimetria/assets/stolen-fate/tokens/Aquatic%20Viper%20Vine.webp",
+			"scale": 1.5
+		}
+	},
+	"J7QJMfQZlOd7DOq5": {
+		"actor": "modules/dimetria/assets/stolen-fate/art/PZO90191%20Markish%20Aghayarea.webp",
+		"token": {
+			"img": "modules/dimetria/assets/stolen-fate/tokens/PZO90191%20Markish%20Aghayarea.webp",
+			"scale": 1.5
+		}
+	},
+	"31xsWAhXQnk2jfIx": {
+		"actor": "modules/dimetria/assets/stolen-fate/art/PZO90191%20Xiuli%20Cachu.webp",
+		"token": {
+			"img": "modules/dimetria/assets/stolen-fate/tokens/PZO90191%20Xiuli%20Cachu.webp",
+			"scale": 1.5
+		}
+	},
+	"26mSMWZwuYBRDhBM": {
+		"actor": "modules/dimetria/assets/stolen-fate/art/Crystalline%20Sentinel%20and%20Arzuu.webp",
+		"token": {
+			"img": "modules/dimetria/assets/stolen-fate/tokens/Crystalline%20Sentinel%20and%20Arzuu.webp",
+			"scale": 1.5
+		}
+	},
+	"vooxDReQX3ztMXNj": {
+		"actor": "modules/dimetria/assets/stolen-fate/art/Crystalline%20Sentinel%20and%20Arzuu.webp",
+		"token": {
+			"img": "modules/dimetria/assets/stolen-fate/tokens/Crystalline%20Sentinel%20and%20Arzuu.webp",
+			"scale": 1.5
+		}
+	},
+	"6z5AD99UV8IWMtRU": {
+		"actor": "modules/dimetria/assets/stolen-fate/art/PZO90191%20Vehanezhad.webp",
+		"token": {
+			"img": "modules/dimetria/assets/stolen-fate/tokens/PZO90191%20Vehanezhad.webp",
+			"scale": 2
+		}
+	},
+	"hDqXrKVrjXWjb3K4": {
+		"actor": "modules/dimetria/assets/stolen-fate/tokens/hazard.webp",
+		"token": {
+			"img": "modules/dimetria/assets/stolen-fate/tokens/hazard.webp",
+			"scale": 1.5
+		}
+	},
+	"YKrPvUlwwUv4Wuda": {
+		"actor": "modules/dimetria/assets/stolen-fate/tokens/hazard.webp",
+		"token": {
+			"img": "modules/dimetria/assets/stolen-fate/tokens/hazard.webp",
+			"scale": 1.5
+		}
+	},
+	"zw2JQhb4cHkDk2zb": {
+		"actor": "modules/dimetria/assets/stolen-fate/art/Blood-Pear%20Tree.webp",
+		"token": {
+			"img": "modules/dimetria/assets/stolen-fate/tokens/Blood-Pear%20Tree.webp",
+			"scale": 2
+		}
+	},
+	"fcMf5NrHPZS54Hkd": {
+		"actor": "modules/dimetria/assets/stolen-fate/art/PZO90191%20phylacator.webp",
+		"token": {
+			"img": "modules/dimetria/assets/stolen-fate/tokens/PZO90191%20phylacator.webp",
+			"scale": 2
+		}
+	},
+	"334vtiUd5J507PsX": {
+		"actor": "modules/dimetria/assets/stolen-fate/art/PZO90191%20ephlaites.webp",
+		"token": {
+			"img": "modules/dimetria/assets/stolen-fate/tokens/PZO90191%20ephlaites.webp",
+			"scale": 1.5
+		}
+	},
+	"9CR1pTY23jFPi5Xn": {
+		"actor": "modules/dimetria/assets/stolen-fate/art/PZO90191%20Sonnorae.webp",
+		"token": {
+			"img": "modules/dimetria/assets/stolen-fate/tokens/PZO90191%20Sonnorae.webp",
+			"scale": 1.5
+		}
+	},
+	"WDHwcznFKZ0DlXoI": {
+		"actor": "modules/dimetria/assets/stolen-fate/tokens/hazard.webp",
+		"token": {
+			"img": "modules/dimetria/assets/stolen-fate/tokens/hazard.webp",
+			"scale": 1.5
+		}
+	},
+	"s8pBIwZjOdep4Lfp": {
+		"actor": "modules/dimetria/assets/stolen-fate/art/PZO90191%20katpaskir.webp",
+		"token": {
+			"img": "modules/dimetria/assets/stolen-fate/tokens/PZO90191%20katpaskir.webp",
+			"scale": 2
+		}
+	},
+	"RLuLdBW6SSs9u2hL": {
+		"actor": "modules/dimetria/assets/stolen-fate/art/PZO90191%20Mogaran.webp",
+		"token": {
+			"img": "modules/dimetria/assets/stolen-fate/tokens/PZO90191%20Mogaran.webp",
+			"scale": 2
+		}
+	},
+	"asagrj8H4W7ioops": {
+		"actor": "modules/dimetria/assets/stolen-fate/art/PZO90191%20PRINCE%20OF%20WOLVES.webp",
+		"token": {
+			"img": "modules/dimetria/assets/stolen-fate/tokens/PZO90191%20PRINCE%20OF%20WOLVES%20portrait.webp",
+			"scale": 1.5
+		}
+	},
+	"Rb85EObfBTL5Q3tU": {
+		"actor": "modules/dimetria/assets/stolen-fate/art/PZO90191%20derhii.webp",
+		"token": {
+			"img": "modules/dimetria/assets/stolen-fate/tokens/PZO90191%20derhii.webp",
+			"scale": 2
+		}
+	},
+	"VoGTpuwRkzzqwMgS": {
+		"actor": "modules/dimetria/assets/stolen-fate/art/PZO90191%20USILKET.webp",
+		"token": {
+			"img": "modules/dimetria/assets/stolen-fate/tokens/PZO90191%20USILKET%20Portrait.webp",
+			"scale": 1.5
+		}
+	},
+	"9uUmyAyVVq3bowo7": {
+		"actor": "modules/dimetria/assets/stolen-fate/art/PZO90191%20galzarokh.webp",
+		"token": {
+			"img": "modules/dimetria/assets/stolen-fate/tokens/PZO90191%20galzarokh.webp",
+			"scale": 1.5
+		}
+	},
+	"Cj0oleWD4YOmT1Mn": {
+		"actor": "modules/dimetria/assets/stolen-fate/art/Voricose.webp",
+		"token": {
+			"img": "modules/dimetria/assets/stolen-fate/tokens/Voricose.webp",
+			"scale": 2
+		}
+	},
+	"jYHPxFsTUS6jGY4a": {
+		"actor": "modules/dimetria/assets/stolen-fate/art/PZO90191%20Tick%20Tock.webp",
+		"token": {
+			"img": "modules/dimetria/assets/stolen-fate/tokens/PZO90191%20Tick%20Tock.webp",
+			"scale": 1.2
+		}
+	},	
+	"0C9muUhjn4vAL5UW": {
+		"actor": "modules/dimetria/assets/stolen-fate/art/PZO90190%20Ferrugon.webp",
+		"token": {
+			"img": "modules/dimetria/assets/stolen-fate/tokens/PZO90190%20Ferrugon.webp",
 			"scale": 2
 		}
 	},
 	"pFs3lFkXrwNNUsDf": {
-		"actor": "modules/pf2e-ap190-the-choosing/assets/art/PZO90190%20MERCENARY%20ASSASSIN.webp",
+		"actor": "modules/dimetria/assets/stolen-fate/art/PZO90190%20MERCENARY%20ASSASSIN.webp",
 		"token": {
-			"img": "modules/pf2e-ap190-the-choosing/assets/tokens/PZO90190%20MERCENARY%20ASSASSIN.webp",
+			"img": "modules/dimetria/assets/stolen-fate/tokens/PZO90190%20MERCENARY%20ASSASSIN.webp",
 			"scale": 1.5
 		}
 	},
 	"mgFca9LCxEI3pqc7": {
-		"actor": "modules/pf2e-ap190-the-choosing/assets/art/PZO90190%20Vharnev%20The%20Butcher.webp",
+		"actor": "modules/dimetria/assets/stolen-fate/art/PZO90190%20Vharnev%20The%20Butcher.webp",
 		"token": {
-			"img": "modules/pf2e-ap190-the-choosing/assets/tokens/PZO90190%20Vharnev%20The%20Butcher.webp",
+			"img": "modules/dimetria/assets/stolen-fate/tokens/PZO90190%20Vharnev%20The%20Butcher.webp",
 			"scale": 2
 		}
 	},
 	"WguseVujp1LjEzq4": {
-		"actor": "modules/pf2e-ap190-the-choosing/assets/art/PZO90190_unilla.webp",
+		"actor": "modules/dimetria/assets/stolen-fate/art/PZO90190_unilla.webp",
 		"token": {
-			"img": "modules/pf2e-ap190-the-choosing/assets/tokens/PZO90190_unilla.webp",
+			"img": "modules/dimetria/assets/stolen-fate/tokens/PZO90190_unilla.webp",
 			"scale": 1.5
 		}
 	},
 	"F902rCNyW8cVyBEp": {
-		"actor": "modules/pf2e-ap190-the-choosing/assets/art/PZO90190_unilla.webp",
+		"actor": "modules/dimetria/assets/stolen-fate/art/PZO90190_unilla.webp",
 		"token": {
-			"img": "modules/pf2e-ap190-the-choosing/assets/tokens/PZO90190_unilla.webp",
+			"img": "modules/dimetria/assets/stolen-fate/tokens/PZO90190_unilla.webp",
 			"scale": 1.5
 		}
 	},
 	"Bn7bG2gbyXYj7mzT": {
-		"actor": "modules/pf2e-ap190-the-choosing/assets/art/Dieral%20Myrnese.webp",
+		"actor": "modules/dimetria/assets/stolen-fate/art/Dieral%20Myrnese.webp",
 		"token": {
-			"img": "modules/pf2e-ap190-the-choosing/assets/tokens/Dieral%20Myrnese.webp",
+			"img": "modules/dimetria/assets/stolen-fate/tokens/Dieral%20Myrnese.webp",
 			"scale": 1.5
 		}
 	},
 	"Yg5xl1lu0211JVi7": {
-		"actor": "modules/pf2e-ap190-the-choosing/assets/art/PZO90190%20Raskus.webp",
+		"actor": "modules/dimetria/assets/stolen-fate/art/PZO90190%20Raskus.webp",
 		"token": {
-			"img": "modules/pf2e-ap190-the-choosing/assets/tokens/PZO90190%20Raskus.webp",
+			"img": "modules/dimetria/assets/stolen-fate/tokens/PZO90190%20Raskus.webp",
 			"scale": 1.5
 		}
 	},
 	"d68XkPVTpU42q8Gj": {
-		"actor": "modules/pf2e-ap190-the-choosing/assets/art/Mivanian%20Soldier.webp",
+		"actor": "modules/dimetria/assets/stolen-fate/art/Mivanian%20Soldier.webp",
 		"token": {
-			"img": "modules/pf2e-ap190-the-choosing/assets/tokens/Mivanian%20Soldier.webp",
+			"img": "modules/dimetria/assets/stolen-fate/tokens/Mivanian%20Soldier.webp",
 			"scale": 1.5
 		}
 	},
 	"u5o9uU9Saweij7mF": {
-		"actor": "modules/pf2e-ap190-the-choosing/assets/art/PZO90190_hurlilu.webp",
+		"actor": "modules/dimetria/assets/stolen-fate/art/PZO90190_hurlilu.webp",
 		"token": {
-			"img": "modules/pf2e-ap190-the-choosing/assets/tokens/PZO90190_hurlilu.webp",
+			"img": "modules/dimetria/assets/stolen-fate/tokens/PZO90190_hurlilu.webp",
 			"scale": 1.5
 		}
 	},
 	"mJyUqZYPGrCx13oT": {
-		"actor": "modules/pf2e-ap190-the-choosing/assets/art/PZO90190_oppali.webp",
+		"actor": "modules/dimetria/assets/stolen-fate/art/PZO90190_oppali.webp",
 		"token": {
-			"img": "modules/pf2e-ap190-the-choosing/assets/tokens/PZO90190_oppali.webp",
+			"img": "modules/dimetria/assets/stolen-fate/tokens/PZO90190_oppali.webp",
 			"scale": 1.5
 		}
 	},
 	"ttUZn9WMNZzG9YdZ": {
-		"actor": "modules/pf2e-ap190-the-choosing/assets/art/PZO90190%20BHANYADA%20SCAVENGER.webp",
+		"actor": "modules/dimetria/assets/stolen-fate/art/PZO90190%20BHANYADA%20SCAVENGER.webp",
 		"token": {
-			"img": "modules/pf2e-ap190-the-choosing/assets/tokens/PZO90190%20BHANYADA%20SCAVENGER.webp",
+			"img": "modules/dimetria/assets/stolen-fate/tokens/PZO90190%20BHANYADA%20SCAVENGER.webp",
 			"scale": 1.5
 		}
 	},
 	"eF3ndkXtyeMHpzZb": {
-		"actor": "modules/pf2e-ap190-the-choosing/assets/art/PZO90190%20BHANYADA%20BEHEMOTH.webp",
+		"actor": "modules/dimetria/assets/stolen-fate/art/PZO90190%20BHANYADA%20BEHEMOTH.webp",
 		"token": {
-			"img": "modules/pf2e-ap190-the-choosing/assets/tokens/PZO90190%20BHANYADA%20BEHEMOTH.webp",
+			"img": "modules/dimetria/assets/stolen-fate/tokens/PZO90190%20BHANYADA%20BEHEMOTH.webp",
 			"scale": 2
 		}
 	},
 	"ax9j12x0JqBBPE5M": {
-		"actor": "modules/pf2e-ap190-the-choosing/assets/art/PZO90190%20BHANYADA%20SCAVENGER.webp",
+		"actor": "modules/dimetria/assets/stolen-fate/art/PZO90190%20BHANYADA%20SCAVENGER.webp",
 		"token": {
-			"img": "modules/pf2e-ap190-the-choosing/assets/tokens/PZO90190%20BHANYADA%20SCAVENGER.webp",
+			"img": "modules/dimetria/assets/stolen-fate/tokens/PZO90190%20BHANYADA%20SCAVENGER.webp",
 			"scale": 1.2
 		}
 	},
 	"tVZ7ijV3W1HmMwzz": {
-		"actor": "modules/pf2e-ap190-the-choosing/assets/art/PZO90190%20Scaleseed%20nagaji.webp",
+		"actor": "modules/dimetria/assets/stolen-fate/art/PZO90190%20Scaleseed%20nagaji.webp",
 		"token": {
-			"img": "modules/pf2e-ap190-the-choosing/assets/tokens/PZO90190%20Scaleseed%20nagaji.webp",
+			"img": "modules/dimetria/assets/stolen-fate/tokens/PZO90190%20Scaleseed%20nagaji.webp",
 			"scale": 1.5
 		}
 	},
 	"590fsfQ1S0dF1C3Z": {
-		"actor": "modules/pf2e-ap190-the-choosing/assets/art/PZO90190%20Kannijo.webp",
+		"actor": "modules/dimetria/assets/stolen-fate/art/PZO90190%20Kannijo.webp",
 		"token": {
-			"img": "modules/pf2e-ap190-the-choosing/assets/tokens/PZO90190%20Kannijo.webp",
+			"img": "modules/dimetria/assets/stolen-fate/tokens/PZO90190%20Kannijo.webp",
 			"scale": 1.5
 		}
 	},
 	"UX7QKytewemOnNeX": {
-		"actor": "modules/pf2e-ap190-the-choosing/assets/tokens/hazard.webp",
+		"actor": "modules/dimetria/assets/stolen-fate/tokens/hazard.webp",
 		"token": {
-			"img": "modules/pf2e-ap190-the-choosing/assets/tokens/hazard.webp",
+			"img": "modules/dimetria/assets/stolen-fate/tokens/hazard.webp",
 			"scale": 1.5
 		}
 	},
 	"IKlSxZfyN1wRZsQn": {
-		"actor": "modules/pf2e-ap190-the-choosing/assets/art/PZO90190%20SHALDAR%20FALLS%20FAR%20portrait.webp",
+		"actor": "modules/dimetria/assets/stolen-fate/art/PZO90190%20SHALDAR%20FALLS%20FAR%20portrait.webp",
 		"token": {
-			"img": "modules/pf2e-ap190-the-choosing/assets/tokens/PZO90190%20SHALDAR%20FALLS%20FAR%20portrait.webp",
+			"img": "modules/dimetria/assets/stolen-fate/tokens/PZO90190%20SHALDAR%20FALLS%20FAR%20portrait.webp",
 			"scale": 1.5
 		}
 	},
 	"3OE96zZHIAnMbYWj": {
-		"actor": "modules/pf2e-ap190-the-choosing/assets/art/PZO90190%20Endlo%20kiver.webp",
+		"actor": "modules/dimetria/assets/stolen-fate/art/PZO90190%20Endlo%20kiver.webp",
 		"token": {
-			"img": "modules/pf2e-ap190-the-choosing/assets/tokens/PZO90190%20Endlo%20kiver.webp",
+			"img": "modules/dimetria/assets/stolen-fate/tokens/PZO90190%20Endlo%20kiver.webp",
 			"scale": 3
 		}
 	},
 	"pLbDF5JJoF93vgwL": {
-		"actor": "modules/pf2e-ap190-the-choosing/assets/art/PZO90190%20Blade%20Mercenary.webp",
+		"actor": "modules/dimetria/assets/stolen-fate/art/PZO90190%20Blade%20Mercenary.webp",
 		"token": {
-			"img": "modules/pf2e-ap190-the-choosing/assets/tokens/PZO90190%20Blade%20Mercenary.webp",
+			"img": "modules/dimetria/assets/stolen-fate/tokens/PZO90190%20Blade%20Mercenary.webp",
 			"scale": 1.5
 		}
 	},
 	"bsjCqkz0jIv9LOBS": {
-		"actor": "modules/pf2e-ap190-the-choosing/assets/art/Harpy%20Warbird.webp",
+		"actor": "modules/dimetria/assets/stolen-fate/art/Harpy%20Warbird.webp",
 		"token": {
-			"img": "modules/pf2e-ap190-the-choosing/assets/tokens/Harpy%20Warbird.webp",
+			"img": "modules/dimetria/assets/stolen-fate/tokens/Harpy%20Warbird.webp",
 			"scale": 1.5
 		}
 	},
 	"88n1uQqK5XbIGnUF": {
-		"actor": "modules/pf2e-ap190-the-choosing/assets/art/PZO90190%20Queen%20kawlinawk.webp",
+		"actor": "modules/dimetria/assets/stolen-fate/art/PZO90190%20Queen%20kawlinawk.webp",
 		"token": {
-			"img": "modules/pf2e-ap190-the-choosing/assets/tokens/PZO90190%20Queen%20kawlinawk.webp",
+			"img": "modules/dimetria/assets/stolen-fate/tokens/PZO90190%20Queen%20kawlinawk.webp",
 			"scale": 1.5
 		}
 	},
 	"8DBXzHdkxiSOVeKu": {
-		"actor": "modules/pf2e-ap190-the-choosing/assets/tokens/hazard.webp",
+		"actor": "modules/dimetria/assets/stolen-fate/tokens/hazard.webp",
 		"token": {
-			"img": "modules/pf2e-ap190-the-choosing/assets/tokens/hazard.webp",
+			"img": "modules/dimetria/assets/stolen-fate/tokens/hazard.webp",
 			"scale": 1.5
 		}
 	},
 	"JPdT5ahsfGdvc3v5": {
-		"actor": "modules/pf2e-ap190-the-choosing/assets/tokens/hazard.webp",
+		"actor": "modules/dimetria/assets/stolen-fate/tokens/hazard.webp",
 		"token": {
-			"img": "modules/pf2e-ap190-the-choosing/assets/tokens/hazard.webp",
+			"img": "modules/dimetria/assets/stolen-fate/tokens/hazard.webp",
 			"scale": 1.5
 		}
 	},
 	"7ze52pL9OFjZBGWa": {
-		"actor": "modules/pf2e-ap190-the-choosing/assets/art/PZO90190%20Blade%20magi.webp",
+		"actor": "modules/dimetria/assets/stolen-fate/art/PZO90190%20Blade%20magi.webp",
 		"token": {
-			"img": "modules/pf2e-ap190-the-choosing/assets/tokens/PZO90190%20Blade%20magi.webp",
+			"img": "modules/dimetria/assets/stolen-fate/tokens/PZO90190%20Blade%20magi.webp",
 			"scale": 3
 		}
 	},
 	"oWFqioYktqayWFlS": {
-		"actor": "modules/pf2e-ap190-the-choosing/assets/art/PZO90190_arodeth.webp",
+		"actor": "modules/dimetria/assets/stolen-fate/art/PZO90190_arodeth.webp",
 		"token": {
-			"img": "modules/pf2e-ap190-the-choosing/assets/tokens/PZO90190%20ARODETH%20portrait.webp",
+			"img": "modules/dimetria/assets/stolen-fate/tokens/PZO90190%20ARODETH%20portrait.webp",
 			"scale": 1.5
 		}
 	},
 	"Zglw4NiZRVgmuI5x": {
-		"actor": "modules/pf2e-ap190-the-choosing/assets/art/PZO90190%20NDED%20FALSE%20FORM%20portrait.webp",
+		"actor": "modules/dimetria/assets/stolen-fate/art/PZO90190%20NDED%20FALSE%20FORM%20portrait.webp",
 		"token": {
-			"img": "modules/pf2e-ap190-the-choosing/assets/tokens/PZO90190%20NDED%20FALSE%20FORM%20portrait.webp",
+			"img": "modules/dimetria/assets/stolen-fate/tokens/PZO90190%20NDED%20FALSE%20FORM%20portrait.webp",
 			"scale": 1.5
 		}
 	},
 	"nBhR5WE7M1cp1fEm": {
-		"actor": "modules/pf2e-ap190-the-choosing/assets/art/PZO90190%20DRUSTAN%20portrait.webp",
+		"actor": "modules/dimetria/assets/stolen-fate/art/PZO90190%20DRUSTAN%20portrait.webp",
 		"token": {
-			"img": "modules/pf2e-ap190-the-choosing/assets/tokens/PZO90190%20DRUSTAN%20portrait.webp",
+			"img": "modules/dimetria/assets/stolen-fate/tokens/PZO90190%20DRUSTAN%20portrait.webp",
 			"scale": 1.5
 		}
 	},
 	"bmCBmw4pQeEIelkY": {
-		"actor": "modules/pf2e-ap190-the-choosing/assets/art/PZO90190_hurlilu.webp",
+		"actor": "modules/dimetria/assets/stolen-fate/art/PZO90190_hurlilu.webp",
 		"token": {
-			"img": "modules/pf2e-ap190-the-choosing/assets/tokens/PZO90190_hurlilu.webp",
+			"img": "modules/dimetria/assets/stolen-fate/tokens/PZO90190_hurlilu.webp",
 			"scale": 1.5
 		}
 	}
